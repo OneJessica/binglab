@@ -1,0 +1,683 @@
+,name,antibody_type,company,catalog,lot,host_species,colonality,isotype,target_species,conjugation,application,workability,working_concentration,antibody_concentration,company_ref,url,note,is_available,is_great,location
+0,JMJD3,一抗,,,,,,,,,,,,,,,,,,Box1-A1
+1,Anti-MYBPC3,一抗,Sigma,HPA043898,,Rabbit,Polyclonal,,human,,"IHC,IF",IF,1:500-1:1000,,,,个人保存位置：吴硕,Y,Y,Box1-A2
+2,"FITC, Goat Anti-Rabbit IgG(H+L)",二抗,Earthox,E031220-01,,Goat,,,,,IF,IF,1:100,,,,个人保存位置:胡欢,,,Box1-A3
+3,NELFA,一抗,Bethyl Laboratories,A301-910A,,Rabbit,Polyclonal,IgG,H M R Mink,,"WB, IP, IHC-P, IF",,,,,,,,,Box1-A4
+4,hAFF4,一抗,,,,Rabbit,,,,,,,,,,,,,,Box1-A5
+5,MYBPC3 抗体 (E-7),一抗,Sant Cruz Biotechnology,sc-137180,,Mouse,Monoclonal,,H M R,,WB IHC ELISA,WB,1:500,200 µg/ml,,,个人保存位置：吴硕,Y,Y,Box1-A6
+6,a-actinin (Alpha-actinin-4),一抗,Santa,sc7454,,Rabbit,,,"H,M,R",,WB,,1:7000 FOR WB,,,,,,,Box1-A7
+7,Gata4,一抗,Chemicon,AB4132,,Rabbit,,,"H,M,R",,"WB, IHC",,1:200-1:1000,,sigma,,已经被sigma收购 ，货号为网页查询后补充,,,Box1-A8
+8,jagged 1,一抗,Santa,sc-6011,,Goat,,,"H, M,R",,"WB, IHC",,1:500 FOR WB,,,,,,,Box1-A9
+9,Dicer,一抗,Santa,sc25117,,Goat,,,"H, M,R",,WB,,,,,,,,,Box1-A10
+10,Ps 4a4,一抗,,,,,,,,,,,,,,,,,,Box1-B1
+11,"Cy3, Goat Anti-Mouse IgG(H+L)",二抗,Earthox,E031610-01,,Goat,,,,,,,1:200,,,,个人保存位置:胡欢,,,Box1-B2
+12,anti V5,一抗,Invitrogen,R960-25,,Mouse,,,,,"WB, IHC",,,,,,"The Anti-V5 Antibody allows detection of recombinant proteins containing the V5 epitope. This epitope is found in the P and V proteins of the paramyxovirus, SV5 (Southern, et al., 1991). The Anti-V5 Antibody recognizes the 14 amino acid sequence:Gly-Lys-Pro-Ile-Pro-Asn-Pro-Leu-Leu-Gly-Leu-Asp-Ser-Thr",,,Box1-B3
+13,anti Gata2,一抗,Wisconncin,,,,Polyclonal,,,,,,,,,,,,,Box1-B4
+14,Anti-Sarcomeric Alpha Actinin antibody,一抗,Abcam,ab9465,,Mouse,,,"Rat, Human",,"IHC-P, WB",IF,1:50,1 mg/ml,,,个人保存位置：胡欢,Y,Y,Box1-B5
+15,Gata4,一抗,Santa,sc1237,,Goat,,,"M,R",,"WB,IHC",,1:300 FOR IF,,,,,,,Box1-B6
+16,AFF4 antibody,一抗,Bethyl,A302-538A,,Rabbit,Polyclonal,,human,,wb ip,wb,wb 1;500,1mg/ml,,,个人保存位置：娄应梅,Y,Y,Box1-B7
+17,anti V5,一抗,Sigma,,,Rabbit,,,,,,,,,,,找不到抗体信息,,,Box1-B8
+18,BIOTIN-DONEY ANTI RAT,一抗,,,,Rabbit,,,,,,,,,,,找不到抗体信息,,,Box1-B9
+19,"MHC (Myosin heavy chain, embryonic and adult fast)",一抗,Dshb,EB165,,Mouse,,,"Chicken, Fish, Xenopus, Zebrafish",,,,,,,,,,,Box1-B10
+20,AFF1 antibody,一抗,Bethyl,A302-345A,,Rabbit,Polyclonal,,human,,wb ip,wb,wb 1;500,1mg/ml,,,个人保存位置：娄应梅,Y,Y,Box1-C1
+21,FGF9,一抗,Santa,SC8413,,Mouse,,,HUMAN,,"WB, IHC",,,,,,,,,Box1-C2
+22,CASP7,一抗,Cst,#9492,,Rabbit,,,H M R Mk,,WB,,1:1000 FOR WB,,,,,,,Box1-C3
+23,β-gal,一抗,Promega,E201A,,,,,,,,,,,,,,,,Box1-C4
+24,brd4 antibody,一抗,Bethyl,A301-985A,,Rabbit,Polyclonal,,human mouse,,wb ip ihc,wb,1:500,1mg/ml,,,个人保存位置：娄应梅,Y,Y,Box1-C5
+25,Cdc2 p34 (17),一抗,Santa,sc-54,,Mouse,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-C6
+26,CDK9 antobody,一抗,Cst,2316s,,Rabbit,Polyclonal,,H M R Hm Mk B Dg,,WB IP IF IHC,WB IP,WB 1:1000 IP;1:500,1mg/ml,,,个人保存位置：娄应梅,Y,Y,Box1-C7
+27,Hey2 antibody,一抗,Abclonal,A15143,,Rabbit,,,human mouse rat,,wb ip,wb ip,wb 1;500,,,,个人保存位置：刘星,Y,N,Box1-C8
+28,anti myc,一抗,Invitrogen,132500,,Mouse,,,"Human, Mouse",,"WB, IP, IHC, IF",,,,,,,,,Box1-C9
+29,cd36,一抗,Bd,555453,,Mouse,,,HUAMN,,FACS,,,,,,,,,Box1-C10
+30,Histone H1 (AE-4),一抗,Santa,sc-8030,,Mouse,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-D1
+31,normal goat IgG,二抗,,,,,,,,,,,,,,,,,,Box1-D2
+32,Bcl-xL (H-5),一抗,Santa,SC8392,,Mouse,,,"Human, mouse rat",,"WB,IHC, IF",,,,,,,,,Box1-D3
+33,GATA-4 (H-112),一抗,Santa,sc9053,,Rabbit,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-D4
+34,ELL2,一抗,,,,Rabbit,,,,,,,,,,,,,,Box1-D5
+35,BAD,一抗,Biolabs,AHP2422,,Rabbit,,,"Human, mouse rat",,"IF (1:10-1:100),WB (1:500-1:2000)",,,,,,,,,Box1-D6
+36,RBP3,一抗,,,,AB,Mixed,,,,,,,,,,,,,Box1-D7
+37,Robo4 (Roundabout homolog 4),一抗,Santa,SC67056,,Rabbit,,,HUAMN,,"IF,IP,WB,ELISA",,,,,,,,,Box1-D8
+38,Hey2 antibody,一抗,Proteintech,10597-1-AP,,Rabbit,Polyclonal,,human mouse,,wb ip,wb ip,wb 1;1000,300 ug/ml,,,个人保存位置：刘星,Y,N,Box1-D9
+39,Connexin 40 Monoclonal Antibody,一抗,Thermo,37-8900,,Mouse,Monoclonal,,human mouse,,if,if,if 1;50,,,,个人保存位置：刘星,,,Box1-D10
+40,cyclin B1 (H-433),一抗,Santa,SC752,,Rabbit,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-E1
+41,EMCN抗体,一抗,Santa Cruz,sc-65495,,Rat,Monoclonal,,mouse，rat,,if,if,if 1;200,,,,个人保存位置：刘星,,,Box1-E2
+42,Notch1,一抗,Santa,SC6014-R,,Rabbit,,,"Human, mouse rat",,"WB, IP, IHC, IF",,1:500 FOR WB,,,https://www.scbt.com/p/notch-1-antibody-c-20/,,,,Box1-E3
+43,C-MYC CLONE (9E10),一抗,Santa,SC-40,,Mouse,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-E4
+44,hAFF4 RB,一抗,,592,,Rabbit,,,,,,,,,,,查不到抗体信息,,,Box1-E5
+45,CAMKII,一抗,Abcam,ab13041,,Rabbit,,,"Mouse, Rat, Human",,"WB, IHC-P, ICC/IF, Flow Cyt (Intra)",,需要抗原修复1/250 - 1/500 for IHC; 1:1000-1:10000 FOR WB,,,,,,,Box1-E6
+46,VWF,一抗,Dako,A0082,,Rabbit,,,"Human, mouse rat",,"WB, IHC",,,,,,,,,Box1-E7
+47,Anti-Cardiac Troponin T抗体,一抗,Abcam,ab8295,,Mouse,Monoclonal,,"mouse,rat,dog,human",,if,if,if 1;50,,,,个人保存位置：刘星,,,Box1-E8
+48,MYOMESIN B4,一抗,Dshb,DMAB9591,,Mouse,Monoclonal,,"chicken, mouse, rabbit",,"WB, IHC, IF",,"2-5ug/ml for IF, 0.2-0.5 ug/ml FOR WB",,,,货号和产品信息网页查询补充，不一定准确,,,Box1-E9
+49,Recombinant Anti-Smad3 (phospho S423 + S425) antibody,一抗,Abcam,ab52903,,Rabbit,,,"Mouse, Human",,"WB, ICC/IF, IHC-P, Dot blot",,1:2000 for WB,,,https://www.abcam.com/smad3-phospho-s423--s425-antibody-ep823y-ab52903.html,"ab52903 detects Smad3 phosphorylated on Serine 423 and Serine 425. This Smad3 antibody may also detect Smad1, Smad2 and Smad5 phosphorylated at the equivalent sites.",,,Box1-E10
+50,Smad1 Antibody (A-4),一抗,Santa-Cruz,sc-7965,,Mouse,Polyclonal,IgG,H M R Mink,,W IP IF-IC F ChIP,wb,1:100-1:1000 FOR WB,,,,,,,Box2-A1
+51,Goat anti rabbit HRP,一抗,,,,,,,,,,,,0.5 MG/ML,,,,,,Box2-A2
+52,Donkey anti sheep HRP,一抗,,,,,,,,,,,,0.5 MG/ML,,,,,,Box2-A3
+53,Donkey anti GOAT HRP,一抗,Beyotime,A0181,,,,,,,,,,,,,,,,Box2-A4
+54,Donkey anti GOAT HRP,一抗,Santa-Cruz,SC-205,,,,,,,,,,,,,货号对应不上产品信息,,,Box2-A5
+55,Phospho-p44/42 MAPK (Erk1/2) (Thr202/Tyr204) Antibody,一抗,Cst,#9101S,,Rabbit,,,H M R Hm Mk Mi Dm Z B Pg Ce,,"WB,IP,IHC,IF,FACS",,1:1000 FOR WB,,,,,,,Box2-A6
+56,LSD1,一抗,Cst,2139S,,Rabbit,,,H M R Mk,,"WB,IP,IHC,IF,FACS,CHIP",,1:1000 FOR WB,,,,,,,Box2-A7
+57,GATA4(G-4),一抗,Santa-Cruz,SC-25310,,Mouse,,,"H, M, RAT",,"WB,IP,IHC,IF",,,,,,,,,Box2-A8
+58,ANTI Beta tubulin,一抗,Bpi,AbM59005-37B-PU,,Mouse,,,HUAMN,,"Elisa,WB,IF,IHC",,"1:5000 for WB, 1:10000 FOR IF",,北京华大,,北京华大,,,Box2-A9
+59,APC Rat anti-mouse FLK1,一抗,Bd Pharmingen,561993,,Rat,,,M,PE,FACS,FACS (Y),,,,,,,,Box2-A10
+60,Histone H3K4me3 antibody (pAb),一抗,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,IF,WB",,"""ChIP: 3 - 5 µl per ChIPChIP-Seq: 3 µl eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 µl per 50 µl reaction""",,,,,,,Box2-B1
+61,c-Fos （H-125)X,一抗,Santa-Cruz,sc-7202,,Rabbit,,,"H, M",,"WB, IHC",,,,,,,,,Box2-B2
+62,Fli-1(C-19)X,一抗,Santa-Cruz,sc-356,,Rabbit,Polyclonal,,H M R,,W IP IF-IC F ChIP,,,,,,a member of ETS1,,,Box2-B3
+63,ETS1,一抗,Santa-Cruz,sc-350,,Rabbit,Polyclonal,,H M R,,"CHIP, WB, IP","CHIP (Y) WB(Y), IP(Y)",1:5000,,,,,,,Box2-B4
+64,ETS2 (C20),一抗,Santa-Cruz,sc-351,,Rabbit,Polyclonal,,H M R,,"CHIP, WB, IP","CHIP(Y), WB(Y)",,,,,,,,Box2-B5
+65,Phospho-mTOR (Ser2448) Antibody,一抗,Cst,#2971,,Rabbit,,,H M R Mk,,WB,,1:1000 FOR WB,,,,,,,Box2-B6
+66,FLK1,一抗,Alpha Diagnostic Intl.Inc,#FLK11-A,,Rabbit,,,H M R,,"WB, ELISA",,1:500-1:1200 FOR WB,,,,,,,Box2-B7
+67,Ezh2 (D2C9) XP® Rabbit mAb,一抗,Cell Signaling,#5246,,Rabbit,Monoclonal,,"H,M,R,MK",,W IP IHC-P IF-IC ChIP,"CHIP (Y), IF (Y)",,,,,,,,Box2-B8
+68,c-Jun (60A8) Rabbit mAb,一抗,Cell Signaling,#9165S,,Rabbit,Polyclonal,,H M R Mk,,W IP IHC-P IHC-F IF-IC ChIP,WB(Y)CHIP(Y),,,,,,,,Box2-B9
+69,LARP7,一抗,Bethyl Laboratory,A303-723A,,Rabbit,Polyclonal,IgG,"H, M",,"WB, IP",WB,1:1000 WB,,,,,,,Box2-B10
+70,SUZ12 (D39F6) XP® Rabbit mAb,一抗,Cst,3737P,,Rabbit,Monoclonal,,H M R Mk,,"WB,IP,IHC,IF,FACS,CHIP,CUT-RUN",,1:1000 FOR WB; 1:100 FOR CHIP,,,,,,,Box2-C1
+71,RBPSUH (D10A4) XP ®,一抗,Cell Signaling,#5313S,1,Rabbit,Monoclonal,,H M R Mk,,W ChIP,"CHIP, WB",1:1000,,,,,,,Box2-C2
+72,Akt (pan) (11E7) Rabbit mAb,一抗,Cell Signaling,4685S,,Rabbit,Monoclonal,,H M R Mk,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box2-C3
+73,Phospho-Akt (Thr308) (D25E6) XP® Rabbit mAb,一抗,Cell Signaling,13038S,,Rabbit,Monoclonal,,H M R Mk,,"WB, IHC, IF, FACS",,1:1000 FOR WB,,,,,,,Box2-C4
+74,anti-Halo Tag,一抗,Promega,G928A,,Rabbit,Polyclonal,,All species,,"WB, IHC",,1:1000 for WB， 1:500 for IHC,,,,,,,Box2-C5
+75,BD Pharmingen™ Purified Rat Anti-Mouse Flk-1,一抗,Bd Pharmingen,550549,,Rat,Polyclonal,,M,,"FACS, IHC",,,,,,适合冰冻切片,,,Box2-C6
+76,Anti-trimethyl-Histone H3 (Lys27) Antibody,一抗,Millipore,07-449,,Rabbit,Polyclonal,,"H, M",,"WB, IP, IHC, IF",,,,,,,,,Box2-C7
+77,p300 (F-4),一抗,Santa,sc-48343,,Mouse,Monoclonal,,H M R,,"WB, IP, IHC, IF",,,,,,,,,Box2-C8
+78,anti-RFP,一抗,Rockland,p/n 600-401-379,,Rabbit,,,All species,,"ELISA, IF, IHC, WB, EM, FC, FISH, IP, Other",,"IF:1:1000; react with RFP, tdTomato, Expect reactivity against RFP and its variants: mCherry, tdTomato, mBanana, mOrange, mPlum, mOrange and mStrawberry.",,,https://www.rockland.com/categories/primary-antibodies/rfp-antibody-pre-adsorbed-600-401-379/,,,,Box2-C9
+79,Histone H3K27me1 antibody (mAb),一抗,Active Motif,#61015,,Mouse,Monoclonal,,"Human, Wide Range Predicted",,"CHIP,WB,IHC",,ChIP: 2 - 5 µg per ChIPChIP-Seq: 2 - 5 µg eachWB: 0.5 - 2 µg/ml dilution,,,,,,,Box2-C10
+80,"anti-RNA polymerase II, clone CTD4H8",一抗,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 μg/mL FOR WB,,,,,,,Box2-D1
+81,"anti-RNA polymerase II, clone CTD4H8",一抗,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 μg/mL FOR WB,,,,,,,Box2-D2
+82,NFATC2 Monoclonal Antibody,一抗,Thermo,MA1-025,,Mouse,Monoclonal,,"Human, Mouse, Rat",,"WB, IHC, IF, FACS, CHIP",,"1ug/ml for WB, 1:50-1:200 FOR IHC, 1:100-1:1000 FOR IF, 1-3UL FOR CHIP",,,,,,,Box2-D3
+83,hSET1 Polyclonal Antibody,一抗,Bethyl,A300-289A,,Rabbit,Polyclonal,,Human,,"WB, IHC(P),IP, CHIP",,"1:10,000-1:25,000 for WB",,thermo,,被 thermo收购了，蛋白别名: Histone-lysine N-methyltransferase SETD1A; hSET1A; Lysine N-methyltransferase 2F; SET domain-containing protein 1A; Set1/Ash2 histone methyltransferase complex subunit SET1,,,Box2-D4
+84,CRISPR-Cas9 antibody (CHIP GRADE),一抗,Diagenode,C15310258,,Rabbit,,,Streptococcus pyogenes cas9,,"CHIP, WB, IP, IF",,"1-2UL FOR CHIP-SEQ; 1:5000 FOR WB, 1UL/IP, 1:1000 FOR IF",,,,,,,Box2-D5
+85,kap1,一抗,Cst,4124s,,Rabbit,,,,,wb ip,wb ip,wb 1;1000,1ug/ul,,,个人保存位置：刘星,,,Box2-D6
+86,p44/42 MAPK (Erk1/2) (L34F12) Mouse mAb #4696,一抗,Cell Signaling Technology,4696T,,Mouse,Monoclonal,,H M R Mk Mi Z B Pg,,WB IHC IF,WB IF,WB1:2000 IHC1:250 IF1:100,251 µg/ml,,,个人保存位置：胡欢,N,Y,Box2-D7
+87,Phospho-p44/42 MAPK (Erk1) (Tyr204)/(Erk2) (Tyr187) (D1H6G) Mouse mAb #5726,一抗,Cell Signaling Technology,5726S,,Mouse,Monoclonal,,H M R Mk,,WB IF F,WB IF,WB1:1000 IF1:200 F1:400,560 µg/ml,,,个人保存位置：胡欢,Y,Y,Box2-D8
+88,Anti-MEK1 + MEK2 (phospho S222)抗体,一抗,Abcam,ab4750,,Rabbit,Polyclonal,,human mouse,,"ICC/IF, WB","IF, WB",WB1:1000 IF1:100,,,,个人保存位置：胡欢,Y,,Box2-D9
+89,Anti-alpha smooth muscle Actin antibody [1A4],一抗,ABcam,AB7817,,Mouse,Monoclonal,,H M R,,"IHC-P, ICC, WB, FC",,,,,https://www.abcam.com/en-us/products/primary-antibodies/alpha-smooth-muscle-actin-antibody-1a4-ab7817,,Y,,Box2-D10
+90,MEK1/2 Antibody,一抗,Cell Signaling Technology,9122S,,Rabbit,Polyclonal,,H M R Mk Dm,,WB IP,WB IP,WB1:1000 IP1:50,23 µg/ml,,,个人保存位置：胡欢,Y,Y,Box2-E1
+91,Pan Ras Monoclonal Antibody (Ras10),一抗,Thermo Fisher Scientific,MA1-012,,Mouse,Monoclonal,,"Human, Mouse, Non-human primate",,WB IHC IF F IP,,WB1:1000 IHC1:100 IF1:50,,,,个人保存位置：胡欢,Y,,Box2-E2
+92,p44/42 MAPK (Erk1/2) (L34F12) Mouse mAb #4696,一抗,Cell Signaling Technology,4696S,,Mouse,Monoclonal,,H M R Mk Mi Z B Pg,,WB IHC IF,WB IF,WB1:2000 IHC1:250 IF1:100,251 µg/ml,,,个人保存位置：胡欢,Y,Y,Box2-E3
+93,,,,,,,,,,,,,,,,,,,,Box2-E4
+94,"Phospho-MEK1/MEK2 (Ser218, Ser222, Ser226) Polyclonal Antibody",一抗,Thermo Fisher Scientific,44-454G,,Rabbit,Polyclonal,,"Human, Mouse, Rat",,"ICC/IF, WB",,"ICC/IF 5 µg/mL, WB1:1000",,,,个人保存位置：胡欢,Y,,Box2-E5
+95,,,,,,,,,,,,,,,,,,,,Box2-E6
+96,LARP1 Polyclonal antibody,一抗,Proteintech,13708-1-AP,,Rabbit,Polyclonal,,"Human, Mouse, Rat, Drosophila",,"IF/ICC, IHC, WB, ELISA","IF/ICC, IHC, WB, ELISA",WB : 1:2000-1:10000； IHC : 1:50-1:500； IF : 1:50-1:500,513 μg/ml,,,个人保存位置：程康,,,Box2-E7
+97,YTHDF2,一抗,Proteintech,24744-1-AP,,Rabbit,Polyclonal,,"Human, Mouse, Rat",,WB : 1:2000-1:12000IP : 4 ug for IP and 1:500-1:1000 for WBIF : 1:50-1:500,,WB : 1:2000-1:12000IP : 4 ug for IP and 1:500-1:1000 for WBIF : 1:50-1:500,,,,个人保存位置：熊俊浩,Y,N,Box2-E8
+98,METTL3,一抗,Proteintech,15073-1-AP,,Rabbit,Polyclonal,,"Human, Mouse, Monkey, Rat",,WB : 1:500-1:2000IP : 0.5-4.0 ug for IP and 1:1000-1:8000 for WBIHC : 1:750-1:3000,,WB : 1:500-1:2000IP : 0.5-4.0 ug for IP and 1:1000-1:8000 for WBIHC : 1:750-1:3000,,,,个人保存位置：熊俊浩,Y,Y,Box2-E9
+99,mettl14,一抗,Abcam,ab309096,,Rabbit,Polyclonal,,"Mouse, Rat, Human",,WB：1/1000.       Predicted molecular weight: 52 kDa.IP：1/30.,,WB：1/1000.       Predicted molecular weight: 52 kDa.IP：1/30.,,,,个人保存位置：熊俊浩,Y,N,Box2-E10
+100,HDAC1(10E2),一抗,Santa-Cruz,SC-81598,,Mouse,Monoclonal,,H M R,,"WB, IP, IHC, IF",,,,,,,,,Box3-A1
+101,Anti-SNAI1 antibody,一抗,Sigma,AV33314-50UG,,Rabbit,Polyclonal,,"human, mouse, guinea pig, rat",,"WB,IHC",,,,,,,,,Box3-A2
+102,p44/42 MAPK (Erk1/2) (137F5) Rabbit mAb,一抗,Cst,#4695,,Rabbit,Monoclonal,,H M R Hm Mk Mi Dm Z B Dg Pg Ce,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box3-A3
+103,HEXIM1 (D5Y5K) Rabbit mAb,一抗,Cst,#12604S,,Rabbit,Monoclonal,,H Mk,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box3-A4
+104,CDK9 (C12F7) Rabbit mAb,一抗,Cst,#2316P,,Rabbit,Monoclonal,,H M R Hm Mk B Dg,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box3-A5
+105,CDK9 (H-169)X,一抗,Santa,SC-8338X,,Rabbit,Polyclonal,,"H,M,R",,"CHIP,WB,IHC,IF",,200UG/0.1 ML FOR CHIP,,,,,,,Box3-A6
+106,"anti p300 CT, Clone RW128",一抗,Millipore,05-257,,Mouse,Monoclonal,,"H, M, R",,"IP, WB, ChIP",,,,,,,,,Box3-A7
+107,P300 (C-20)X,一抗,Santa,SC-585X,,Rabbit,Polyclonal,,"H,M,R",,"WB,IHC,IF",,,,,,,,,Box3-A8
+108,PCNA (PC10),一抗,Cst,2586S,,Mouse,Monoclonal,,H M R Mk B Pg,,"WB, IP, IHC, IF,FACS",,"1:2000 FOR WB, 1:2400 FOR IF",,,,,,,Box3-A9
+109,beta-catenin,一抗,Cst,9562S,,Rabbit,,,H M R Mk,,"WB, IP, IHC",,"1:1000 FOR WB, 1:400 FOR IHC",,,,,,,Box3-A10
+110,Vimentin,一抗,Bioss Antibodies,bs-0756R,,Rabbit,,,,,,,,,,,,,,Box3-B1
+111,Phospho-RNA Polymerase II (Ser2) Polyclonal Antibody,一抗,Bethyl,A300-654A,,Rabbit,,,"H,M",,"WB,IHC,IP",,,,,,,,,Box3-B2
+112,CTCF (N-17)X,一抗,Santa,SC-5916X,,Goat,Polyclonal,,"H,M,R",,"CHIP,WB,IHC,IF",,200UG/0.1 ML FOR CHIP,,,,,,,Box3-B3
+113,CDK4 (D9G3E),一抗,Cst,12790S,,Rabbit,Monoclonal,,H Mk,,"WB,IHC,IF,FACS",,1:1000 FOR WB,,,,,,,Box3-B4
+114,GAL4 (DBD) (RK5C1),一抗,Santa,SC-510,,Mouse,Monoclonal,,,,"WB,IP",,1ug/ml for WB,,,,,,,Box3-B5
+115,GATA2 (CG2-96)X,一抗,Santa,SC-267X,,Mouse,Monoclonal,,"H,M,R",,"WB,IP,IHC",,,,,,,,,Box3-B6
+116,BRD4 Polyclonal Antibod,一抗,Bethyl,A301-985A50,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,"1:2000-1:10000 FOR WB, 1:500-1:2000 FOR IHC, 2-10UG/MG LASATE FOR IP",,,,,,,Box3-B7
+117,PE Rat anti-mouse FLK1,一抗,Bd Biosciences,561052,,Rat,,,M,PE,FACS,FACS (Y),,,,,,,,Box3-B8
+118,Annexin V PE,一抗,Ebiosciences,12-8102-45,,,,,All species,,FACS,,,,,,"These kits utilize viability dye-conjugated annexin V to label phosphatidylserine (PS), an early marker of apoptosis, on the extracellular membrane.",,,Box3-B9
+119,anti V5 antibody,一抗,Invitrogen,p/n 46-0705,,Mouse,,,Tag,,"WB,IHC",,"1:1000-1:5000 FOR WB, 1:100-1:500 FOR IF",,,,现在的货号改为R960-25,,,Box3-B10
+120,"isolectin GS-IB4,biotin-xx conjugate",一抗,Life Technologies,I21414,,,,,,,,,,,,,生物素-XX 同工凝集素 GS-IB 4 偶联物可与荧光标记的链霉素亲和素结合，用于荧光显微镜检查或流式细胞分析。,,,Box3-C1
+121,Vimentin,一抗,Neomarkers,RB-9063-P0,,Rabbit,,,,,,,,,thermo,,已被thermo收购，查不到抗体信息,,,Box3-C2
+122,C-MYC (9E10),一抗,Santa,SC-40X,,Mouse,Monoclonal,,"c-Myc taged protein in H, M, R",,"WB,IP,IHC",,,,,,,,,Box3-C3
+123,cyclin T1 (H-245),一抗,Santa,SC-10750X,,Rabbit,Polyclonal,,"H,M,R",,"WB,IP,IHC",,,,,,,,,Box3-C4
+124,RAT ANTI-MOUSE CD31,一抗,Bd Biosciences,553370,,Rat,,,M,,,,,,,,,,,Box3-C5
+125,BRD4,一抗,Bethyl,A301-985A50,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,"1:2000-1:10000 FOR WB, 1:500-1:2000 FOR IHC, 2-10UG/MG LASATE FOR IP",,,,,,,Box3-C6
+126,BRD4,一抗,Bethyl,A301-985A50,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,"1:2000-1:10000 FOR WB, 1:500-1:2000 FOR IHC, 2-10UG/MG LASATE FOR IP",,,,,,,Box3-C7
+127,"ANTI RNA POLYMERASE II, CLONE CTD4H8",一抗,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 μg/mL FOR WB,,,,,,,Box3-C8
+128,MOUSE X N-Cadherin (3B9),一抗,Invitrogen,18-0224,,Mouse,Monoclonal,,"H,M,R",,"WB,IHC(P),IP,IF",,,,,,货号33-3900？,,,Box3-C9
+129,RHO-UBEA1,一抗,,,,,,,,,,,,,,,无抗体信息,,,Box3-C10
+130,ANTI-GATA2,一抗,,,,,Polyclonal,,,,,,,,,,无抗体信息,,,Box3-D1
+131,GAL4 [DBD] (RK5C1),一抗,Santa,SC-510,,Mouse,Monoclonal,,,,"WB,IP",,1ug/ml for WB,,,,,,,Box3-D2
+132,MOUSE ANTI Calponin,一抗,Sigma,C2687,,Mouse,Monoclonal,,"human, rabbit, pig, mouse, rat",,"WB,IP,IHC,IF",,1:10000 FOR WB,,,,,,,Box3-D3
+133,RAT ANTI MOUSE CD31,一抗,Bd,550274,,Rat,,,MOUSE,,"IHC, IF",,1:200 FOR IHC,,,,,,,Box3-D4
+134,Anti-Cardiac Troponin I抗体,一抗,Abcam,ab47003,,Rabbit,Polyclonal,,"Mouse, Rat, Human, Pig",,"ELISA, WB, ICC/IF, IHC-Fr, Flow Cyt, IHC-P",,"ELISA, WB, ICC/IF, IHC-Fr, Flow Cyt, IHC-P",,,,个人保存位置：熊俊浩,Y,Y,Box3-D5
+135,Mouse monoclonal anti-HERVK-Env,一抗,Austral Biologicals,Cat# HERM-1811-5;,,Mouse,Monoclonal,,human,,IHC,IHC,1:100,,,,个人保存位置：熊俊浩,Y,Y,Box3-D6
+136,Anti-RBM20 antibody,一抗,Abcam,ab233147,,Rabbit,Polyclonal,,,,,,,,,,,Y,,Box3-D7
+137,GAA Antibody (N-term),一抗,Accept, AP12544a,,Rabbit,Polyclonal,,,,,,,,,,,Y,,Box3-D8
+138,LAMP2 (E6A6S) ,一抗,Cell Signaling Technology,34141,,Rabbit,Monoclonal,,,,,,,,,,个人保存位置：谢思远,Y,,Box3-D9
+139,,,,,,,,,,,,,,,,,,,,Box3-D10
+140,,,,,,,,,,,,,,,,,,,,Box3-E1
+141,,,,,,,,,,,,,,,,,,,,Box3-E2
+142,,,,,,,,,,,,,,,,,,,,Box3-E3
+143,,,,,,,,,,,,,,,,,,,,Box3-E4
+144,,,,,,,,,,,,,,,,,,,,Box3-E5
+145,,,,,,,,,,,,,,,,,,,,Box3-E6
+146,,,,,,,,,,,,,,,,,,,,Box3-E7
+147,,,,,,,,,,,,,,,,,,,,Box3-E8
+148,,,,,,,,,,,,,,,,,,,,Box3-E9
+149,,,,,,,,,,,,,,,,,,,,Box3-E10
+150,ANTI MYOSIN SMOOTH MUSCLE,一抗,Biomedical,MA-02072,,,,,,,,,1:200 FOR IHC,,,,,,,Box5-A1
+151,mEPHB4,一抗,Rd,AF446,,,,,,,,,,,,,,,,Box5-A2
+152,CAMKII T286,一抗,Abcam,AB171095,,,,,,,,,,,,,,,,Box5-A3
+153,mEPHRINB2,一抗,Rd,AF496,,,,,,,,,,,,,,,,Box5-A4
+154,ANTI RNA POLII CTD4H8,一抗,,,,,,,,,,,,,,,,,,Box5-A5
+155,gata2,一抗,Wisconein,,,,,,,,,,,,,,,,,Box5-A6
+156,RNA POLII,一抗,,,,,,,,,,,,,,,,,,Box5-A7
+157,ELL2-NC,一抗,,,,,,,,,,,,,,,,,,Box5-A8
+158,Histone H3K4me3 antibody (pAb),一抗,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,CHIP-SEQ,IHC,IF,WB",,"ChIP: 3 - 5 µl per ChIPChIP-Seq: 3 µl eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 µl per 50 µl reaction*",,,,,,,Box5-A9
+159,ERG1/2/3,一抗,,,,,,,,,,,,,,,,,,Box5-A10
+160,Histone H3K4me3 antibody (pAb),一抗,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,CHIP-SEQ,IHC,IF,WB",,"ChIP: 3 - 5 µl per ChIPChIP-Seq: 3 µl eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 µl per 50 µl reaction*",,,,,,,Box5-B1
+161,H3K36ME3,一抗,Abcam,AB9050-100,,,,,,,,,,,,,,,,Box5-B2
+162,CBP,一抗,Abcam,AB50702,,,,,,,,,,,,,,,,Box5-B3
+163,CBP,一抗,Abcam,AB50702,,,,,,,,,,,,,,,,Box5-B4
+164,RBPJ,一抗,Abcam,,,,,,,,,,,,,,,,,Box5-B5
+165,HTZGFP19F7,一抗,,,,,,,,,,,,,,,,,,Box5-B6
+166,CBP,一抗,Abcam,AB50702,,,,,,,,,,,,,,,,Box5-B7
+167,Histone H3K4me3 antibody (pAb),一抗,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,CHIP-SEQ,IHC,IF,WB",,"ChIP: 3 - 5 µl per ChIPChIP-Seq: 3 µl eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 µl per 50 µl reaction*",,,,,,,Box5-B8
+168,TRUE BLOT,一抗,,,,,,,,,,,,,,,,,,Box5-B9
+169,BIOTIN-SIRT3,一抗,1M Nacl,,,,,,,,,,,,,,,,,Box5-B10
+170,YY1,一抗,Santa Cruz,sc-281,,Rabbit,,,"H,M, R",,"WB, IP,IHC,IF",,,,,,,,,Box5-C1
+171,HTZGFP19F7,一抗,,,,,,,,,,,,,,,,,,Box5-C2
+172,NORMAL MOUSE IGG,二抗,,,,,,,,,,,,,,,,,,Box5-C3
+173,ANTI 6XHIS,一抗,,N144-14,,,,,,,,,,,,,,,,Box5-C4
+174,ANTI 6XHIS,一抗,,N144-14,,,,,,,,,,,,,,,,Box5-C5
+175,RNA POLII,一抗,,,,,,,,,,,,,,,,,,Box5-C6
+176,BIOTIN-LYVE,一抗,Abcam,AB37288,,,,,,,,,,,,,,,,Box5-C7
+177,RT RB,一抗,,,,,,,,,,,,,,,,,,Box5-C8
+178,,,,,,,,,,,,,,,,,,,,Box5-C9
+179,,,,,,,,,,,,,,,,,,,,Box5-C10
+180,,,,,,,,,,,,,,,,,,,,Box5-D1
+181,,,,,,,,,,,,,,,,,,,,Box5-D2
+182,,,,,,,,,,,,,,,,,,,,Box5-D3
+183,,,,,,,,,,,,,,,,,,,,Box5-D4
+184,,,,,,,,,,,,,,,,,,,,Box5-D5
+185,,,,,,,,,,,,,,,,,,,,Box5-D6
+186,,,,,,,,,,,,,,,,,,,,Box5-D7
+187,,,,,,,,,,,,,,,,,,,,Box5-D8
+188,,,,,,,,,,,,,,,,,,,,Box5-D9
+189,,,,,,,,,,,,,,,,,,,,Box5-D10
+190,,,,,,,,,,,,,,,,,,,,Box5-E1
+191,,,,,,,,,,,,,,,,,,,,Box5-E2
+192,,,,,,,,,,,,,,,,,,,,Box5-E3
+193,,,,,,,,,,,,,,,,,,,,Box5-E4
+194,,,,,,,,,,,,,,,,,,,,Box5-E5
+195,,,,,,,,,,,,,,,,,,,,Box5-E6
+196,,,,,,,,,,,,,,,,,,,,Box5-E7
+197,,,,,,,,,,,,,,,,,,,,Box5-E8
+198,,,,,,,,,,,,,,,,,,,,Box5-E9
+199,,,,,,,,,,,,,,,,,,,,Box5-E10
+200,Vimentin (D21H3) XP ®,一抗,Cst,5741S,,Rabbit,,,,,,,,,,,,,,Box6-A1
+201,smad 2/3 (D7G7) XP® Rb mAb,一抗,Cst,8685P,,Rabbit,,,,,,,,,,,,,,Box6-A2
+202,VE-cadherin (D87F2) XP®,一抗,Cst,2500S,,Rabbit,,,,,,,,,,,,,,Box6-A3
+203,RBPSUH (D10A4) XP®,一抗,Cst,5313S,,Rabbit,,,,,,,,,,,,,,Box6-A4
+204,Phospho-Smad1(Ser463/465)/Smad5(Ser463/465)/Smad8(Ser426/428) antibody,一抗,Cst,#9511S,,,,,,,,,,,,,,,,Box6-A5
+205,c-Fos (9F6),一抗,Cst,#2250P,,Rabbit,,,,,,,,,,,,,,Box6-A6
+206,Bmi1 (d2087) XP®,一抗,Cst,6964P,,Rabbit,,,,,,,,,,,,,,Box6-A7
+207,"Anti-phospho-Histone H3(Ser10), mitosis marker",一抗,Emd Millipore,06-570,,Rabbit,,,,,,,1:1 dilute 1mg/ml,,,,,,,Box6-A8
+208,P-Smad1/5 (S463/465) (41D10),一抗,Cst,#9516P,,Rabbit,,,,,,,,,,,,,,Box6-A9
+209,P-c-Jun (S73),一抗,Cst,#3270P,,Rabbit,,,,,,,,,,,,,,Box6-A10
+210,Phospho-c-Fos (Ser32) (D82C12) XP®,一抗,Cst,#5348P,,Rabbit,,,,,,,,,,,,,,Box6-B1
+211,Phospho-c-Fos (Ser32) (D82C12) XP®,一抗,Cst,#5348P,,Rabbit,,,,,,,,,,,,,,Box6-B2
+212,Nkx-2.5(H-114)X,一抗,Santa,SC-14033X,,Rabbit,,,,,,,,,,,,,,Box6-B3
+213,Nkx-2.5,一抗,Active Motif,#61268,,Rabbit,,,HUMAN,,WB,,1:500-1000 FOR WB,,,,This NKX2.5 antibody was raised against a peptide within the N-terminal region of human NKX2.5.,,,Box6-B4
+214,Nkx-2.5(H-114)X,一抗,Santa,SC-14033X,,Rabbit,,,,,,,,,,,,,,Box6-B5
+215,NFATc4 (H-74)X,一抗,Santa,SC-13036X,,Rabbit,,,,,,,,,,,,,,Box6-B6
+216,c-Myc(n-262)x,一抗,Santa,SC-764X,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-B7
+217,NFATc1 (7A6)X,一抗,Santa,SC-7294,,Mouse,Monoclonal,,,,,,,,,,,,,Box6-B8
+218,Nkx-2.5(H-114)X,一抗,Santa,SC-14033X,,Rabbit,,,,,,,,,,,,,,Box6-B9
+219,HDAC2 (C-19),一抗,Santa,SC-6296X,,Goat,,,,,,,,,,,,,,Box6-B10
+220,NFATc2 (4G6-G5)X,一抗,Santa,SC-7296X,,Mouse,,,,,,,,,,,,,,Box6-C1
+221,BRD4,一抗,Active Motif,#39909,,Rabbit,Polyclonal,,H Ms,,"CHIP,WB,IHC",,"ChIP: 5 - 10 µl per ChIPWB*: 1:500 - 1:2,000 dilutionIHC (FFPE): 1:1000 dilution",,,,,,,Box6-C2
+222,Anti-DARC,一抗,Sigma,SAB3500242-100UG,,Rabbit,,,,,,,,,,,,,,Box6-C3
+223,HDAC1(C-19)X,一抗,Santa,SC-6298X,,Goat,,,,,,,,,,,,,,Box6-C4
+224,NFATc1 (H-110X,一抗,Santa,SC-13033X,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-C5
+225,Nkx-2.5,一抗,Active Motif,#61267,,Rabbit,,,Human,,WB,,1:500-1000 FOR WB,,,,,,,Box6-C6
+226,Ezh2(D2C9)XP®,一抗,Cst,5246P,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-C7
+227,RING1B(D22F2)XP®,一抗,Cst,5694P,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-C8
+228,VEGF Receptor 2(55B11),一抗,Cst,2479S,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-C9
+229,Anti-mouse CD309(FLK1) Biotin clone:AVAS12A1,一抗,Ebioscience,13-5821-82,,,,,,,,,,,,,,,,Box6-C10
+230,Slit2,一抗,Abcam,ab7665-100,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-D1
+231,anti-EED,一抗,Millipore,CS204372,,Mouse,Monoclonal,,,,,,,,,,,,,Box6-D2
+232,NFATc1 (7A6)X,一抗,Santa,SC-7294,,Mouse,Monoclonal,,,,,,,,,,,,,Box6-D3
+233,P-Akt(S473)(D9E) XP®,一抗,Cst,4060S,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-D4
+234,"Anti-mouse FLK1 (VEGFR2,Ly-73) (Avas12a1)",一抗,Bd Pharmingen,555307,,,,,,,,,,,,,,,,Box6-D5
+235,RAT Anti-mouse CD144,一抗,Bd Pharmingen,550548,,Rat,,,,,,,,,,,,,,Box6-D6
+236,Slit3,一抗,Chemicon,AB5703P,,Rabbit,,,,,,,,,,,,,,Box6-D7
+237,Anti-mouse CD31 APC Clone:390,一抗,Ebioscience,17-0311-82,,,,,,,,,,,,,,,,Box6-D8
+238,Ms mAb to KAT3A/CBP [CBP5I001],一抗,Abcam,ab50702,,Mouse,,,,,,,,,,,,,,Box6-D9
+239,YB1(D299),一抗,Cst,4202S,,Rabbit,,,,,,,,,,,,,,Box6-D10
+240,vWF,一抗,Millipore,AB7356,,Rabbit,,,,,,,,,,,,,,Box6-E1
+241,Ring1A(D2P4D),一抗,Cst,13069P,,Rabbit,,,,,,,,,,,,,,Box6-E2
+242,Anti-mouse CD140a PE Clone:APA5,一抗,Ebioscience,12-1401-81,,,,,,,,,,,,,,,,Box6-E3
+243,Rabbit IgG,二抗,Millipore,PP64B,,,,,,,,,,,,,,,,Box6-E4
+244,Anti-Prox-1 antibody,一抗,Angiobio Co.,11月2日,,Rabbit,,,,,,,,,,,,,,Box6-E5
+245,rabbit anti-MED12,一抗,Bethyl,A300-774A,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,1:2000-1:10000 FOR WB,,,,,,,Box6-E6
+246,CRSP1/TRAP220 Polyclonal Antibody,一抗,Bethyl,A300-793A,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,1:2000-1:10000 FOR WB,,,,,,,Box6-E7
+247,Anti-YBX1,一抗,Mbl,RN015P,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-E8
+248,Nur77(D63C5) XP®,一抗,Cst,3960P,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-E9
+249,,,,,,,,,,,,,,,,,,,,Box6-E10
+250,ANTI WT1,一抗,Epitonicis 060419-1131,1781-1,,Rabbit,,,,,,,,,,,,,,Box7-A1
+251,WGA Alexa555,一抗,Thermo?,W32464,,,,,,,,,,,,,,,,Box7-A2
+252,anti NG2,一抗,Millipore,AB5320,,Rabbit,,,"RAT,MOUSE",,"IHC,WB",IHC,1:250 FOR IHC,,,,,,,Box7-A3
+253,ANTI E-Cadherin,一抗,Bd,610181,,Mouse,,,"HUAMN, MOUSE ,RAT, DOG",,"WB,IF,IHC,IP",IF WB,1:50 FOR IF; 1:2500-1:5000 FOR WB,,,,,,,Box7-A4
+254,CollagenIV,一抗,Bio-Rad Antibodies,2150-0140,,Rabbit,Polyclonal,,HUMAN,,"elisa,IF, IHC",,Pretreatment is required with 1 mg/ml pepsin in 0.5 M acetic acid for two hours at 37ºC and multiple buffer washes.,,,https://www.bio-rad-antibodies.com/polyclonal/human-collagen-iv-antibody-2150-0140.html?f=purified&JSESSIONID_STERLING=9AF0CCD16B313E64D68889067FF241F3.ecommerce1&evCntryLang=CN-zhthirdPartyCookieEnabled,,,,Box7-A5
+255,anti-OCT4,一抗,Abcam,ab19857,,Rabbit,,,"MOUSE,HUMAN",,"IP, ICC/IF, WB",,,,,,,,,Box7-A6
+256,"Anti-Procollagen Type I Antibody, NT, clone M-58",一抗,Millipore,MAB1912,,Rat,,,HUAMN,,IH(P),,,,,,,,,Box7-A7
+257,Human Semaphorin 3c peptide (ab39299),一抗,Abcm,AB39299,,Rabbit,,,,,,,,,,,,,,Box7-A8
+258,WT1 ms cell MARQUE,一抗,,348N1-95,,,,,,,,,,,,,,,,Box7-A9
+259,ANTI BrdU,一抗,Abcam,AB1893,,Sheep,,,,,"IHC-FrFl, IHC-P, IHC-Fr, ELISA, WB",,,,,,,,,Box7-A10
+260,Troponin I 抗体 (H-170),一抗,Santa,SC15368,,Rabbit,,,"HUMAN,MOUSE",,"IF,IHC",,,,,,,,,Box7-B1
+261,Islet-1 Antibody (K-20),一抗,Santa,SC-23590,,Goat,,,"HUAMN, MOUSE,RAT",,"IF,IHC",IF,1:400 FOR IF,,,,,,,Box7-B2
+262,MYL7 (H-60),一抗,Santa,SC-66967,,Rabbit,,,"HUAMN, MOUSE,RAT",,"WB(1:100-1:1000),IP,IF(1:50-1:500),IHC,ELISA(1:30-1:3000)",,,,,,,,,Box7-B3
+263,YAP Antibody (H-125),一抗,Santa,SC-15407,,Rabbit,,,"HUAMN, MOUSE,RAT",,"WB,IHC,IF,CHIP",WB,1:500-1:3000 FOR WB,,,,,,,Box7-B4
+264,WT1,一抗,Santa,SC192,,Rabbit,,,"HUAMN, MOUSE,RAT",,,,,,,,,,,Box7-B5
+265,WT1 (N-20),一抗,Santa,SC-15421,,Goat,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP,ELISA",,,,,,,,,Box7-B6
+266,Phospho-p38 MAPK (Thr180/Tyr182) Antibody,一抗,Cst,9211S,,Rabbit,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP",,,,,,,,,Box7-B7
+267,PCNA,一抗,Santa,SC56,,Mouse,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP",,,,,,,,,Box7-B8
+268,Pro-COL1A1 抗体 (A-17),一抗,Santa,SC-25973,,Goat,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP,ELISA",,,,,,,,,Box7-B9
+269,TBX18,一抗,Santa,SC17869,,Goat,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP,ELISA",IF,1:50-1:100 FOR IF,,,,,,,Box7-B10
+270,VCAM1 (CD106),一抗,Bd,550547,,Rat,,,MOUSE,,IHC(FORZEN),IF,1:10-1:50 FOR IF,,,,,,,Box7-C1
+271,WT1 (Wilms’ tumor protein),一抗,Santa,SC7385,,Mouse,,,,,,,,,,,,,,Box7-C2
+272,,,,,,,,,,,,,,,,,,,,Box7-C3
+273,WT1,一抗,Santa,SC192,,Rabbit,,,,,,,,,,,,,,Box7-C4
+274,WT1,一抗,Santa,SC192,,Rabbit,,,,,,,,,,,,,,Box7-C5
+275,WT1,一抗,Dako,M3561,,,,,,,,,,,,,,,,Box7-C6
+276,Troponin T-C 抗体,一抗,Santa,SC8121,,Goat,,,"Human, mouse, rat",,"IP,IHC,IF,WB",IF,1:10 FOR IF,,,,,,,Box7-C7
+277,WT1,一抗,Santa,SC192,,Rabbit,,,,,,,,,,,,,,Box7-C8
+278,Phospho-SAPK/JNK (Thr183/Tyr185) Antibody,一抗,Cst,9251s,,Rabbit,,,"Human, mouse, rat",,WB,WB,1:1000 FOR WB,,,,,,,Box7-C9
+279,p-p38 MAPK 抗体 (D-8),一抗,Santa,sc7973,,Mouse,,,,,"IP,IHC,IF,WB,elisa",,,,,,"推荐用于 mouse, rat， human 和 来源的Tyr 182 phosphorylated p38 alpha MAPK14, p38 beta MAPK11 and p38 gamma MAPK12 WB, IP, IF, IHC(P) 和 ELISA检测",,,Box7-C10
+280,SRF 抗体 (G-20),一抗,Santa,SC335,,Rabbit,,,"human, mouse, rat",,"wb, IHC",,,,,,,,,Box7-D1
+281,Tropomyosin,一抗,Sype Hyper Doma Band,CH1,,Mouse,,,,,,,,,,,查不到抗体信息,,,Box7-D2
+282,,,,,,,,,,,,,,,,,,,,Box7-D3
+283,,,,,,,,,,,,,,,,,,,,Box7-D4
+284,,,,,,,,,,,,,,,,,,,,Box7-D5
+285,,,,,,,,,,,,,,,,,,,,Box7-D6
+286,,,,,,,,,,,,,,,,,,,,Box7-D7
+287,,,,,,,,,,,,,,,,,,,,Box7-D8
+288,,,,,,,,,,,,,,,,,,,,Box7-D9
+289,,,,,,,,,,,,,,,,,,,,Box7-D10
+290,,,,,,,,,,,,,,,,,,,,Box7-E1
+291,,,,,,,,,,,,,,,,,,,,Box7-E2
+292,,,,,,,,,,,,,,,,,,,,Box7-E3
+293,,,,,,,,,,,,,,,,,,,,Box7-E4
+294,,,,,,,,,,,,,,,,,,,,Box7-E5
+295,,,,,,,,,,,,,,,,,,,,Box7-E6
+296,,,,,,,,,,,,,,,,,,,,Box7-E7
+297,,,,,,,,,,,,,,,,,,,,Box7-E8
+298,,,,,,,,,,,,,,,,,,,,Box7-E9
+299,,,,,,,,,,,,,,,,,,,,Box7-E10
+300,HA tag mab,一抗,Cst,2367S,5,Mouse,Monoclonal,,all species,,"WB, IHC, IF, F",,"1:1000 for WB, 1:1200 for IHC, 1:100 for IF, 1:50 for FACS",,,,原来的ab square盒子编为Box4,,,Box4-A1
+301,K63 linkage SPECIFIC polyubiquintin (D7A11),一抗,Cst,5621S,4,Rabbit,Monoclonal,,all species,,WB,,1:1000 for WB,,,,,,,Box4-A2
+302,EZH2 (D2C9) XP,一抗,Cst,5246S,9,Rabbit,Monoclonal,,"H, M, R, Mk",,"WB, IP, IHC, IF, F, CHIP, C&R",,"1:1000 for WB, 1:200 for IP,  1:50 for IHC, 1:100~1:400 for IF, 1:100~1:400 for FACS, 1:100 for CHIP, 1:100 for CUT&RUN",,,,,,,Box4-A3
+303,EGR3,一抗,Cst,2559S,1,Rabbit,Polyclonal,,"H, M, R",,WB,,1:1000 for WB,,,,,,,Box4-A4
+304,TCF21,一抗,Abcam,ab32981-50,,Rabbit,Polyclonal,,H,,"IHC-P, WB",,,,,,,,,Box4-A5
+305,Acelylated lysine,一抗,Cst,9441S,13,Rabbit,Polyclonal,,all species,,"WB, IP, IHC, IF, CHIP",,"1:1000 for WB, 1:100 for IP,  1:400~1:1600 for IHC, 1:100~1:800 for IF, 1:800 for CHIP, 1:2000 for 肽ELISA",,,,,,,Box4-A6
+306,tri-methy-histone H3(K27),一抗,Cst,9733P,8,Rabbit,Monoclonal,,"H, M, R, Mk",,"WB, IHC, IF, F, CHIP, C&R",,"1:1000 for WB, 1:100 ~1:400for IHC, 1:800~1:3200 for IF, 1:100~1:400 for FACS, 1:50 for CHIP, 1:50 for CUT&RUN",,,,,,,Box4-A7
+307,HA tag mab,一抗,Cst,2367S,5,Mouse,Monoclonal,,all species,,"WB,  IHC, IF, F",,"1:1000 for WB, 1:1200 for IHC, 1:100 for IF, 1:50 for FACS",,,,,,,Box4-A8
+308,HMGA1(D6A4) XP®,一抗,Cst,7777T,1,Rabbit,Monoclonal,,"H, Mk",,"WB, IP, IF",,"1:1000 for WB, 1:200 for IP,8 1:100~1:3200 for IF",,,,,,,Box4-A9
+309,,,,,,,,,,,,,,,,,,,,Box4-B1
+310,anti-LARP7 antibody,一抗,Sigama,AV40847-50UG,,Rabbit,Polyclonal,,"bovine, horse, rat, human, canine, guinea pig, rabbit, mouse",,WB,,,,,,,,,Box4-B2
+311,HRP CONJUGATED B ACTIN,一抗,Proteintech,HRP-60008,21000382,Mouse,Monoclonal,,"Human, Mouse, Rat, Zebrafish, Plant,  Canine, Hamster",HRP Fluorescent Dye,"ELISA, IF, WB",,1:2000-1:16000 for WB,,,,,,,Box4-B3
+312,JMJD3,一抗,Santa Cruz,SC-130157,L0241,Rabbit,Polyclonal,,H,,"WB, IP, IF, IHC(P), ELISA",,,,,,,,,Box4-B4
+313,ANTI-Osteopontin,一抗,Millipore,AB10910,3150395,Rabbit,Polyclonal,,"H, M",,"WB, IHC",,"1:500 - 1:5,000 for WB",,,,,,,Box4-B5
+314,ANTI-SIRT1,一抗,Millipore,07-131,3226269,Rabbit,Polyclonal,,"H, M",,"ICC, IP, WB, ChIP",,1:500 for ICC,,,,,,,Box4-B6
+315,MAFF,一抗,Abconal,A12920,117900101,Rabbit,,,H,,WB,,1:500 - 1:2000 for WB,,,,,,,Box4-B7
+316,SIP1 Polyclonal Antibody,一抗,Bethyl,A302-474A-T,,Rabbit,Polyclonal,,Human,,"WB, IHC(P),IP",,1:1000 for WB,,,,,,,Box4-B8
+317,ZEB1 Polyclonal Antibody,一抗,Bethyl,A301-922A-T,,Rabbit,Polyclonal,,"H, M",,"WB, IHC(P),IP",,1:1000 for WB,,,,,,,Box4-B9
+318,ANTI-RFP,一抗,Rockland,p/n 600-401-379,,Rabbit,Polyclonal,,All species,,"ELISA, IF, IHC, WB, EM, FC, FISH, IP, Other",,"IF:1:1000; react with RFP, tdTomato, Expect reactivity against RFP and its variants: mCherry, tdTomato, mBanana, mOrange, mPlum, mOrange and mStrawberry.",,,,,,,Box4-C1
+319,anti-FSP1,一抗,Millipore,2274年7月,2806560,Rabbit,Polyclonal,,"M, H",,"WB, IH(P)",,,,,,,,,Box4-C2
+320,MAFG,一抗,Abconal,A16056,33930101,Mouse,,,H,,WB,,1:500 - 1:2000 for WB,,,,,,,Box4-C3
+321,CD31,一抗,Bd Biosciences,550274,87929,Rat,,,MOUSE,,"IHC, IF,F,IP",,1:200 for IHC,,,,,,,Box4-C4
+322,ANTI-LARP7 ANTIBODY,一抗,Bethyl,A303-723A,,Rabbit,Polyclonal,,"H, M",,"WB, IP",,,,,,,,,Box4-C5
+323,ANTI-LARP7 ANTIBODY,一抗,Bethyl,A303-723A,,Rabbit,Polyclonal,,"H, M",,"WB, IP",,,,,,,,,Box4-C6
+324,TWIST1,一抗,Abconal,A7314,3560401103,Rabbit,,,"H, M",,"WB, IF",,"1:500 - 1:2000 for WB, 1:50 - 1:200 for IF",,,,,,,Box4-C7
+325,ANTI-SIRT1,一抗,Millipore,07-131,3169543,Rabbit,Polyclonal,,"M, H",,"ICC, IP, WB, ChIP",,,,,,,,,Box4-C8
+326,CD31,一抗,Bd Biosciences,550274,9002678,Rat,,,M,,"IHC, ELISA, WB",,,,,,,,,Box4-C9
+327,GAPDH,一抗,Genetex,GTX627408,41323,Mouse,Monoclonal,,"Human, Mouse, Rat, Zebrafish, Yeast, Drosophila, Dog, Pig, Monkey, Candida albicans, E. coli",,"WB, ICC/IF, IHC-P, EMSA",,,,,,,,,Box4-D1
+328,MEPCE,一抗,Proteintech,14917-1-AP,6010,Rabbit,Polyclonal,,Human,,"IF, IP, WB,ELISA",,"1:1000-1:4000 for WB, 0.5-4.0 ug for IP and 1:200-1:1000 for WB, 1:20-1:200 for IF",,,,,,,Box4-D2
+329,EZH1,一抗,Millipore,ABE281,3022878,Rabbit,Polyclonal,,"H, M",,"IHC, WB",,,,,,,,,Box4-D3
+330,WGA,一抗,,B1025,,,,1MG/MML,,,,,,,,,,,,Box4-D4
+331,KAP1,一抗,Abcam,,,Mouse,,,,,,,,,,,,,,Box4-D5
+332,A-SMA,一抗,Abcam,AB5694,,Rabbit,Polyclonal,,"M, H",,"WB, IHC-P",,"Use a concentration of 0.5 - 2 µg/ml for WB, 1/50 - 1/200 for IHC-P",,,,,,,Box4-D6
+333,H3K27ME3,一抗,Millipore,07-449,DAM1731568,Rabbit,Polyclonal,,"human,mouse",,"ICC, IP, Mplex, WB, IHC",,,,,,,,,Box4-D7
+334,PAT PERILIPIN,一抗,,B446,,Goat,,,mouse,,,,,,,,,,,Box4-D8
+335,H3K27ME3,一抗,Millipore,07-449,DAM1731568,Rabbit,Polyclonal,,"human,mouse",,"ICC, IP, Mplex, WB, IHC",,,,,,,,,Box4-D9
+336,N-CADHERIN,一抗,Invitrogen,MA1-91128,18-0024,Mouse,Monoclonal,,"Bovine, Dog, Chicken, Cat, Guinea pig, Goat, Hamster, Human, Mammal, Mouse, Sheep, Pig, Rabbit, Reptile, Rat",,"IF,WB,IHC",,"1:500  for WB, 1:500  for IHC,  1:500  for ICC/IF",,,,,,,Box4-E1
+337,ZO1,一抗,Abcam,AB59720,,Rabbit,Polyclonal,40MG/ML,"human,mouse,pig,dog,chicken,",,"FC/FACS, ICC/IF, WB",,"1:50~1:1000  for WB,  1:50  for ICC, 1:200  for IHC-IF, 1:100 for FC/FACS",,,,,,,Box4-E2
+338,"PH3(Anti-phospho-Histone H3(Ser10), mitosis marker)",一抗,Millipore,06-570,,Rabbit,Polyclonal,,"human,mouse",,"ICC, IP, WB",,,,,,,,,Box4-E3
+339,Anti-Sarcomeric Alpha Actinin antibody,一抗,Abcam,AB9465,,Mouse,Monoclonal,,"HUMAN,RAT",,"IHC-P,WB",,"Use a concentration of 10 - 20 µg/ml for IHC-P, Use a concentration of 2 - 4 µg/ml for WB",,,,,,,Box4-E4
+340,Anti-alpha smooth muscle Actin antibody,一抗,Abcam,AB5694,,Rabbit,Polyclonal,,"HUAMN,MOUSE",,"IHC-P,WB",,"1:50~1:200 for IHC-P, Use a concentration of 0.5~2 µg/ml for WB",,,,,,,Box4-E5
+341,ANTI-EZH1,一抗,Millipore,ABE281,,Rabbit,Polyclonal,,"HUAMN,MOUSE",,"IHC, WB",,,,,,,,,Box4-E6
+342,CTNT,一抗,Abcam,AB45932,,Rabbit,Polyclonal,,HUAMN,,"IHC-P,ELISA, WB",,"Use a concentration of 1 µg/ml for IHC-P, Use a concentration of 0.5 µg/ml for ELISA, Use a concentration of 1 µg/ml for WB",,,,,,,Box4-E7
+343,MHC,一抗,,,,Mouse,,,,,,,,,,,,,,Box4-E8
+344,hSnail,一抗,R&D,AF3639,,Goat,Polyclonal,,"HUAMN,",,"WB,ChIP, IHC, FACS",,"Use a concentration of 5-15 µg/mL for IHC-P, Use a concentration of 5 µg/5 x 106 cells for ChIP, Use a concentration of 0.5 µg/ml for WB, Use a concentration of 0.25 µg/106 cells for FACS",,,,,,,Box4-E9
+345,Anti-KDM6A / UTX antibody,一抗,Abcam,AB36938,GR228522-1,Rabbit,Polyclonal,,"Mouse, Rat, Human",,"ChIP, WB, ICC/IF",,"Use a concentration of 1 µg/ml for WB,  Use a concentration of 1 µg/ml for ICC/IF .",,,,,,,Box4-F1
+346,Anti-CREBBP,一抗,Abcam,AB2832,GR13367-1,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IHC-P, ICC/IF",,"Use a concentration of 1 - 2 µg/ml for WB, 1:1000~1:5000 for IHC-P,1:100 for ICC/IF",,,,,,,Box4-F2
+347,Anti-Histone H3 antibody - Nuclear Marker and ChIP Grade,一抗,Abcam,AB1791,887601,Rabbit,Polyclonal,,"Mouse, Rat, Human, Saccharomyces cerevisiae, Xenopus laevis, Arabidopsis thaliana, Drosophila melanogaster, Indian muntjac, Schizosaccharomyces pombe",,"ICC, IHC-P, ChIP, IP, WB",,"Use a concentration of 1 µg/ml for ICC, 1/100 - 1/400 for IHC-P, Use a concentration of 2µg/106 cells for ChIP, Use a concentration of 5 µg/ml for IP, 1/1000 - 1/5000 for WB",,,,,,,Box4-F3
+348,SLUG,一抗,Abcam,AB27568,GR32099265-1,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Human",,"WB, IHC-Fr, ICC/IF",,1/500 - 1/1000 for WB,,,,,,,Box4-F4
+349,Anti-CREBBP,一抗,Abcam,AB2832,GR13367-1,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IHC-P, ICC/IF",,"Use a concentration of 1 - 2 µg/ml for WB, 1:1000~1:5000 for IHC-P,1:100 for ICC/IF",,,,,,,Box4-F5
+350,SM22A/Anti-TAGLN/Transgelin,一抗,Abcam,AB14106,GR3206563-1,Rabbit,Polyclonal,,"Mouse, Rat, Human",,"ICC/IF, WB",,"Use a concentration of 1 - 5 µg/ml for ICC/IF,Use a concentration of 1 µg/ml for WB",,,,,,,Box4-F6
+351,HISTONE H2A.Z,一抗,Abcam,AB4174,GR147288-1,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human",,"ICC/IF, ChIP, WB",,"1/1000 for ICC/IF, 1/1000  for WB",,,,,,,Box4-F7
+352,A-SMOOTH MUSLE ACTIN,一抗,Abcam,AB5694,GR283004-30,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IHC-P",,"Use a concentration of 0.5 - 2 µg/ml for WB, 1/50 - 1/200 for IHC-P",,,,,,,Box4-F8
+353,KAP1,一抗,Abcam,AB22553,GR3332149-6,Mouse,Monoclonal,,Human,,"WB, ICC, IHC-P",,"1/500 for WB, Use a concentration of 2 µg/ml for ICC, Use a concentration of 2 µg/ml for IHC-P",,,,,,,Box4-F9
+354,Ki67,一抗,Abcam,AB15580,GR3198221-1,Rabbit,Polyclonal,,"Mouse, Human",,"IHC-P, ICC",,"Use a concentration of 0.1 - 5 µg/ml for IHC-P, Use a concentration of 0.1 - 5 µg/ml for ICC",,,,,,,Box4-G1
+355,S100A4,一抗,Abcam,AB197896,GR3213138-1,Rabbit,Monoclonal,,"Mouse, Rat, Human",,"Flow Cyt (Intra), IHC-P, WB, ICC/IF, IP",,"1/250 for FACS, 1/2000 for IHC-P, 1/1000 for WB, 1/250 for ICC/IF,  1/40 for IP",,,,,,,Box4-G2
+356,MAFK,一抗,Abcam,AB50322,GR11750-30,Rabbit,Polyclonal,,Human,,WB,,1/4000 - 1/8000 for WB,,,,,,,Box4-G3
+357,CARDIAC TROPONIN1,一抗,Abcam,AB10231,GR31729911-1,Mouse,Monoclonal,,Human,,IHC-P,,Use a concentration of 1 µg/ml for IHC-P,,,,,,,Box4-G4
+358,ETS1,一抗,Abcam,AB26096,GR176579-1,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Human, pig, domestic dog, bovine",,"ELISA, ICC-IF, IHC-P,WB",,"1/1000 - 1/2000 for WB,1/200 for IHC",,,,,,,Box4-G5
+359,RNA POLII CTD REPEAT YSPTSPS(PHOSPHOS 2),一抗,Abcam,AB5096,GR79455-1,Rabbit,Polyclonal,,,,,,,,,,,,,Box4-G6
+360,RANGAP1,一抗,Abcam,AB2081-100,690667,Goat,Polyclonal,,"Mouse, Human",,"WB, ICC/IF",,"Use a concentration of 0.1 - 0.5 µg/ml for WB, 1/500 for ICC/IF",,,,,,,Box4-G7
+361,NEUCLEAR POL O-LINKED GLYCO PROTEIN,一抗,Abcam,AB2734,956968,Mouse,Monoclonal,,"Rat, Human",,"IHC-P, WB",,"1/200 for IHC-P, 1/1000 for WB",,,,,,,Box4-G8
+362,HISTONE H2B,一抗,Abcam,AB1790,961902,Rabbit,Polyclonal,,"Cow, Human, Saccharomyces cerevisiae, Xenopus laevis, Arabidopsis",,"WB, IHC-P, ChIP, ICC/IF, IP",,"Use a concentration of 0.1 µg/ml for WB,Use a concentration of 1 µg/ml for IHC-P,Use a concentration of 2~3 µg/ml for ChIP, Use a concentration of 0.5 µg/ml for ICC/IF, Use a concentration of 5 µg/ml for IP",,,,,,,Box4-G9
+363,ZO1 TIGHT JUCTION PROTEIN,一抗,Abcam,AB59720,287296-1,Rabbit,Polyclonal,,"Mouse,Chicken, Human, pig, domestic dog",,"FC/FACS, ICC-IF,WB",,"1/50 - 1000 for WB,1/50 for ICC, 1/200 for IHC-IF, 1/100-1/400 for IHC, 1/50-1/5000 for IF, 1:100 for FACS",,,,,,,Box4-H1
+364,HISTONE H3 Y47 DI-MELTHY K4,一抗,Abcam,AB32356,947550,Rabbit,Monoclonal,,"Mouse, Rat, Chicken, Cow, Human, African green monkey",,"ChIP, ChIP-sequencing, WB, IHC-P, ICC/IF, Flow Cyt (Intra), IP",,"Use 2 µg /25 µg of chromatin for ChIP, Use 4 µg /30 µg of chromatin for ChIP-seq, 1/2000 for WB, 1/800 for IHC-P,1/1000 FOR ICC/IF, 1/20-1/100 for FACS, 1/30 for IP",,,,,,,Box4-H2
+365,HISTONE H3 TRI-METHYL K36,一抗,Abcam,AB9050,947436,Rabbit,Polyclonal,,"Cow, Human",,"ICC/IF, WB, ChIP",,"Use a concentration of  0.1 - 1 µg/ml for ICC/IF, Use a concentration of  1 µg/ml for WB",,,,,,,Box4-H3
+366,ETS1 PHOSPHO T38,一抗,Abcam,AB59179,GR84256-6,Rabbit,Polyclonal,,Human,,IHC-P,,,,,,,,,Box4-H4
+367,HISTONE H2A.Z ACETY K4K7K11,一抗,Abcam,AB18262,GR149365-1,Sheep,Polyclonal,,"Mouse, Human, Chicken",,"WB, ICC/IF, ChIP",,1:200 for IHC,,,,,,,Box4-H5
+368,EZH1,一抗,Abcam,AB13665,GR192014-1,Rabbit,Polyclonal,,"Mouse, Human",,"WB, ICC/IF, ChIP",,,,,,,,,Box4-H6
+369,HISTONE H3 mono methy K4,一抗,Abcam,AB8895,961813,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human",,"ICC, ChIP, WB, IHC-P",,"Use a concentration of 1 - 5µg/ml for ICC, Use 2 µg/25 µg of chromatin for ChIP, 1:500 for WB, Use a concentration of 0.5µg/ml for IHC-P",,,,,,,Box4-H7
+370,RNA POLII (H14),一抗,Abcam,AB24759,868177,Mouse,Monoclonal,,"Mouse, Human,Yeast, Schizosaccharomyces pombe",,"ICC/IF, ChIP, WB",,1:50 for IF,,,,,,,Box4-H8
+371,HISTONE H3 ACETY K27,一抗,Abcam,AB4729,GR87165-1,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human, Recombinant fragment",,"ICC/IF, WB, IHC-P, ChIP, PepArr",,"Use a concentration of 1  µg/ml for WB, Use a concentration of 0.5 µg/ml for ICC/IF, Use a concentration of 1 µg/ml for IHC-P,Use 2 µg/25 µg of chromatin for ChIP,  Use a concentration of 0.2 - 0.02 µg/ml for PepArr",,,,,,,Box4-H9
+372,KDM5A/GARID1A/RBBP2,一抗,Abcam,AB70892,GR258602-12,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IP",,"Use a concentration of 2-5 µg/ml for IP, 1:2000~1:10000 forWB",,,,,,,Box4-I1
+373,HISTONE H3 ACETY K27,一抗,Abcam,AB4729,GR24371-1,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human, Recombinant fragment",,"ICC/IF, WB, IHC-P, ChIP, PepArr",,"Use a concentration of 1  µg/ml for WB, Use a concentration of 0.5 µg/ml for ICC/IF, Use a concentration of 1 µg/ml for IHC-P,Use 2 µg/25 µg of chromatin for ChIP,  Use a concentration of 0.2 - 0.02 µg/ml for PepArr",,,,,,,Box4-I2
+374,HISTONE H3 Y47 DI-MELTHY K4,一抗,Abcam,AB32356,947550,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Cow, Human, African green monkey",,"ChIP, ChIP-sequencing, WB, IHC-P, ICC/IF, Flow Cyt (Intra), IP",,"Use 2 µg /25 µg of chromatin for ChIP, Use 4 µg /30 µg of chromatin for ChIP-seq, 1/2000 for WB, 1/800 for IHC-P,1/1000 FOR ICC/IF, 1/20-1/100 for FACS, 1/30 for IP",,,,,,,Box4-I3
+375,SLUG,一抗,Abcam,AB27568,GR3209926-1,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Human",,"WB, IHC-Fr, ICC/IF",,1:500~1:1000 for WB,,,,,,,Box4-I4
+376,TWIST,一抗,Abcam,AB50581-100,658848,Rabbit,Polyclonal,,Human,,ICC/IF,,Use a concentration of 1 - 2 µg/ml for ICC/IF,,,,,,,Box4-I5
+377,BRD4,一抗,Abcam,AB128874,GR177619-29,Rabbit,Monoclonal,,"Mouse, Human",,"Flow Cyt (Intra), WB, IHC-P, ICC/IF",,"1:200 for IHC-P,1:200 for ICC/IF, 1:200-1/1000 for WB, 1/50 for Flow Cyt (Intra)",,,,,,,Box4-I6
+378,,,,,,,,,,,,,,,,,,,,Box4-I7
+379,,,,,,,,,,,,,,,,,,,,Box4-I8
+380,,,,,,,,,,,,,,,,,,,,Box4-I9
+381,P21,一抗,Abcam,ab109199,,Rabbit,,,,,,WB,WB 1:2000,N,,,YPY盒子编为Box8,,,Box8-A1
+382,Anti-MEPCE antibody - C-terminal,一抗,Abcam,ab185991,,,,,,,,,,,,,,,,Box8-A2
+383,Anti-RNA polymerase II CTD repeat YSPTSPS (phospho S5) antibody,一抗,Abcam,ab5131,,Rabbit,Polyclonal,,"H,M,R",,"IHC-Fr, IHC-P, ELISA, IP, WB, ChIP, ICC/IF, IHC - Wholemount",,CHIP:Use 2 µg for 25 µg of chromatin.,,,,,,,Box8-A3
+384,53BP1,一抗,Abcam,ab36823,,Rabbit,,,,,,,,,,,,,,Box8-A4
+385,SIRT6,一抗,Abcam,ab62739,,Rabbit,,,,,,,,,,,,,,Box8-A5
+386,HA antibody (C29F4),一抗,Cst,3724,,Rabbit,,,,,,WB,WB 1:2000,,,,,,,Box8-A6
+387,Acetyl-p53 (Lys382) Antibody,一抗,Cst,2525S,,Rabbit,,,,,,WB,WB 1:2000,,,,,,,Box8-A7
+388,Anti-Rb (phospho S795) antibody (ab47474),一抗,Abcam,ab47474,,Rabbit,,,,,,,,,,,,,,Box8-A8
+389,Histone H3,一抗,Abcam,ab1791,,Rabbit,,,,,,WB,WB 1:2000,,,,,,,Box8-A9
+390,P-BRCA1 (S1524),一抗,Cst,9009T,,Rabbit,,,,,,,,,,,,,,Box8-B1
+391,CBP (D6C5),一抗,Cst,7389S,,Rabbit,,,,,,,,,,,,,,Box8-B2
+392,P-Chk2(T68) (C13C1),一抗,Cst,2197T,,Rabbit,,,,,,,,,,,,,,Box8-B3
+393,P-ATR(S428),一抗,Cst,2853T,,Rabbit,,,,,,,,,,,,,,Box8-B4
+394,P-Chk1(S345),一抗,Cst,2348T,,Rabbit,,,,,,,,,,,,,,Box8-B5
+395,P-Histone H2A.X (S139) (20E3),一抗,Cst,9178S,,Rabbit,,,,,,,,,,,,,,Box8-B6
+396,ATR,一抗,Cst,2790S,,Rabbit,,,,,,,,,,,,,,Box8-B7
+397,P-(S/T) ATM/ATR Substrate,一抗,Cst,2851S,,Rabbit,,,,,,,,,,,,,,Box8-B8
+398,Phospho-Rb (Ser807/811) (D20B12) XP®,一抗,Cst,8516T,,Rabbit,,,,,,,,,,,,,,Box8-B9
+399,MDM2(D1V2Z),一抗,Cst,86934S,,Rabbit,,,,,,,,,,,,,,Box8-C1
+400,DNA-PKcs Antibody #4602,一抗,Cst,4602T,,Rabbit,,,,,,,,,,,,,,Box8-C2
+401,P-ATR(S428),一抗,Cst,2853T,,Rabbit,,,,,,,,,,,,,,Box8-C3
+402,JARID1B,一抗,Cst,3273T,,Rabbit,,,,,,,,,,,,,,Box8-C4
+403,"Anti-rabbit IgG, HRP-linked antibody",二抗,Cst,7074S,,Rabbit,,,,,,,,,,,,,,Box8-C5
+404,Phospho-Tyrosine Mouse mAb (P-Tyr-100),一抗,Cst,9411S,,Mouse,All Species,,,,,,,,,,,,,Box8-C6
+405,P-Threonine (P-T-Polyclonal) Rabbit aab (magnetic bead),一抗,Cst,8859S,,Rabbit,,,,,,,,,,,,,,Box8-C7
+406,anti-BRCA2(Ab-1),一抗,Emd Millipore,OP95-100UG,,Mouse,,,,,,,,,,,,,,Box8-C8
+407,anti-CBP,一抗,Biolegend,606401,,,,,,,,,,,,,,,,Box8-C9
+408,USP22 antibody (C-term),一抗,Abgent,AM2230b-ev,,,,,,,,,,,,,,,,Box8-D1
+409,IKBKG,一抗,Lifespan Biosciences,LS-C353075,,,,,,,,,,,,,,,,Box8-D2
+410,Poly(ADP-ribose),一抗,Enzo,ALX-804-220-R100,,,Monoclonal,,,,,,,,,,,,,Box8-D3
+411,"anti-RNA polymerase II, clone CTD4H8",一抗,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 μg/mL FOR WB,,,,,,,Box8-D4
+412,rabbit anti-p16INK4a,一抗,Bethyl,A301-267A-M,,Rabbit,,,,,,,,,,,,,,Box8-D5
+413,Rabbit anti-53BP1,一抗,Bethyl,A700-011,,Rabbit,Monoclonal,,,,,,,,,,,,,Box8-D6
+414,"MEPCE Antibody,",一抗,Bethyl,A304-184A,,,,,,,,,,,,,,,,Box8-D7
+415,MEPCE Polyclonal Antibody,一抗,Abclonal,A7121,,,,,,,,,,,,,,,,Box8-D8
+416,Chk2,一抗,Abclonal,A19543,,Rabbit,Monoclonal,,,,,,,,,,,,,Box8-D9
+417,Phospho-PRKDC-S2056,一抗,Abclonal,AP0621,,Rabbit,Polyclonal,,,,,,,,,,,,,Box8-E1
+418,Phospho-CHEK2-T68,一抗,Abclonal,AP0590,,Rabbit,Polyclonal,,,,,,,,,,,,,Box8-E2
+419,IKBKG,一抗,Abclonal,A0917,,Rabbit,Polyclonal,,,,,,,,,,,,,Box8-E3
+420,SFN,一抗,Abclonal,A1026,,Rabbit,Polyclonal,,,,,,,,,,,,,Box8-E4
+421,HRAS,一抗,Abclonal,A12212,,Rabbit,Polyclonal,,,,,,,,,,,,,Box8-E5
+422,LaminB (B-100,一抗,Santa,sc-374015,,Mouse,Monoclonal,,,,,,,,,,,,,Box8-E6
+423,TAF6 antibody,一抗,Invitrogen,PA5-40955,,,,,,,,,,,,,,,,Box8-E7
+424,anti-connexin-43 antibody,一抗,Sigma,C6219-100UL,,Rabbit,,,,,,,,,,,,,,Box8-E8
+425,anti-SIRT6(N-terminal),一抗,Sigma,S4322-200UL,,Rabbit,,,,,,,,,,,,,,Box8-E9
+426,Acetylated-Lysine polyclonal antibody,一抗,Cst,9441S,,Rabbit,,,,,,,,,,,,,,Box8-F1
+427,Acetylated-Lysine monoclonal antibody (Ac-K-103),一抗,Cst,9681S,,,,,,,,,,,,,,,,Box8-F2
+428,"Monoclonal anti-actin, a-smooth musle antibody",一抗,Sigma,A2547-100ul,,Mouse,,,"H, M, R",,,,,,,,,,,Box8-F3
+429,"Anti-Phosphoserine Antibody, clone 4A4",一抗,Merck (Upstate),05-1000X,,Mouse,All Species,,,,,,,,,,,,,Box8-F4
+430,PARP2,一抗,Proteintech,55149-I-AP,,Rabbit,,,,,,,,,,,,,,Box8-F5
+431,PPARA,一抗,Proteintech,I5540-I-AP,,Rabbit,,,,,,,,,,,,,,Box8-F6
+432,"NRF2,NFE2L2",一抗,Proteintech,I6396-I-AP,,Rabbit,,,,,,,,,,,,,,Box8-F7
+433,PECAM-1(MEC13.3),一抗,Santa,SC-18916,,Rat,,,,,,,,,,,金理辉保存,,N,Box8-F8
+434,,,,,,,,,,,,,,,,,,,,Box8-F9
+435,BARD1,一抗,Bethyl,A300-263A,,Rabbit,,,,,,,,,,,,,,Box8-G1
+436,CDK1,一抗,Abclonal,A0220,,Rabbit,,,,,,,,,,,,,,Box8-G2
+437,BRCA1(Ab-1),一抗,Calbiochem,OP92-100UG,,Mouse,,,,,,,,,,,,,,Box8-G3
+438,Anti-cyclinB1,一抗,Millipore,05-373,,,,,,,,,,,,,,,,Box8-G4
+439,CCNB2,一抗,Abclonal,A3351,,Rabbit,,,,,,,,,,,,,,Box8-G5
+440,XRCC1,一抗,Abclonal,A0442,,Rabbit,,,,,,,,,,,,,,Box8-G6
+441,LARP7 Polyclonal Antibody,一抗,Bethyl,A303-723A,,Rabbit,,,"H,M",,"WB,IP",,1:2000-1:10000 FOR WB,,,,,,,Box8-G7
+442,PARP1,一抗,Abclonal,A0942,,Rabbit,,,,,,,,,,,,,,Box8-G8
+443,PARP1,一抗,Proteintech,I337I-I-AP,,Rabbit,,,,,,,,,,,,,,Box8-G9
+444,PARP1,一抗,Abcam,AB227244,,Rabbit,,,,,,,,,,,,,,Box8-H1
+445,Rb antibody Acetylated p65(K310),一抗,Cst,3045S,,Rabbit,,,,,,,,,,,,,,Box8-H2
+446,IL1A,一抗,Abclonal,A1316,,Rabbit,,,,,,,,,,,,,,Box8-H3
+447,IL1B,一抗,Abclonal,A16288,,Rabbit,,,,,,,,,,,,,,Box8-H4
+448,p21 waf1/Cip1(12D1),一抗,Cst,2947S,,Rabbit,,,,,,,,,,,不好用（沙沙反馈）,,N,Box8-H5
+449,Poly/mono-ADP Ribose(E6F6A),一抗,Cst,83732S,,Rabbit,,,,,,,,,,,,,,Box8-H6
+450,K48-linked polyubiquitin,一抗,Cst,4289S,,Rabbit,,,,,,,,,,,,,,Box8-H7
+451,CDKN2A/p16INK4a,一抗,Abcam,AB108349,,Rabbit,,,,,,,,,,,,,,Box8-H8
+452,CDK1,一抗,Abcam,AB18,,Mouse,,,,,,,,,,,,,,Box8-H9
+453,RPS19BP1/AROS,一抗,Abcam,AB201091,,Rabbit,,,,,,,,,,,,,,Box8-I1
+454,LAMIN B1,一抗,Abcam,AB16048,,Rabbit,,,,,,,,,,,,,,Box8-I2
+455,BRCA1,一抗,Abcam,AB191042,,Rabbit,,,,,,,,,,,,,,Box8-I3
+456,,,,,,,,,,,,,,,,,,,,Box8-I4
+457,,,,,,,,,,,,,,,,,,,,Box8-I5
+458,,,,,,,,,,,,,,,,,,,,Box8-I6
+459,,,,,,,,,,,,,,,,,,,,Box8-I7
+460,,,,,,,,,,,,,,,,,,,,Box8-I8
+461,,,,,,,,,,,,,,,,,,,,Box8-I9
+462,anti-phospho-ATM(Ser1981),一抗,Millipore,MAB3806-C,,Mouse,Monoclonal,,H M,,"ICC, IP, ELISA, WB",,,,,,Box9 原为蕙菁抗体盒子,,,Box9-A1
+463,RAD51,一抗,Calbiochem,PC130,,Rabbit,Polyclonal,,"H,M,R",,"WB,IF,IP",,,,,,,,,Box9-A2
+464,Phospho-HISTONE H2A.X (S139),一抗,Millipore,05-636,,Mouse,Monoclonal,,Vertebrates,,"ICC, IF, WB, ChIP, IHC",,,,,,,,,Box9-A3
+465,Phospho-H2AFX-S139,一抗,Abclonal,AP0099,,Rabbit,,,"H,M,R",,WB,,,,,,,,,Box9-A4
+466,PHOSPHO-ATM-S1981,一抗,Abclonal,AP0310,,Rabbit,,,H,,"WB, IHC",,,,,,,,,Box9-A5
+467,DUSP27(F-12),一抗,Santa,SC-515513,,Mouse,Monoclonal,,"H,M,R",,"WB,IP,IF,ELISA",,,,,,,,,Box9-A6
+468,ATM,一抗,Abclonal,A5908,,Rabbit,,,H,,WB,,WB1:500 - 1:1000,,,,,,,Box9-A7
+469,rabbit IgG,二抗,Beyotime,,,,,,,,,,,,,,,,,Box9-A8
+470,acetylated lysine,一抗,Cst,9441S,,Rabbit,,,All species,,"WB,IP,IHC,IF,CHIP,peptide ELISA",,,,,,,,,Box9-A9
+471,CDK4,一抗,Abclonal,A0366,,Rabbit,,,"H,M,R",,"WB,IP,IHC",,,,,,,,,Box9-B1
+472,COX6A1,一抗,Abclonal,A3798,,Rabbit,,,"H,M,R",,"WB,IHC,IF",,WB1:200 - 1:2000IHC1:20 - 1:200IF1:50 - 1:200,,,,,,,Box9-B2
+473,ATP6VOC,一抗,Abclonal,A16350,,Rabbit,,,"M,R",,"WB,IF",,WB 1:500 - 1:2000IF 1:50 - 1:100,,,,,,,Box9-B3
+474,P-ATM(S1981),一抗,Cst,5883T,,Rabbit,,,H,,WB,,WB 1:1000,,,,,,,Box9-B4
+475,PGC1A,一抗,Novus,NBP-04676,,Rabbit,Monoclonal,,"H, M, R, Goat, Hamster, Porcine",,"WB, ChIP, Flow, Flow-IC, ICC/IF, IHC, IHC-Fr, IHC-P, IP, KD, KO",,Chromatin ImmunoprecipitationFlow (Intracellular) 1 - 2.5 ug/mlFlow Cytometry 1 - 2.5 ug/mlImmunocytochemistry/Immunofluorescence 1:1000Immunohistochemistry 1:10-1:500Immunohistochemistry-FrozenImmunohistochemistry-Paraffin 1:200ImmunoprecipitationKnockdown ValidatedKnockout ValidatedWestern Blot 1 - 2 ug/ml,,,,,,,Box9-B5
+476,AuroraB,一抗,Sigma,A5102,,Rabbit,Polyclonal,,"H,M,R",,"WB,IP,IF",,IF 1:200,,,,,,,Box9-B6
+477,p-BRCA2(Ser3291),一抗,Millipore,AB9986,,Rabbit,,,"H, Eq, M, R, Chp, Ca, Ht, Rhesus Macaque",,"ICC, IHC, DB",,IHC only,,,,,,,Box9-B7
+478,pgc1 alpha,一抗,Novus,nbp1-04676,,Rabbit,Monoclonal,,"H, M, R, Goat, Hamster, Porcine",,"WB, ChIP, Flow, Flow-IC, ICC/IF, IHC, IHC-Fr, IHC-P, IP, KD, KO",,Chromatin ImmunoprecipitationFlow (Intracellular) 1 - 2.5 ug/mlFlow Cytometry 1 - 2.5 ug/mlImmunocytochemistry/Immunofluorescence 1:1000Immunohistochemistry 1:10-1:500Immunohistochemistry-FrozenImmunohistochemistry-Paraffin 1:200ImmunoprecipitationKnockdown ValidatedKnockout ValidatedWestern Blot 1 - 2 ug/ml,,,,,,,Box9-B8
+479,,,,,,,,,,,,,,,,,,,,Box9-B9
+480,ATM,一抗,Santa Cruz,SC-135663,,Mouse,Monoclonal,,"H,M,R",,"WB,IP,ELISA",,"WB:1:1000                    immunoprecipitation [1-2 µg per 100-500 µg of total protein solid phase ELISA (starting dilution 1:30, dilution range1:30-1:3000).",,,,,,,Box9-C1
+481,anti-ATM Protein kinase pS1981,一抗,Rockland,P/N 200-301-400S,,Mouse,Monoclonal,,"H,M,R",,"ELISA, FC, IF, SDS-PAGE, WB",,,,,,,,,Box9-C2
+482,ANTI-SIRT1,一抗,Millipore,07-131,,Rabbit,Polyclonal,,"M,H",,"ICC, IP, WB, ChIP",,,,,,,,,Box9-C3
+483,ESRRA,一抗,Abclonal,A14184,,Rabbit,Polyclonal,,"H,M,R",,WB IHC,,WB1:500 - 1:2000IHC1:50 - 1:200,,,,,,,Box9-C4
+484,SOD1,一抗,Abclonal,A0274,,Rabbit,Polyclonal,,"H,M,R",,WB IHC IF,,WB1:500 - 1:2000IHC1:50 - 1:200IF1:50 - 1:200,,,,,,,Box9-C5
+485,ESRRA,一抗,Lifespan Bio,LS-A5402,,Rabbit,Polyclonal,,"Human, Monkey, Mouse, Rat, Bat, Bovine, Dog, Hamster, Horse, Pig",,"IHC, IHC-P, ChrIP",,,,,,,,,Box9-C6
+486,HSPD1,一抗,Abclonal,A0969,,Rabbit,Polyclonal,,H M R,,WB IHC IF IP,,WB1:500 - 1:2000IHC1:50 - 1:200IF1:50 - 1:100IP1:50 - 1:200,,,,,,,Box9-C7
+487,NDUFA12,一抗,Abclonal,A8237,,Rabbit,,,"H, M R",,WB,,WB 1:500 - 1:2000,,,,,,,Box9-C8
+488,ATR,一抗,Abclonal,A7247,,Rabbit,,,H,,WB,,WB1:500 - 1:2000,,,,,,,Box9-C9
+489,ATP5G1/2/3,一抗,Abcam,ab180149,,Rabbit,Monoclonal,,H M R,,WB IHC-P,,,,,,,,,Box9-D1
+490,COX IV,一抗,40Ul,abcam,ab202554,Rabbit,Monoclonal,,H M R,,"low Cyt (Intra), ICC/IF, IP, IHC-P, WB",,,,,,,,,Box9-D2
+491,PGC1 ALPHA,一抗,Abcam,AB54481,,Rabbit,Polyclonal,,H M,,WB,,,,,,,,,Box9-D3
+492,CollagenI,一抗,Abcam,ab6308,,Mouse,Monoclonal,,H,,"IHC-Fr, WB",,,,,,,,,Box9-D4
+493,4-HNE (4 HYDROXYNONEAL),一抗,Abcam,ab46545,,Rabbit,Polyclonal,,Species independent,,WB,,IF 1:100,,,,,,,Box9-D5
+494,SDHB,一抗,Abcam,ab14714,,Mouse,Monoclonal,,H M R cow,,"Flow Cyt, IHC-Fr, WB, ICC/IF",,,,,,,,,Box9-D6
+495,mt-TFA (TFAM),一抗,Abcam,ab131607,,Rabbit,Polyclonal,,R,,WB,,,,,,,,,Box9-D7
+496,LAMP1,一抗,Abcam,ab25245,,Rat,Monoclonal,,H,,"IHC-P, Flow Cyt (Intra)",,,,,,,,,Box9-D8
+497,DUPD1,一抗,Santa Cruz,sc515513,,Mouse,Monoclonal,,H M R,,WB IP IF ELISA,,,,,,,,,Box9-D9
+498,FLAG M2 BEADS,一抗,Sigma,,,,,,,,,,,,,,,,,Box9-E1
+499,Dusp27-C-1,一抗,公司合成,/,,Rabbit,,,mouse,,"WB(1:1000),IHC (1:50),IF(1:50)",,0.217 ug/ul,,,,由胡欢保存,,,Box9-E2
+500,Dusp27-C-2,一抗,公司合成,/,,Rabbit,,,mouse,,,,3.7 ug/ul,,,,由胡欢保存，特异性差（惠菁师姐）,,N,Box9-E3
+501,Dusp27-N-1,一抗,公司合成,/,,Rabbit,,,mouse,,,,0.38 ug/ul,,,,由胡欢保存，特异性差（惠菁师姐）,,N,Box9-E4
+502,Dusp27,一抗,Sigama,HPA012912,,Rabbit,,,human,,IF (0.25-2ug/ul),,,,,,由胡欢保存,,,Box9-E5
+503,Dusp27,一抗,Abcam,ab220004,,Rabbit,,,"human,mouse,rat",,ICC/IF (0.25-2ug/ul),,,,,,由胡欢保存,,,Box9-E6
+504,,,,,,,,,,,,,,,,,,,,Box9-E7
+505,,,,,,,,,,,,,,,,,,,,Box9-E8
+506,,,,,,,,,,,,,,,,,,,,Box9-E9
+507,p54/nrb(A-11),一抗,Santa,SC-166702,,Mouse,Monoclonal,,H M R,,WB IP IF ELISA,,,,,,来源于应梅订购抗体,,,Box9-F1
+508,PSF(39-1),一抗,Santa,SC-101137,,Mouse,Monoclonal,,H M R,,WB IP IF IHC ELISA,,,,,,来源于应梅订购抗体,,,Box9-F2
+509,LARP1,一抗,Proteintech,13708-1-AP,,Rabbit,Polyclonal,,H M R fruit fly,,WB IHC/IF,,,,,,来源于应梅订购抗体,,,Box9-F3
+510,Histone H3(tri methyl K9),一抗,Abcam,AB8898,,Rabbit,Polyclonal,,H M Cow,,"WB, IHC-P, ICC, ChIP",,,,,,来源于应梅订购抗体,,,Box9-F4
+511,SMOOTH MUSCLE,一抗,Abcam,AB683,,Mouse,,,,,,,,,,,"来源于应梅订购抗体，备注（MYH11),not available",,,Box9-F5
+512,nmt55/p54nrb,一抗,Abcam,ab70335,,Rabbit,Polyclonal,,H M R,,"ICC/IF, IHC-P, WB, IP",,,,,,来源于应梅订购抗体,,,Box9-F6
+513,Cardiac Troponin I,一抗,Abcam,AB47003,,Rabbit,Polyclonal,,H M R pig,,"ELISA, WB, ICC/IF, IHC-Fr, Flow Cyt, IHC-P",,,,,,来源于应梅订购抗体,,,Box9-F7
+514,,,,,,,,,,,,,,,,,,,,Box9-F8
+515,,,,,,,,,,,,,,,,,,,,Box9-F9
+516,,,,,,,,,,,,,,,,,,,,Box9-G1
+517,,,,,,,,,,,,,,,,,,,,Box9-G2
+518,,,,,,,,,,,,,,,,,,,,Box9-G3
+519,,,,,,,,,,,,,,,,,,,,Box9-G4
+520,,,,,,,,,,,,,,,,,,,,Box9-G5
+521,,,,,,,,,,,,,,,,,,,,Box9-G6
+522,,,,,,,,,,,,,,,,,,,,Box9-G7
+523,,,,,,,,,,,,,,,,,,,,Box9-G8
+524,,,,,,,,,,,,,,,,,,,,Box9-G9
+525,,,,,,,,,,,,,,,,,,,,Box9-H1
+526,,,,,,,,,,,,,,,,,,,,Box9-H2
+527,,,,,,,,,,,,,,,,,,,,Box9-H3
+528,,,,,,,,,,,,,,,,,,,,Box9-H4
+529,,,,,,,,,,,,,,,,,,,,Box9-H5
+530,,,,,,,,,,,,,,,,,,,,Box9-H6
+531,,,,,,,,,,,,,,,,,,,,Box9-H7
+532,,,,,,,,,,,,,,,,,,,,Box9-H8
+533,,,,,,,,,,,,,,,,,,,,Box9-H9
+534,,,,,,,,,,,,,,,,,,,,Box9-I1
+535,,,,,,,,,,,,,,,,,,,,Box9-I2
+536,,,,,,,,,,,,,,,,,,,,Box9-I3
+537,,,,,,,,,,,,,,,,,,,,Box9-I4
+538,,,,,,,,,,,,,,,,,,,,Box9-I5
+539,,,,,,,,,,,,,,,,,,,,Box9-I6
+540,,,,,,,,,,,,,,,,,,,,Box9-I7
+541,,,,,,,,,,,,,,,,,,,,Box9-I8
+542,,,,,,,,,,,,,,,,,,,,Box9-I9
+543,p-NFκB p65 (27.Ser 536),一抗,Santa,sc-136548,,Mouse,,,"H,M,R",,"WB,IP,IHC,IF,ELISA",,1:100-1:1000 FOR WB,,,,Box10 熊俊浩保存,,,Box10-A1
+544,TAK1(C-9),一抗,Santa,SC-7967,,Mouse,,,"H,M,R",,"WB,IP,IHC,IF,ELISA",,1:100-1:1000 FOR WB,,,,,,,Box10-A2
+545,CD3(PC3/188A),一抗,Santa,SC-20047,,Mouse,,,"H,M,R",,"WB,IP,IHC,IF,ELISA, FCAS",,1:100-1:1000 FOR WB,,,,,,,Box10-A3
+546,NFKB P65(F-6),一抗,Santa,SC-8008,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000IF 1:50 - 1:200,,,,,,,Box10-A4
+547,CD68 (KP1),一抗,Santa,SC-20060,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000,,,,,,,Box10-A5
+548,TRAF6(D-10),一抗,Santa,SC-8409,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000,,,,,,,Box10-A6
+549,MYD88(E-11),一抗,Santa,SC-74532,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000,,,,,,,Box10-A7
+550,Normal rabbit IgG,二抗,Cst,2729S,,Rabbit,,,"H,M,R",,IP,,1ul for IP,,,,,,,Box10-A8
+551,DYKDDDK Tag,一抗,Cst,2368T,,Rabbit,,,,,,,,,,,,,N,Box10-A9
+552,Angiotesinogen,一抗,Abclonal,A15637,,Rabbit,,,,,,,,,,,,N,,Box10-B1
+553,Angiotesinogen,一抗,Abclonal,A15637,,Rabbit,,,human,,WB,,WB 1:1000;,,,,,,,Box10-B2
+554,Renin,一抗,Abclonal,A1585,,Rabbit,,,"Mouse, Rat, Human",,WB 1:500 - 1:2000IHC 1:100 - 1:200,,WB 1:500 - 1:2000IHC 1:100 - 1:200,,,,,,,Box10-B3
+555,APOC3,一抗,Abclonal,A1409,,Rabbit,,,"Mouse, Rat, Human",,WB 1:1000; in 脱脂牛奶,,WB 1:1000; in 脱脂牛奶,,,,,,,Box10-B4
+556,ANTI-AGT,一抗,Millipore,MABS817,,Mouse,,,human,,WB,,WB 1:1000;,,,,,,,Box10-B5
+557,GAPDH antibody,一抗,Genetex,GT239,,Mouse,,,,,,,,,,,,N,,Box10-B6
+558,KAP1,一抗,Diagenode,C15410236,,Rabbit,,,"H,M",,only for CHIP,,2ug/CHIP,,,,,,,Box10-B7
+559,Angiotesinogen,一抗,Abcam,AB213705,,Rabbit,,,"Mouse, Rat",,WB 1:1000 IP 1:40,,WB 1:1000 IP 1:40,,,,,,,Box10-B8
+560,Phospho-H2AFX-S139,一抗,Abclonal,AP0099,,Rabbit,,,"Mouse, Rat, Human",,WB1:500 - 1:1000,,WB1:500 - 1:1000,,,,,,,Box10-B9
+561,TLR3,一抗,Abclonal,A11778,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,,,,Box10-C1
+562,K63-linkage specific polyubiquitin,一抗,Abclonal,A18164,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000DB 1:500 - 1:2000,,WB 1:500 - 1:2000DB 1:500 - 1:2000,,,,,,,Box10-C2
+563,TLR7,一抗,Abclonal,A0991,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000,,WB 1:500 - 1:2000,,,,,,,Box10-C3
+564,TLR8,一抗,Abclonal,A12906,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IF 1:50 - 1:200,,WB 1:500 - 1:2000IF 1:50 - 1:200,,,,,,,Box10-C4
+565,STING/TMEM173,一抗,Abclonal,A3575,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200IP 1:50 - 1:100,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200IP 1:50 - 1:100,,,,,,,Box10-C5
+566,MDA5,一抗,Abclonal,A2419,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,,,,Box10-C6
+567,cGAS,一抗,Abclonal,A8335,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:100IP 1:50 - 1:100,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:100IP 1:50 - 1:100,,,,,,,Box10-C7
+568,RIG-1/DDX58,一抗,Abclonal,A13407,,Rabbit,,,"Human, Mouse",,WB 1:500 - 1:2000IF 1:50 - 1:200,,WB 1:500 - 1:2000IF 1:50 - 1:200,,,,,,,Box10-C8
+569,Phospho-TAK1-T187,一抗,Abclonal,AP1222,,Rabbit,,,"Human, Mouse",,WB 1:500 - 1:2000,,WB 1:500 - 1:2000,,,,,,,Box10-C9
+570,IRF3,一抗,Abclonal,A0816,,Rabbit,,,,,,,,,,,,N,,Box10-D1
+571,Phospho-IRF3-S396,一抗,Abclonal,AP0623,,Rabbit,,,,,,,,,,,,N,,Box10-D2
+572,MAVS,一抗,Abclonal,A5764,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,,,,Box10-D3
+573,MAVS,一抗,Abclonal,A5764,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,,,,Box10-D4
+574,HRP-conjugated goat anti-mouse IgG light chain,二抗,Abclonal,AS062,,Goat,,,"Human, Mouse",,WB1:2000 - 1:10000,,WB1:2000 - 1:10000,,,,,,,Box10-D5
+575,MOUSE IgG,二抗,Beyotime,A7028,,,,,"H,M,R",,IP,,1ul for IP,,,,,,,Box10-D6
+576,WGA 647,一抗,,,,,,,,,IF,,IF 1:500,,,,,,,Box10-D7
+577,Rabbit HRP 二抗,二抗,,,,,,,,,,,,,,,,,,Box10-D8
+578,mouse 二抗,二抗,,,,,,,,,,,,,,,,,,Box10-D9
+579,CD31,一抗,Bd,550274,,Rat,Monoclonal,,MOUSE,,"IHC,IF",,1:200 FOR IHC,,,,,,,Box10-E1
+580,CD31,一抗,Bd,553370,,Rat,Monoclonal,,MOUSE,,"IHC,IF",,1:100 FOR IHC,,,,,,,Box10-E2
+581,CD31 (PECAM-1) (89C2) Mouse mAb,一抗,Cst,3528S,,Mouse,Monoclonal,,H,,"WB,IP,IHC,IF",,1:1000 FOR WB,,,,,,,Box10-E3
+582,3*FLAG PEPTIDE 5MG/ML,一抗,,,,,,,,,,,,,,,,,,Box10-E4
+583,3*FLAG PEPTIDE 5MG/ML,一抗,,,,,,,,,,,,,,,,,,Box10-E5
+584,P300,一抗,,SC585X,,,,,,,WB,,,,,,,,,Box10-E6
+585,KAP1 (TIF1β Antibody),一抗,Cst,4123T,,Rabbit,,,H M R Mk,,"WB,IP,IF",,1:1000 FOR WB,,,,,,,Box10-E7
+586,,,,,,,,,,,,,,,,,,,,Box10-E8
+587,,,,,,,,,,,,,,,,,,,,Box10-E9
+588,,,,,,,,,,,,,,,,,,,,Box10-F1
+589,,,,,,,,,,,,,,,,,,,,Box10-F2
+590,,,,,,,,,,,,,,,,,,,,Box10-F3
+591,,,,,,,,,,,,,,,,,,,,Box10-F4
+592,,,,,,,,,,,,,,,,,,,,Box10-F5
+593,,,,,,,,,,,,,,,,,,,,Box10-F6
+594,,,,,,,,,,,,,,,,,,,,Box10-F7
+595,,,,,,,,,,,,,,,,,,,,Box10-F8
+596,,,,,,,,,,,,,,,,,,,,Box10-F9
+597,,,,,,,,,,,,,,,,,,,,Box10-G1
+598,,,,,,,,,,,,,,,,,,,,Box10-G2
+599,,,,,,,,,,,,,,,,,,,,Box10-G3
+600,,,,,,,,,,,,,,,,,,,,Box10-G4
+601,,,,,,,,,,,,,,,,,,,,Box10-G5
+602,,,,,,,,,,,,,,,,,,,,Box10-G6
+603,,,,,,,,,,,,,,,,,,,,Box10-G7
+604,,,,,,,,,,,,,,,,,,,,Box10-G8
+605,,,,,,,,,,,,,,,,,,,,Box10-G9
+606,,,,,,,,,,,,,,,,,,,,Box10-H1
+607,,,,,,,,,,,,,,,,,,,,Box10-H2
+608,,,,,,,,,,,,,,,,,,,,Box10-H3
+609,,,,,,,,,,,,,,,,,,,,Box10-H4
+610,,,,,,,,,,,,,,,,,,,,Box10-H5
+611,,,,,,,,,,,,,,,,,,,,Box10-H6
+612,,,,,,,,,,,,,,,,,,,,Box10-H7
+613,,,,,,,,,,,,,,,,,,,,Box10-H8
+614,,,,,,,,,,,,,,,,,,,,Box10-H9
+615,,,,,,,,,,,,,,,,,,,,Box10-I1
+616,,,,,,,,,,,,,,,,,,,,Box10-I2
+617,,,,,,,,,,,,,,,,,,,,Box10-I3
+618,,,,,,,,,,,,,,,,,,,,Box10-I4
+619,,,,,,,,,,,,,,,,,,,,Box10-I5
+620,,,,,,,,,,,,,,,,,,,,Box10-I6
+621,,,,,,,,,,,,,,,,,,,,Box10-I7
+622,,,,,,,,,,,,,,,,,,,,Box10-I8
+623,,,,,,,,,,,,,,,,,,,,Box10-I9
+624,FLAG M2 MAGNETIC BEADS,一抗,,,,,,,,,,,,,,,Box11为大体积抗体和之前的内参抗体 （这个盒子的抗体不严格按顺序排列）,,,Box11-A1
+625,ANTI FLAG M2 GEL,一抗,Sigma,A2220-1ML,,,,,,,,,,,,,,,,Box11-A2
+626,FLAG M2 MAGNETIC BEADS,一抗,Sigma,M8823-1ML,,,,,,,,,,,,,,,,Box11-A3
+627,Hypoxyprobe-1,一抗,,,,,,,,,,,,,,,,,,Box11-A4
+628,"dextran,fluorescein, 70,000MW, anionic, lysine fixable",一抗,Molecular Probes,D1822,,,,,,,,,,,,,,,,Box11-A5
+629,mouse anti-human CD31,一抗,Dako,M0823,,Mouse,,,,,,,,,,,,,,Box11-A6
+630,Allophycocyanin-conjugated streptavidin,一抗,Jackson Immuno Research,016-130-084,,,,,,,,,,,,,,,,Box11-A7
+631,anti-flag M2 antibody,一抗,Millipore,F1804-1MG,,Mouse,Monoclonal,,,,,,,,,,,,,Box11-A8
+632,anti-flag M2 antibody,一抗,Millipore,F1804-1MG,,Mouse,Monoclonal,,,,,,,,,,,,,Box11-A9
+633,beta tubulin,一抗,Abmart,M20005S,,Mouse,Monoclonal,,,,,,,,,,,,,Box11-B1
+634,HA-TAG,一抗,Abmart,M20003S,,Mouse,Monoclonal,,,,,,,,,,,,,Box11-B2
+635,ACTIN,一抗,Abmart,M20011S,,,Monoclonal,,,,,,,,,,,,,Box11-B3
+636,HA-TAG,一抗,Cst,3724S,,Rabbit,Monoclonal,,,,,,,,,,,,,Box11-B4
+637,ANTI-GST ANTIBODY,一抗,,27457701V,,,,,,,,,,,,,,,,Box11-B5
+638,beta tubulin,一抗,Cst,2146S,,Rabbit,,,,,,,,,,,,,,Box11-B6
+639,"ANTI RABBIT IgG, HRP-LINKED ANTIBODY",二抗,Cst,7074S,,,,,,,,,,,,,,,,Box11-B7
+640,"ANTI RABBIT IgG, HRP-LINKED ANTIBODY",二抗,Cst,7074S,,,,,,,,,,,,,,,,Box11-B8
+641,VE-Cadherin,一抗,,,,,,,,,,,,,,,,,,Box11-B9
+642,"ANTI mouse IgG, HRP-LINKED ANTIBODY",二抗,Cst,7076S,,,,,,,,,,,,,,,,Box11-C1
+643,beta tubulin,一抗,Abmart,M20005S,,Mouse,Monoclonal,,,,,,,,,,,,,Box11-C2
+644,goat-anti-rabbit and mouse IgG-HRP,二抗,Abmart,M21003S,,,,,,,,,,,,,,,,Box11-C3
+645,beta tubulin,一抗,Solarbio,K200059M,,Mouse,,,,,,,,,,,,,,Box11-C4
+645,辣根过氧化物酶标记的驴抗羊IgG|Donkey Anti-Goat IgG/HRP,二抗,Bioss/博奥森,bs-0294D-HRP-100ul,,Donkey,Polyclonal,IgG,,,"WB=1:1000-10000, IHC-P=1:100-500, IHC-F=1:100-1000, ELISA=1:1000-10000",WB,,2.0 mg/ml,,http://www.bioss.com.cn/prolook_03.asp?id=AF08169606010811&pro37=4,个人保存位置：胡欢,,,Box11-C5
+645,Human/Mouse/Rat alpha -Actinin 1 Antibody,一抗,R&D Systems,AF8279,,Goat,Polyclonal,,H M R,,WB IHC IF,IF,1:20,0.2 mg/mL,,,个人保存位置：吴硕,Y,Y,Box11-C6
+645,Human/Mouse/Rat alpha -Actinin 1 Antibody,一抗,R&D Systems,AF8279,,Goat,Polyclonal,,"Human, Mouse, Rat",,"ICC/IF, WB",,"ICC/IF 10µg/mL, WB 0.5µg/mL",,,,个人保存位置：胡欢,Y,,Box11-C7
+645,HA Tag Mouse Monoclonal Antibody,一抗,碧云天(Beyotime),AF2858-200μl,,Mouse,Monoclonal,,,,"WB, IP, IF, IHC, ICC",,"WB1:1000, IP1:50, IF1:50, IHC1；50, ICC1:50",,,,个人保存位置：胡欢,Y,Y,Box11-C8
+645,Mouse Anti-Rabbit IgG (Light-Chain Specific) (D4W3E) mAb (HRP Conjugate) #93702,二抗,Cell Signaling Technology,93702S,,Mouse,,,Rb,,WB,WB,WB1:1000,880 µg/ml,,,个人保存位置：胡欢,Y,Y,Box11-C9
+645,GST tag(12G8),一抗,Abmart,M20007,,Mouse,Monoclonal,,,,,,,,,,,Y,,Box11-D1
+645,,,,,,,,,,,,,,,,,,,,Box11-D2
+645,,,,,,,,,,,,,,,,,,,,Box11-D3
+645,,,,,,,,,,,,,,,,,,,,Box11-D4
+645,,,,,,,,,,,,,,,,,,,,Box11-D5
+645,"streptavidin, Alexa Fluor 488",二抗,Invitrogen,S32354,,,,,,,,,,,,,Box12为荧光二抗 （这个盒子的抗体不严格按顺序排列）,,,Box12-A1
+645,Donkey anti mouse 488,二抗,Invitrogen,A21202,,,,,,,,,,,,,,,,Box12-A2
+645,Donkey anti RAT 488,二抗,Invitrogen,A21208,,,,,,,,,,,,,,,,Box12-A3
+645,Donkey anti GOAT 488,二抗,Invitrogen,A11055,,,,,,,,,,,,,,,,Box12-A4
+645,Donkey anti MOUSE 488,二抗,Invitrogen,A21202,,,,,,,,,,,,,,,,Box12-A5
+645,Donkey anti RABBIT 488,二抗,Invitrogen,A21206,,,,,,,,,,,,,,,,Box12-A6
+645,GOAT anti RAT 488,二抗,Invitrogen,A11006,,,,,,,,,,,,,,,,Box12-A7
+645,,,,,,,,,,,,,,,,,,,,Box12-A8
+645,,,,,,,,,,,,,,,,,,,,Box12-A9
+645,Donkey anti mouse 555,二抗,Invitrogen,A31570,,,,,,,,,,,,,,,,Box12-B1
+645,Donkey anti GOAT 555,二抗,Invitrogen,A21432,,,,,,,,,,,,,,,,Box12-B2
+645,Donkey anti MOUSE 555,二抗,Invitrogen,A31570,,,,,,,,,,,,,,,,Box12-B3
+645,Donkey anti RABBIT 555,二抗,Invitrogen,A31572,,,,,,,,,,,,,,,,Box12-B4
+645,"streptavidin, Alexa Fluor 555",二抗,Invitrogen,S32355,,,,,,,,,,,,,,,,Box12-B5
+645,"streptavidin, ARODAMINE RED CONJUGATED",二抗,Invitrogen,S6366,,,,,,,,,,,,,,,,Box12-B6
+645,Cy3 GOAT ANTI RAT,二抗,Invitrogen,A10522,,,,,,,,,,,,,,,,Box12-B7
+645,,,,,,,,,,,,,,,,,,,,Box12-B8
+645,,,,,,,,,,,,,,,,,,,,Box12-B9
+645,Donkey anti mouse 647,二抗,Invitrogen,A31571,,,,,,,,,,,,,,,,Box12-C1
+645,Donkey anti RABBIT 647,二抗,Invitrogen,A31573,,,,,,,,,,,,,,,,Box12-C2
+645,"RODAMINE PHALLOIDIN,F-ACTIN",二抗,Invitrogen,R415,,,,,,,,,,,,,,,,Box12-C3
+645,MITOTRACKER GREEN,二抗,Invitrogen,M7514,,,,,,,,,,,,,,,,Box12-C4
+645,ER TRACKER BLUE-WHITE DPX,二抗,Invitrogen,E12353,,,,,,,,,,,,,,,,Box12-C5
+645,MITOTRACKER RED CMX ROS,二抗,Invitrogen,M7512,,,,,,,,,,,,,,,,Box12-C6
+645,HOCHEST,二抗,,33342,,,,,,,,,,,,,,,,Box12-C7
+645,BARDOXOLONE METHYL,二抗,Selleckchem.Com,S8078,,,,,,,,,,,,,,,,Box12-C8
