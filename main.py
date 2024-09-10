@@ -51,6 +51,8 @@ with tab2:
                 data_new.to_csv('binglab_antibody.v0.0.8.csv')
 
                 st.success('保存成功！')
+            else:
+                st.error('密码错误～')
      
 with tab3:
     st.dataframe(antibody_df.describe())
