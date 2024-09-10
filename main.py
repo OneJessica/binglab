@@ -3,14 +3,14 @@ import pandas as pd
 import time
 
 def update_log(text,localtime):
-    with open('data/update.log.txt','a+') as f:
+    with open('update.log.txt','a+') as f:
         f.write(localtime)
         f.write(':')
         f.write(text)
 # from pandas.testing import assert_frame_equal
 @st.cache_data
 def get_data():
-    antibody_df= pd.read_csv('data/binglab_antibody.v0.0.8.csv',index_col=0)
+    antibody_df= pd.read_csv('binglab_antibody.v0.0.8.csv',index_col=0)
     return antibody_df
 st.header('Antibody')
 antibody_df = get_data()
@@ -47,13 +47,11 @@ with tab2:
                 update_log(str(compa)+'/n'+str(data_new.loc[compa.index, ['name','location']])
 
                        ,localtime)
-            antibody_df.to_csv(f'data/binglab_antibody.v0.0.8_{localtime}.csv')
-            data_new.to_csv('data/binglab_antibody.v0.0.8.csv')
+            antibody_df.to_csv(f'binglab_antibody.v0.0.8_{localtime}.csv')
+            data_new.to_csv('binglab_antibody.v0.0.8.csv')
 
             st.success('保存成功！')
-    # assert_frame_equal(data_new,antibody_df)
-    # if data_new != antibody_df:
-    #     data_new.to_csv('/Volumes/tree/Ontology/Binglab/1.数据/抗体/binglab_antibody/binglab_antibody_test.csv')
+     
 with tab3:
     st.dataframe(antibody_df.describe())
     for col in antibody_df.columns:
