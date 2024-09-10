@@ -47,10 +47,10 @@ with tab2:
                 update_log(str(compa)+'/n'+str(data_new.loc[compa.index, ['name','location']])
 
                        ,localtime)
-            antibody_df.to_csv(f'binglab_antibody.v0.0.8_{localtime}.csv')
-            data_new.to_csv('binglab_antibody.v0.0.8.csv')
+                antibody_df.to_csv(f'binglab_antibody.v0.0.8_{localtime}.csv')
+                data_new.to_csv('binglab_antibody.v0.0.8.csv')
 
-            st.success('保存成功！')
+                st.success('保存成功！')
      
 with tab3:
     st.dataframe(antibody_df.describe())
