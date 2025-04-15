@@ -7,10 +7,14 @@ def update_log(text,localtime):
         f.write(localtime)
         f.write(':')
         f.write(text)
+
+def read_update_log():
+    with open('update.log.txt',) as f:
+        return f.read()
 # from pandas.testing import assert_frame_equal
 @st.cache_data
 def get_data():
-    antibody_df= pd.read_csv('binglab_antibody.v0.0.8.csv',index_col=0)
+    antibody_df= pd.read_csv('binglab_antibody.v0.0.9.csv',index_col=0)
     return antibody_df
 st.header('Antibody')
 antibody_df = get_data()
@@ -34,25 +38,26 @@ with tab2:
     data_new=st.data_editor(antibody_df,num_rows=num_row)
     # st.dataframe(data_new.compare(antibody_df))
     st.subheader('修改情况')
-    compa = data_new.compare(antibody_df)
-    if len(compa) <1:
-        st.info('暂无修改')
-    else:
-        compa
-        data_new.loc[compa.index, ['name','location']]
-        if st.button('确认修改'):
-            passwd = st.text_input('请输入修改密码')
-            if passwd == 'bing123456':
-                localtime = time.asctime(time.localtime())#
-                update_log(str(compa)+'/n'+str(data_new.loc[compa.index, ['name','location']])
+    st.info(read_update_log)
+    # compa = data_new.compare(antibody_df)
+    # if len(compa) <1:
+    #     st.info('暂无修改')
+    # else:
+    #     compa
+    #     data_new.loc[compa.index, ['name','location']]
+    #     if st.button('确认修改'):
+    #         passwd = st.text_input('请输入修改密码')
+    #         if passwd == 'bing123456':
+    #             localtime = time.asctime(time.localtime())#
+    #             update_log(str(compa)+'/n'+str(data_new.loc[compa.index, ['name','location']])
 
-                       ,localtime)
-                antibody_df.to_csv(f'binglab_antibody.v0.0.8_{localtime}.csv')
-                data_new.to_csv('binglab_antibody.v0.0.8.csv')
+    #                    ,localtime)
+    #             antibody_df.to_csv(f'binglab_antibody.v0.0.9_{localtime}.csv')
+    #             data_new.to_csv('binglab_antibody.v0.0.9.csv')
 
-                st.success('保存成功！')
-            else:
-                st.error('密码错误～')
+    #             st.success('保存成功！')
+    #         else:
+    #             st.error('密码错误～')
      
 with tab3:
     st.dataframe(antibody_df.describe())
