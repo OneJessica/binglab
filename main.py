@@ -10,7 +10,8 @@ def update_log(text,localtime):
 
 def read_update_log():
     with open('update.log.txt',) as f:
-        return f.read()
+        text = f.readlines()
+        return '\n'.join(text)
 # from pandas.testing import assert_frame_equal
 @st.cache_data
 def get_data():
