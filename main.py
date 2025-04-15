@@ -38,7 +38,7 @@ with tab2:
     data_new=st.data_editor(antibody_df,num_rows=num_row)
     # st.dataframe(data_new.compare(antibody_df))
     st.subheader('修改情况')
-    st.info(read_update_log)
+    st.info(read_update_log())
     # compa = data_new.compare(antibody_df)
     # if len(compa) <1:
     #     st.info('暂无修改')
