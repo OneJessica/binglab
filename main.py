@@ -32,6 +32,10 @@ with tab1:
     for i,row in name_df.iterrows():
         with st.expander(str(row['name'])):
             st.header(row['location'])
+            if row['url']:
+                st.link_button('官网详情🔗',row['url'])
+            if row['note']:
+                st.info(row['note'])
             row[name_df.columns]
     with st.expander('表格详情'):
         st.dataframe(name_df)
