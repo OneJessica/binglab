@@ -1,0 +1,14 @@
+抗体表：binglab_antibody更新日志：
+2024.8月前更新的最新版本v0.0.7
++v0.0.8 
+2024.8.23更新：Box1-E8补充Anti-Cardiac Troponin T抗体，Box2-D10新增Anti-alpha smooth muscle 2024.8.30更新：
+Actin antibody [1A4]
+Box11-D1新增GST tag(12G8)
+Box3-D7新增Anti-RBM20 antibody
+Box3-D8新增GAA Antibody (N-term)
+Box3-D9新增LAMP2 (E6A6S) 
+2025.4.15更新：
+Box11-D2新增抗体GAPDH Rabbit mAb(High Dilution) (A19056)
+Box3-D10新增抗体SIAH1 Rabbit mAb (A23247)
+Box3-E1新增抗体重组Anti-ELK1抗体
+Box3-E2新增抗体Anti-ELK1 (phospho S383)抗体
