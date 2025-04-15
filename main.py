@@ -33,7 +33,7 @@ with tab1:
         with st.expander(str(row['name'])):
             st.header(row['location'])
             if row['url']:
-                st.link_button('官网详情🔗',row['url'])
+                st.link_button('官网详情',row['url'])
             if row['note']:
                 st.info(row['note'])
             row[name_df.columns]
