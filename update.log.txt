@@ -12,3 +12,5 @@ Box11-D2新增抗体GAPDH Rabbit mAb(High Dilution) (A19056)
 Box3-D10新增抗体SIAH1 Rabbit mAb (A23247)
 Box3-E1新增抗体重组Anti-ELK1抗体
 Box3-E2新增抗体Anti-ELK1 (phospho S383)抗体
+2025.6.25更新：
+Box3-E3新增抗体 versican antibody
