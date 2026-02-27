@@ -15,16 +15,16 @@ def read_update_log():
 # from pandas.testing import assert_frame_equal
 @st.cache_data
 def get_data():
-    antibody_df= pd.read_csv('2025-06-25T09-07_export.csv',index_col=0)
+    antibody_df= pd.read_csv('binglab_20260227.csv',index_col=0)
     return antibody_df
 st.header('Antibody')
 antibody_df = get_data()
 num_row = st.sidebar.selectbox(label='编辑',options=('fixed','dynamic'))
-tab1,tab2,tab3 = st.tabs(['查询','抗体详情','统计'])
+tab1,tab2,tab3 = st.tabs(['🔍查询','📕抗体详情','统计'])
 with tab1:
-    name = st.text_input('查询名称')
+    name = st.text_input('抗体名称')
     if not name:
-        st.info('请输入名称, 按enter查询')
+        st.info('enter查询')
         st.stop()
     # st.dataframe(antibody_df[antibody_df.apply(lambda x:True if name.lower() in x.lower() else False,axis=1)])
     name_df = antibody_df[antibody_df.name.map(lambda x: True if str(name).lower() in str(x).lower() else False)]
@@ -37,7 +37,7 @@ with tab1:
             if row['note']:
                 st.info(row['note'])
             row[name_df.columns]
-    with st.expander('表格详情'):
+    with st.expander('抗体详情'):
         st.dataframe(name_df)
 with tab2:
     data_new=st.data_editor(antibody_df,num_rows=num_row)
