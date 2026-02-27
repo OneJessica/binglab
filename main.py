@@ -24,7 +24,7 @@ tab1,tab2,tab3 = st.tabs(['🔍查询','📕抗体详情','统计'])
 with tab1:
     name = st.text_input('抗体名称')
     if not name:
-        st.info('enter查询')
+        st.info('enter')
         st.stop()
     # st.dataframe(antibody_df[antibody_df.apply(lambda x:True if name.lower() in x.lower() else False,axis=1)])
     name_df = antibody_df[antibody_df.name.map(lambda x: True if str(name).lower() in str(x).lower() else False)]
