@@ -1,182 +1,182 @@
-ï»¿,name,antibody_type,company,catalog,lot,host_species,colonality,isotype,target_species,conjugation,application,workability,working_concentration,antibody_concentration,company_ref,url,note,is_available,is_great,location
-0,JMJD3,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box1-A1
-1,Anti-MYBPC3,ä¸€æŠ—,Sigma,HPA043898,,Rabbit,Polyclonal,,human,,"IHC,IF",IF,1:500-1:1000,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šå´ç¡•,Y,Y,Box1-A2
-2,"FITC, Goat Anti-Rabbit IgG(H+L)",äºŒæŠ—,Earthox,E031220-01,,Goat,,,,,IF,IF,1:100,,,,ä¸ªäººä¿å­˜ä½ç½®:èƒ¡æ¬¢,,,Box1-A3
-3,NELFA,ä¸€æŠ—,Bethyl Laboratories,A301-910A,,Rabbit,Polyclonal,IgG,H M R Mink,,"WB, IP, IHC-P, IF",,,,,,,,,Box1-A4
-4,hAFF4,ä¸€æŠ—,,,,Rabbit,,,,,,,,,,,,,,Box1-A5
-5,MYBPC3 æŠ—ä½“ (E-7),ä¸€æŠ—,Sant Cruz Biotechnology,sc-137180,,Mouse,Monoclonal,,H M R,,WB IHC ELISA,WB,1:500,200 Âµg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šå´ç¡•,Y,Y,Box1-A6
-6,a-actinin (Alpha-actinin-4),ä¸€æŠ—,Santa,sc7454,,Rabbit,,,"H,M,R",,WB,,1:7000 FOR WB,,,,,,,Box1-A7
-7,Gata4,ä¸€æŠ—,Chemicon,AB4132,,Rabbit,,,"H,M,R",,"WB, IHC",,1:200-1:1000,,sigma,,å·²ç»è¢«sigmaæ”¶è´­ ï¼Œè´§å·ä¸ºç½‘é¡µæŸ¥è¯¢åè¡¥å……,,,Box1-A8
-8,jagged 1,ä¸€æŠ—,Santa,sc-6011,,Goat,,,"H, M,R",,"WB, IHC",,1:500 FOR WB,,,,,,,Box1-A9
-9,Dicer,ä¸€æŠ—,Santa,sc25117,,Goat,,,"H, M,R",,WB,,,,,,,,,Box1-A10
-10,Ps 4a4,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box1-B1
-11,"Cy3, Goat Anti-Mouse IgG(H+L)",äºŒæŠ—,Earthox,E031610-01,,Goat,,,,,,,1:200,,,,ä¸ªäººä¿å­˜ä½ç½®:èƒ¡æ¬¢,,,Box1-B2
-12,anti V5,ä¸€æŠ—,Invitrogen,R960-25,,Mouse,,,,,"WB, IHC",,,,,,"The Anti-V5 Antibody allows detection of recombinant proteins containing the V5 epitope. This epitope is found in the P and V proteins of the paramyxovirus, SV5 (Southern, et al., 1991). The Anti-V5 Antibody recognizes the 14 amino acid sequence:Gly-Lys-Pro-Ile-Pro-Asn-Pro-Leu-Leu-Gly-Leu-Asp-Ser-Thr",,,Box1-B3
-13,anti Gata2,ä¸€æŠ—,Wisconncin,,,,Polyclonal,,,,,,,,,,,,,Box1-B4
-14,Anti-Sarcomeric Alpha Actinin antibody,ä¸€æŠ—,Abcam,ab9465,,Mouse,,,"Rat, Human",,"IHC-P, WB",IF,1:50,1 mg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,Y,Box1-B5
-15,Gata4,ä¸€æŠ—,Santa,sc1237,,Goat,,,"M,R",,"WB,IHC",,1:300 FOR IF,,,,,,,Box1-B6
-16,AFF4 antibody,ä¸€æŠ—,Bethyl,A302-538A,,Rabbit,Polyclonal,,human,,wb ip,wb,wb 1;500,1mg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šå¨„åº”æ¢…,Y,Y,Box1-B7
-17,anti V5,ä¸€æŠ—,Sigma,,,Rabbit,,,,,,,,,,,æ‰¾ä¸åˆ°æŠ—ä½“ä¿¡æ¯,,,Box1-B8
-18,BIOTIN-DONEY ANTI RAT,ä¸€æŠ—,,,,Rabbit,,,,,,,,,,,æ‰¾ä¸åˆ°æŠ—ä½“ä¿¡æ¯,,,Box1-B9
-19,"MHC (Myosin heavy chain, embryonic and adult fast)",ä¸€æŠ—,Dshb,EB165,,Mouse,,,"Chicken, Fish, Xenopus, Zebrafish",,,,,,,,,,,Box1-B10
-20,AFF1 antibody,ä¸€æŠ—,Bethyl,A302-345A,,Rabbit,Polyclonal,,human,,wb ip,wb,wb 1;500,1mg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šå¨„åº”æ¢…,Y,Y,Box1-C1
-21,FGF9,ä¸€æŠ—,Santa,SC8413,,Mouse,,,HUMAN,,"WB, IHC",,,,,,,,,Box1-C2
-22,CASP7,ä¸€æŠ—,Cst,#9492,,Rabbit,,,H M R Mk,,WB,,1:1000 FOR WB,,,,,,,Box1-C3
-23,Î²-gal,ä¸€æŠ—,Promega,E201A,,,,,,,,,,,,,,,,Box1-C4
-24,brd4 antibody,ä¸€æŠ—,Bethyl,A301-985A,,Rabbit,Polyclonal,,human mouse,,wb ip ihc,wb,1:500,1mg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šå¨„åº”æ¢…,Y,Y,Box1-C5
-25,Cdc2 p34 (17),ä¸€æŠ—,Santa,sc-54,,Mouse,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-C6
-26,CDK9 antobody,ä¸€æŠ—,Cst,2316s,,Rabbit,Polyclonal,,H M R Hm Mk B Dg,,WB IP IF IHC,WB IP,WB 1:1000 IP;1:500,1mg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šå¨„åº”æ¢…,Y,Y,Box1-C7
-27,Hey2 antibody,ä¸€æŠ—,Abclonal,A15143,,Rabbit,,,human mouse rat,,wb ip,wb ip,wb 1;500,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šåˆ˜æ˜Ÿ,Y,N,Box1-C8
-28,anti myc,ä¸€æŠ—,Invitrogen,132500,,Mouse,,,"Human, Mouse",,"WB, IP, IHC, IF",,,,,,,,,Box1-C9
-29,cd36,ä¸€æŠ—,Bd,555453,,Mouse,,,HUAMN,,FACS,,,,,,,,,Box1-C10
-30,Histone H1 (AE-4),ä¸€æŠ—,Santa,sc-8030,,Mouse,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-D1
-31,normal goat IgG,äºŒæŠ—,,,,,,,,,,,,,,,,,,Box1-D2
-32,Bcl-xL (H-5),ä¸€æŠ—,Santa,SC8392,,Mouse,,,"Human, mouse rat",,"WB,IHC, IF",,,,,,,,,Box1-D3
-33,GATA-4 (H-112),ä¸€æŠ—,Santa,sc9053,,Rabbit,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-D4
-34,ELL2,ä¸€æŠ—,,,,Rabbit,,,,,,,,,,,,,,Box1-D5
-35,BAD,ä¸€æŠ—,Biolabs,AHP2422,,Rabbit,,,"Human, mouse rat",,"IF (1:10-1:100),WB (1:500-1:2000)",,,,,,,,,Box1-D6
-36,RBP3,ä¸€æŠ—,,,,AB,Mixed,,,,,,,,,,,,,Box1-D7
-37,Robo4 (Roundabout homolog 4),ä¸€æŠ—,Santa,SC67056,,Rabbit,,,HUAMN,,"IF,IP,WB,ELISA",,,,,,,,,Box1-D8
-38,Hey2 antibody,ä¸€æŠ—,Proteintech,10597-1-AP,,Rabbit,Polyclonal,,human mouse,,wb ip,wb ip,wb 1;1000,300 ug/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šåˆ˜æ˜Ÿ,Y,N,Box1-D9
-39,Connexin 40 Monoclonal Antibody,ä¸€æŠ—,Thermo,37-8900,,Mouse,Monoclonal,,human mouse,,if,if,if 1;50,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šåˆ˜æ˜Ÿ,,,Box1-D10
-40,cyclin B1 (H-433),ä¸€æŠ—,Santa,SC752,,Rabbit,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-E1
-41,EMCNæŠ—ä½“,ä¸€æŠ—,Santa Cruz,sc-65495,,Rat,Monoclonal,,mouseï¼Œrat,,if,if,if 1;200,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šåˆ˜æ˜Ÿ,,,Box1-E2
-42,Notch1,ä¸€æŠ—,Santa,SC6014-R,,Rabbit,,,"Human, mouse rat",,"WB, IP, IHC, IF",,1:500 FOR WB,,,https://www.scbt.com/p/notch-1-antibody-c-20/,,,,Box1-E3
-43,C-MYC CLONE (9E10),ä¸€æŠ—,Santa,SC-40,,Mouse,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-E4
-44,hAFF4 RB,ä¸€æŠ—,,592,,Rabbit,,,,,,,,,,,æŸ¥ä¸åˆ°æŠ—ä½“ä¿¡æ¯,,,Box1-E5
-45,CAMKII,ä¸€æŠ—,Abcam,ab13041,,Rabbit,,,"Mouse, Rat, Human",,"WB, IHC-P, ICC/IF, Flow Cyt (Intra)",,éœ€è¦æŠ—åŸä¿®å¤1/250 - 1/500 for IHC; 1:1000-1:10000 FOR WB,,,,,,,Box1-E6
-46,VWF,ä¸€æŠ—,Dako,A0082,,Rabbit,,,"Human, mouse rat",,"WB, IHC",,,,,,,,,Box1-E7
-47,Anti-Cardiac Troponin TæŠ—ä½“,ä¸€æŠ—,Abcam,ab8295,,Mouse,Monoclonal,,"mouse,rat,dog,human",,if,if,if 1;50,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šåˆ˜æ˜Ÿ,,,Box1-E8
-48,MYOMESIN B4,ä¸€æŠ—,Dshb,DMAB9591,,Mouse,Monoclonal,,"chicken, mouse, rabbit",,"WB, IHC, IF",,"2-5ug/ml for IF, 0.2-0.5 ug/ml FOR WB",,,,è´§å·å’Œäº§å“ä¿¡æ¯ç½‘é¡µæŸ¥è¯¢è¡¥å……ï¼Œä¸ä¸€å®šå‡†ç¡®,,,Box1-E9
-49,Recombinant Anti-Smad3 (phospho S423 + S425) antibody,ä¸€æŠ—,Abcam,ab52903,,Rabbit,,,"Mouse, Human",,"WB, ICC/IF, IHC-P, Dot blot",,1:2000 for WB,,,https://www.abcam.com/smad3-phospho-s423--s425-antibody-ep823y-ab52903.html,"ab52903 detects Smad3 phosphorylated on Serine 423 and Serine 425. This Smad3 antibody may also detect Smad1, Smad2 and Smad5 phosphorylated at the equivalent sites.",,,Box1-E10
-50,Smad1 Antibody (A-4),ä¸€æŠ—,Santa-Cruz,sc-7965,,Mouse,Polyclonal,IgG,H M R Mink,,W IP IF-IC F ChIP,wb,1:100-1:1000 FOR WB,,,,,,,Box2-A1
-51,Goat anti rabbit HRP,ä¸€æŠ—,,,,,,,,,,,,0.5 MG/ML,,,,,,Box2-A2
-52,Donkey anti sheep HRP,ä¸€æŠ—,,,,,,,,,,,,0.5 MG/ML,,,,,,Box2-A3
-53,Donkey anti GOAT HRP,ä¸€æŠ—,Beyotime,A0181,,,,,,,,,,,,,,,,Box2-A4
-54,Donkey anti GOAT HRP,ä¸€æŠ—,Santa-Cruz,SC-205,,,,,,,,,,,,,è´§å·å¯¹åº”ä¸ä¸Šäº§å“ä¿¡æ¯,,,Box2-A5
-55,Phospho-p44/42 MAPK (Erk1/2) (Thr202/Tyr204) Antibody,ä¸€æŠ—,Cst,#9101S,,Rabbit,,,H M R Hm Mk Mi Dm Z B Pg Ce,,"WB,IP,IHC,IF,FACS",,1:1000 FOR WB,,,,,,,Box2-A6
-56,LSD1,ä¸€æŠ—,Cst,2139S,,Rabbit,,,H M R Mk,,"WB,IP,IHC,IF,FACS,CHIP",,1:1000 FOR WB,,,,,,,Box2-A7
-57,GATA4(G-4),ä¸€æŠ—,Santa-Cruz,SC-25310,,Mouse,,,"H, M, RAT",,"WB,IP,IHC,IF",,,,,,,,,Box2-A8
-58,ANTI Beta tubulin,ä¸€æŠ—,Bpi,AbM59005-37B-PU,,Mouse,,,HUAMN,,"Elisa,WB,IF,IHC",,"1:5000 for WB, 1:10000 FOR IF",,åŒ—äº¬åå¤§,,åŒ—äº¬åå¤§,,,Box2-A9
-59,APC Rat anti-mouse FLK1,ä¸€æŠ—,Bd Pharmingen,561993,,Rat,,,M,PE,FACS,FACS (Y),,,,,,,,Box2-A10
-60,Histone H3K4me3 antibody (pAb),ä¸€æŠ—,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,IF,WB",,"""ChIP: 3 - 5 Âµl per ChIPChIP-Seq: 3 Âµl eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 Âµl per 50 Âµl reaction""",,,,,,,Box2-B1
-61,c-Fos ï¼ˆH-125)X,ä¸€æŠ—,Santa-Cruz,sc-7202,,Rabbit,,,"H, M",,"WB, IHC",,,,,,,,,Box2-B2
-62,Fli-1(C-19)X,ä¸€æŠ—,Santa-Cruz,sc-356,,Rabbit,Polyclonal,,H M R,,W IP IF-IC F ChIP,,,,,,a member of ETS1,,,Box2-B3
-63,ETS1,ä¸€æŠ—,Santa-Cruz,sc-350,,Rabbit,Polyclonal,,H M R,,"CHIP, WB, IP","CHIP (Y) WB(Y), IP(Y)",1:5000,,,,,,,Box2-B4
-64,ETS2 (C20),ä¸€æŠ—,Santa-Cruz,sc-351,,Rabbit,Polyclonal,,H M R,,"CHIP, WB, IP","CHIP(Y), WB(Y)",,,,,,,,Box2-B5
-65,Phospho-mTOR (Ser2448) Antibody,ä¸€æŠ—,Cst,#2971,,Rabbit,,,H M R Mk,,WB,,1:1000 FOR WB,,,,,,,Box2-B6
-66,FLK1,ä¸€æŠ—,Alpha Diagnostic Intl.Inc,#FLK11-A,,Rabbit,,,H M R,,"WB, ELISA",,1:500-1:1200 FOR WB,,,,,,,Box2-B7
-67,Ezh2 (D2C9) XPÂ® Rabbit mAb,ä¸€æŠ—,Cell Signaling,#5246,,Rabbit,Monoclonal,,"H,M,R,MK",,W IP IHC-P IF-IC ChIP,"CHIP (Y), IF (Y)",,,,,,,,Box2-B8
-68,c-Jun (60A8) Rabbit mAb,ä¸€æŠ—,Cell Signaling,#9165S,,Rabbit,Polyclonal,,H M R Mk,,W IP IHC-P IHC-F IF-IC ChIP,WB(Y)CHIP(Y),,,,,,,,Box2-B9
-69,LARP7,ä¸€æŠ—,Bethyl Laboratory,A303-723A,,Rabbit,Polyclonal,IgG,"H, M",,"WB, IP",WB,1:1000 WB,,,,,,,Box2-B10
-70,SUZ12 (D39F6) XPÂ® Rabbit mAb,ä¸€æŠ—,Cst,3737P,,Rabbit,Monoclonal,,H M R Mk,,"WB,IP,IHC,IF,FACS,CHIP,CUT-RUN",,1:1000 FOR WB; 1:100 FOR CHIP,,,,,,,Box2-C1
-71,RBPSUH (D10A4) XP Â®,ä¸€æŠ—,Cell Signaling,#5313S,1,Rabbit,Monoclonal,,H M R Mk,,W ChIP,"CHIP, WB",1:1000,,,,,,,Box2-C2
-72,Akt (pan) (11E7) Rabbit mAb,ä¸€æŠ—,Cell Signaling,4685S,,Rabbit,Monoclonal,,H M R Mk,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box2-C3
-73,Phospho-Akt (Thr308) (D25E6) XPÂ® Rabbit mAb,ä¸€æŠ—,Cell Signaling,13038S,,Rabbit,Monoclonal,,H M R Mk,,"WB, IHC, IF, FACS",,1:1000 FOR WB,,,,,,,Box2-C4
-74,anti-Halo Tag,ä¸€æŠ—,Promega,G928A,,Rabbit,Polyclonal,,All species,,"WB, IHC",,1:1000 for WBï¼Œ 1:500 for IHC,,,,,,,Box2-C5
-75,BD Pharmingenâ„¢ Purified Rat Anti-Mouse Flk-1,ä¸€æŠ—,Bd Pharmingen,550549,,Rat,Polyclonal,,M,,"FACS, IHC",,,,,,é€‚åˆå†°å†»åˆ‡ç‰‡,,,Box2-C6
-76,Anti-trimethyl-Histone H3 (Lys27) Antibody,ä¸€æŠ—,Millipore,07-449,,Rabbit,Polyclonal,,"H, M",,"WB, IP, IHC, IF",,,,,,,,,Box2-C7
-77,p300 (F-4),ä¸€æŠ—,Santa,sc-48343,,Mouse,Monoclonal,,H M R,,"WB, IP, IHC, IF",,,,,,,,,Box2-C8
-78,anti-RFP,ä¸€æŠ—,Rockland,p/n 600-401-379,,Rabbit,,,All species,,"ELISA, IF, IHC, WB, EM, FC, FISH, IP, Other",,"IF:1:1000; react with RFP, tdTomato, Expect reactivity against RFP and its variants: mCherry, tdTomato, mBanana, mOrange, mPlum, mOrange and mStrawberry.",,,https://www.rockland.com/categories/primary-antibodies/rfp-antibody-pre-adsorbed-600-401-379/,,,,Box2-C9
-79,Histone H3K27me1 antibody (mAb),ä¸€æŠ—,Active Motif,#61015,,Mouse,Monoclonal,,"Human, Wide Range Predicted",,"CHIP,WB,IHC",,ChIP: 2 - 5 Âµg per ChIPChIP-Seq: 2 - 5 Âµg eachWB: 0.5 - 2 Âµg/ml dilution,,,,,,,Box2-C10
-80,"anti-RNA polymerase II, clone CTD4H8",ä¸€æŠ—,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 Î¼g/mL FOR WB,,,,,,,Box2-D1
-81,"anti-RNA polymerase II, clone CTD4H8",ä¸€æŠ—,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 Î¼g/mL FOR WB,,,,,,,Box2-D2
-82,NFATC2 Monoclonal Antibody,ä¸€æŠ—,Thermo,MA1-025,,Mouse,Monoclonal,,"Human, Mouse, Rat",,"WB, IHC, IF, FACS, CHIP",,"1ug/ml for WB, 1:50-1:200 FOR IHC, 1:100-1:1000 FOR IF, 1-3UL FOR CHIP",,,,,,,Box2-D3
-83,hSET1 Polyclonal Antibody,ä¸€æŠ—,Bethyl,A300-289A,,Rabbit,Polyclonal,,Human,,"WB, IHC(P),IP, CHIP",,"1:10,000-1:25,000 for WB",,thermo,,è¢« thermoæ”¶è´­äº†ï¼Œè›‹ç™½åˆ«å: Histone-lysine N-methyltransferase SETD1A; hSET1A; Lysine N-methyltransferase 2F; SET domain-containing protein 1A; Set1/Ash2 histone methyltransferase complex subunit SET1,,,Box2-D4
-84,CRISPR-Cas9 antibody (CHIP GRADE),ä¸€æŠ—,Diagenode,C15310258,,Rabbit,,,Streptococcus pyogenes cas9,,"CHIP, WB, IP, IF",,"1-2UL FOR CHIP-SEQ; 1:5000 FOR WB, 1UL/IP, 1:1000 FOR IF",,,,,,,Box2-D5
-85,kap1,ä¸€æŠ—,Cst,4124s,,Rabbit,,,,,wb ip,wb ip,wb 1;1000,1ug/ul,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šåˆ˜æ˜Ÿ,,,Box2-D6
-86,p44/42 MAPK (Erk1/2) (L34F12) Mouse mAb #4696,ä¸€æŠ—,Cell Signaling Technology,4696T,,Mouse,Monoclonal,,H M R Mk Mi Z B Pg,,WB IHC IF,WB IF,WB1:2000 IHC1:250 IF1:100,251 Âµg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,N,Y,Box2-D7
-87,Phospho-p44/42 MAPK (Erk1) (Tyr204)/(Erk2) (Tyr187) (D1H6G) Mouse mAb #5726,ä¸€æŠ—,Cell Signaling Technology,5726S,,Mouse,Monoclonal,,H M R Mk,,WB IF F,WB IF,WB1:1000 IF1:200 F1:400,560 Âµg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,Y,Box2-D8
-88,Anti-MEK1 + MEK2 (phospho S222)æŠ—ä½“,ä¸€æŠ—,Abcam,ab4750,,Rabbit,Polyclonal,,human mouse,,"ICC/IF, WB","IF, WB",WB1:1000 IF1:100,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,,Box2-D9
-89,Anti-alpha smooth muscle Actin antibody [1A4],ä¸€æŠ—,ABcam,AB7817,,Mouse,Monoclonal,,H M R,,"IHC-P, ICC, WB, FC",,,,,https://www.abcam.com/en-us/products/primary-antibodies/alpha-smooth-muscle-actin-antibody-1a4-ab7817,,Y,,Box2-D10
-90,MEK1/2 Antibody,ä¸€æŠ—,Cell Signaling Technology,9122S,,Rabbit,Polyclonal,,H M R Mk Dm,,WB IP,WB IP,WB1:1000 IP1:50,23 Âµg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,Y,Box2-E1
-91,Pan Ras Monoclonal Antibody (Ras10),ä¸€æŠ—,Thermo Fisher Scientific,MA1-012,,Mouse,Monoclonal,,"Human, Mouse, Non-human primate",,WB IHC IF F IP,,WB1:1000 IHC1:100 IF1:50,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,,Box2-E2
-92,p44/42 MAPK (Erk1/2) (L34F12) Mouse mAb #4696,ä¸€æŠ—,Cell Signaling Technology,4696S,,Mouse,Monoclonal,,H M R Mk Mi Z B Pg,,WB IHC IF,WB IF,WB1:2000 IHC1:250 IF1:100,251 Âµg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,Y,Box2-E3
+,name,antibody_type,company,catalog,lot,host_species,colonality,isotype,target_species,conjugation,application,workability,working_concentration,antibody_concentration,company_ref,url,note,is_available,is_great,location
+0,JMJD3,Ò»¿¹,,,,,,,,,,,,,,,,,,Box1-A1
+1,Anti-MYBPC3,Ò»¿¹,Sigma,HPA043898,,Rabbit,Polyclonal,,human,,"IHC,IF",IF,1:500-1:1000,,,,¸öÈË±£´æÎ»ÖÃ£ºÎâË¶,Y,Y,Box1-A2
+2,"FITC, Goat Anti-Rabbit IgG(H+L)",¶ş¿¹,Earthox,E031220-01,,Goat,,,,,IF,IF,0.111111111,,,,¸öÈË±£´æÎ»ÖÃ:ºú»¶,,,Box1-A3
+3,NELFA,Ò»¿¹,Bethyl Laboratories,A301-910A,,Rabbit,Polyclonal,IgG,H M R Mink,,"WB, IP, IHC-P, IF",,,,,,,,,Box1-A4
+4,hAFF4,Ò»¿¹,,,,Rabbit,,,,,,,,,,,,,,Box1-A5
+5,MYBPC3 ¿¹Ìå (E-7),Ò»¿¹,Sant Cruz Biotechnology,sc-137180,,Mouse,Monoclonal,,H M R,,WB IHC ELISA,WB,0.388888889,200 ?g/ml,,,¸öÈË±£´æÎ»ÖÃ£ºÎâË¶,Y,Y,Box1-A6
+6,a-actinin (Alpha-actinin-4),Ò»¿¹,Santa,sc7454,,Rabbit,,,"H,M,R",,WB,,1:7000 FOR WB,,,,,,,Box1-A7
+7,Gata4,Ò»¿¹,Chemicon,AB4132,,Rabbit,,,"H,M,R",,"WB, IHC",,1:200-1:1000,,sigma,,ÒÑ¾­±»sigmaÊÕ¹º £¬»õºÅÎªÍøÒ³²éÑ¯ºó²¹³ä,,,Box1-A8
+8,jagged 1,Ò»¿¹,Santa,sc-6011,,Goat,,,"H, M,R",,"WB, IHC",,1:500 FOR WB,,,,,,,Box1-A9
+9,Dicer,Ò»¿¹,Santa,sc25117,,Goat,,,"H, M,R",,WB,,,,,,,,,Box1-A10
+10,Ps 4a4,Ò»¿¹,,,,,,,,,,,,,,,,,,Box1-B1
+11,"Cy3, Goat Anti-Mouse IgG(H+L)",¶ş¿¹,Earthox,E031610-01,,Goat,,,,,,,0.180555556,,,,¸öÈË±£´æÎ»ÖÃ:ºú»¶,,,Box1-B2
+12,anti V5,Ò»¿¹,Invitrogen,R960-25,,Mouse,,,,,"WB, IHC",,,,,,"The Anti-V5 Antibody allows detection of recombinant proteins containing the V5 epitope. This epitope is found in the P and V proteins of the paramyxovirus, SV5 (Southern, et al., 1991). The Anti-V5 Antibody recognizes the 14 amino acid sequence:Gly-Lys-Pro-Ile-Pro-Asn-Pro-Leu-Leu-Gly-Leu-Asp-Ser-Thr",,,Box1-B3
+13,anti Gata2,Ò»¿¹,Wisconncin,,,,Polyclonal,,,,,,,,,,,,,Box1-B4
+14,Anti-Sarcomeric Alpha Actinin antibody,Ò»¿¹,Abcam,ab9465,,Mouse,,,"Rat, Human",,"IHC-P, WB",IF,1:50,1 mg/ml,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,Y,Box1-B5
+15,Gata4,Ò»¿¹,Santa,sc1237,,Goat,,,"M,R",,"WB,IHC",,1:300 FOR IF,,,,,,,Box1-B6
+16,AFF4 antibody,Ò»¿¹,Bethyl,A302-538A,,Rabbit,Polyclonal,,human,,wb ip,wb,wb 1;500,1mg/ml,,,¸öÈË±£´æÎ»ÖÃ£ºÂ¦Ó¦Ã·,Y,Y,Box1-B7
+17,anti V5,Ò»¿¹,Sigma,,,Rabbit,,,,,,,,,,,ÕÒ²»µ½¿¹ÌåĞÅÏ¢,,,Box1-B8
+18,BIOTIN-DONEY ANTI RAT,Ò»¿¹,,,,Rabbit,,,,,,,,,,,ÕÒ²»µ½¿¹ÌåĞÅÏ¢,,,Box1-B9
+19,"MHC (Myosin heavy chain, embryonic and adult fast)",Ò»¿¹,Dshb,EB165,,Mouse,,,"Chicken, Fish, Xenopus, Zebrafish",,,,,,,,,,,Box1-B10
+20,AFF1 antibody,Ò»¿¹,Bethyl,A302-345A,,Rabbit,Polyclonal,,human,,wb ip,wb,wb 1;500,1mg/ml,,,¸öÈË±£´æÎ»ÖÃ£ºÂ¦Ó¦Ã·,Y,Y,Box1-C1
+21,FGF9,Ò»¿¹,Santa,SC8413,,Mouse,,,HUMAN,,"WB, IHC",,,,,,,,,Box1-C2
+22,CASP7,Ò»¿¹,Cst,#9492,,Rabbit,,,H M R Mk,,WB,,1:1000 FOR WB,,,,,,,Box1-C3
+23,¦Â-gal,Ò»¿¹,Promega,E201A,,,,,,,,,,,,,,,,Box1-C4
+24,brd4 antibody,Ò»¿¹,Bethyl,A301-985A,,Rabbit,Polyclonal,,human mouse,,wb ip ihc,wb,0.388888889,1mg/ml,,,¸öÈË±£´æÎ»ÖÃ£ºÂ¦Ó¦Ã·,Y,Y,Box1-C5
+25,Cdc2 p34 (17),Ò»¿¹,Santa,sc-54,,Mouse,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-C6
+26,CDK9 antobody,Ò»¿¹,Cst,2316s,,Rabbit,Polyclonal,,H M R Hm Mk B Dg,,WB IP IF IHC,WB IP,WB 1:1000 IP;1:500,1mg/ml,,,¸öÈË±£´æÎ»ÖÃ£ºÂ¦Ó¦Ã·,Y,Y,Box1-C7
+27,Hey2 antibody,Ò»¿¹,Abclonal,A15143,,Rabbit,,,human mouse rat,,wb ip,wb ip,wb 1;500,,,,¸öÈË±£´æÎ»ÖÃ£ºÁõĞÇ,Y,N,Box1-C8
+28,anti myc,Ò»¿¹,Invitrogen,132500,,Mouse,,,"Human, Mouse",,"WB, IP, IHC, IF",,,,,,,,,Box1-C9
+29,cd36,Ò»¿¹,Bd,555453,,Mouse,,,HUAMN,,FACS,,,,,,,,,Box1-C10
+30,Histone H1 (AE-4),Ò»¿¹,Santa,sc-8030,,Mouse,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-D1
+31,normal goat IgG,¶ş¿¹,,,,,,,,,,,,,,,,,,Box1-D2
+32,Bcl-xL (H-5),Ò»¿¹,Santa,SC8392,,Mouse,,,"Human, mouse rat",,"WB,IHC, IF",,,,,,,,,Box1-D3
+33,GATA-4 (H-112),Ò»¿¹,Santa,sc9053,,Rabbit,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-D4
+34,ELL2,Ò»¿¹,,,,Rabbit,,,,,,,,,,,,,,Box1-D5
+35,BAD,Ò»¿¹,Biolabs,AHP2422,,Rabbit,,,"Human, mouse rat",,"IF (1:10-1:100),WB (1:500-1:2000)",,,,,,,,,Box1-D6
+36,RBP3,Ò»¿¹,,,,AB,Mixed,,,,,,,,,,,,,Box1-D7
+37,Robo4 (Roundabout homolog 4),Ò»¿¹,Santa,SC67056,,Rabbit,,,HUAMN,,"IF,IP,WB,ELISA",,,,,,,,,Box1-D8
+38,Hey2 antibody,Ò»¿¹,Proteintech,10597-1-AP,,Rabbit,Polyclonal,,human mouse,,wb ip,wb ip,wb 1;1000,300 ug/ml,,,¸öÈË±£´æÎ»ÖÃ£ºÁõĞÇ,Y,N,Box1-D9
+39,Connexin 40 Monoclonal Antibody,Ò»¿¹,Thermo,37-8900,,Mouse,Monoclonal,,human mouse,,if,if,if 1;50,,,,¸öÈË±£´æÎ»ÖÃ£ºÁõĞÇ,,,Box1-D10
+40,cyclin B1 (H-433),Ò»¿¹,Santa,SC752,,Rabbit,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-E1
+41,EMCN¿¹Ìå,Ò»¿¹,Santa Cruz,sc-65495,,Rat,Monoclonal,,mouse£¬rat,,if,if,if 1;200,,,,¸öÈË±£´æÎ»ÖÃ£ºÁõĞÇ,,,Box1-E2
+42,Notch1,Ò»¿¹,Santa,SC6014-R,,Rabbit,,,"Human, mouse rat",,"WB, IP, IHC, IF",,1:500 FOR WB,,,https://www.scbt.com/p/notch-1-antibody-c-20/,,,,Box1-E3
+43,C-MYC CLONE (9E10),Ò»¿¹,Santa,SC-40,,Mouse,,,"Human, mouse rat",,"WB, IP, IHC, IF",,,,,,,,,Box1-E4
+44,hAFF4 RB,Ò»¿¹,,592,,Rabbit,,,,,,,,,,,²é²»µ½¿¹ÌåĞÅÏ¢,,,Box1-E5
+45,CAMKII,Ò»¿¹,Abcam,ab13041,,Rabbit,,,"Mouse, Rat, Human",,"WB, IHC-P, ICC/IF, Flow Cyt (Intra)",,ĞèÒª¿¹Ô­ĞŞ¸´1/250 - 1/500 for IHC; 1:1000-1:10000 FOR WB,,,,,,,Box1-E6
+46,VWF,Ò»¿¹,Dako,A0082,,Rabbit,,,"Human, mouse rat",,"WB, IHC",,,,,,,,,Box1-E7
+47,Anti-Cardiac Troponin T¿¹Ìå,Ò»¿¹,Abcam,ab8295,,Mouse,Monoclonal,,"mouse,rat,dog,human",,if,if,if 1;50,,,,¸öÈË±£´æÎ»ÖÃ£ºÁõĞÇ,,,Box1-E8
+48,MYOMESIN B4,Ò»¿¹,Dshb,DMAB9591,,Mouse,Monoclonal,,"chicken, mouse, rabbit",,"WB, IHC, IF",,"2-5ug/ml for IF, 0.2-0.5 ug/ml FOR WB",,,,»õºÅºÍ²úÆ·ĞÅÏ¢ÍøÒ³²éÑ¯²¹³ä£¬²»Ò»¶¨×¼È·,,,Box1-E9
+49,Recombinant Anti-Smad3 (phospho S423 + S425) antibody,Ò»¿¹,Abcam,ab52903,,Rabbit,,,"Mouse, Human",,"WB, ICC/IF, IHC-P, Dot blot",,1:2000 for WB,,,https://www.abcam.com/smad3-phospho-s423--s425-antibody-ep823y-ab52903.html,"ab52903 detects Smad3 phosphorylated on Serine 423 and Serine 425. This Smad3 antibody may also detect Smad1, Smad2 and Smad5 phosphorylated at the equivalent sites.",,,Box1-E10
+50,Smad1 Antibody (A-4),Ò»¿¹,Santa-Cruz,sc-7965,,Mouse,Polyclonal,IgG,H M R Mink,,W IP IF-IC F ChIP,wb,1:100-1:1000 FOR WB,,,,,,,Box2-A1
+51,Goat anti rabbit HRP,Ò»¿¹,,,,,,,,,,,,0.5 MG/ML,,,,,,Box2-A2
+52,Donkey anti sheep HRP,Ò»¿¹,,,,,,,,,,,,0.5 MG/ML,,,,,,Box2-A3
+53,Donkey anti GOAT HRP,Ò»¿¹,Beyotime,A0181,,,,,,,,,,,,,,,,Box2-A4
+54,Donkey anti GOAT HRP,Ò»¿¹,Santa-Cruz,SC-205,,,,,,,,,,,,,»õºÅ¶ÔÓ¦²»ÉÏ²úÆ·ĞÅÏ¢,,,Box2-A5
+55,Phospho-p44/42 MAPK (Erk1/2) (Thr202/Tyr204) Antibody,Ò»¿¹,Cst,#9101S,,Rabbit,,,H M R Hm Mk Mi Dm Z B Pg Ce,,"WB,IP,IHC,IF,FACS",,1:1000 FOR WB,,,,,,,Box2-A6
+56,LSD1,Ò»¿¹,Cst,2139S,,Rabbit,,,H M R Mk,,"WB,IP,IHC,IF,FACS,CHIP",,1:1000 FOR WB,,,,,,,Box2-A7
+57,GATA4(G-4),Ò»¿¹,Santa-Cruz,SC-25310,,Mouse,,,"H, M, RAT",,"WB,IP,IHC,IF",,,,,,,,,Box2-A8
+58,ANTI Beta tubulin,Ò»¿¹,Bpi,AbM59005-37B-PU,,Mouse,,,HUAMN,,"Elisa,WB,IF,IHC",,"1:5000 for WB, 1:10000 FOR IF",,±±¾©»ª´ó,,±±¾©»ª´ó,,,Box2-A9
+59,APC Rat anti-mouse FLK1,Ò»¿¹,Bd Pharmingen,561993,,Rat,,,M,PE,FACS,FACS (Y),,,,,,,,Box2-A10
+60,Histone H3K4me3 antibody (pAb),Ò»¿¹,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,IF,WB",,"""ChIP: 3 - 5 ?l per ChIPChIP-Seq: 3 ?l eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 ?l per 50 ?l reaction""",,,,,,,Box2-B1
+61,c-Fos £¨H-125)X,Ò»¿¹,Santa-Cruz,sc-7202,,Rabbit,,,"H, M",,"WB, IHC",,,,,,,,,Box2-B2
+62,Fli-1(C-19)X,Ò»¿¹,Santa-Cruz,sc-356,,Rabbit,Polyclonal,,H M R,,W IP IF-IC F ChIP,,,,,,a member of ETS1,,,Box2-B3
+63,ETS1,Ò»¿¹,Santa-Cruz,sc-350,,Rabbit,Polyclonal,,H M R,,"CHIP, WB, IP","CHIP (Y) WB(Y), IP(Y)",3.513888889,,,,,,,Box2-B4
+64,ETS2 (C20),Ò»¿¹,Santa-Cruz,sc-351,,Rabbit,Polyclonal,,H M R,,"CHIP, WB, IP","CHIP(Y), WB(Y)",,,,,,,,Box2-B5
+65,Phospho-mTOR (Ser2448) Antibody,Ò»¿¹,Cst,#2971,,Rabbit,,,H M R Mk,,WB,,1:1000 FOR WB,,,,,,,Box2-B6
+66,FLK1,Ò»¿¹,Alpha Diagnostic Intl.Inc,#FLK11-A,,Rabbit,,,H M R,,"WB, ELISA",,1:500-1:1200 FOR WB,,,,,,,Box2-B7
+67,Ezh2 (D2C9) XP? Rabbit mAb,Ò»¿¹,Cell Signaling,#5246,,Rabbit,Monoclonal,,"H,M,R,MK",,W IP IHC-P IF-IC ChIP,"CHIP (Y), IF (Y)",,,,,,,,Box2-B8
+68,c-Jun (60A8) Rabbit mAb,Ò»¿¹,Cell Signaling,#9165S,,Rabbit,Polyclonal,,H M R Mk,,W IP IHC-P IHC-F IF-IC ChIP,WB(Y)CHIP(Y),,,,,,,,Box2-B9
+69,LARP7,Ò»¿¹,Bethyl Laboratory,A303-723A,,Rabbit,Polyclonal,IgG,"H, M",,"WB, IP",WB,1:1000 WB,,,,,,,Box2-B10
+70,SUZ12 (D39F6) XP? Rabbit mAb,Ò»¿¹,Cst,3737P,,Rabbit,Monoclonal,,H M R Mk,,"WB,IP,IHC,IF,FACS,CHIP,CUT-RUN",,1:1000 FOR WB; 1:100 FOR CHIP,,,,,,,Box2-C1
+71,RBPSUH (D10A4) XP ?,Ò»¿¹,Cell Signaling,#5313S,1,Rabbit,Monoclonal,,H M R Mk,,W ChIP,"CHIP, WB",0.736111111,,,,,,,Box2-C2
+72,Akt (pan) (11E7) Rabbit mAb,Ò»¿¹,Cell Signaling,4685S,,Rabbit,Monoclonal,,H M R Mk,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box2-C3
+73,Phospho-Akt (Thr308) (D25E6) XP? Rabbit mAb,Ò»¿¹,Cell Signaling,13038S,,Rabbit,Monoclonal,,H M R Mk,,"WB, IHC, IF, FACS",,1:1000 FOR WB,,,,,,,Box2-C4
+74,anti-Halo Tag,Ò»¿¹,Promega,G928A,,Rabbit,Polyclonal,,All species,,"WB, IHC",,1:1000 for WB£¬ 1:500 for IHC,,,,,,,Box2-C5
+75,BD Pharmingen? Purified Rat Anti-Mouse Flk-1,Ò»¿¹,Bd Pharmingen,550549,,Rat,Polyclonal,,M,,"FACS, IHC",,,,,,ÊÊºÏ±ù¶³ÇĞÆ¬,,,Box2-C6
+76,Anti-trimethyl-Histone H3 (Lys27) Antibody,Ò»¿¹,Millipore,07-449,,Rabbit,Polyclonal,,"H, M",,"WB, IP, IHC, IF",,,,,,,,,Box2-C7
+77,p300 (F-4),Ò»¿¹,Santa,sc-48343,,Mouse,Monoclonal,,H M R,,"WB, IP, IHC, IF",,,,,,,,,Box2-C8
+78,anti-RFP,Ò»¿¹,Rockland,p/n 600-401-379,,Rabbit,,,All species,,"ELISA, IF, IHC, WB, EM, FC, FISH, IP, Other",,"IF:1:1000; react with RFP, tdTomato, Expect reactivity against RFP and its variants: mCherry, tdTomato, mBanana, mOrange, mPlum, mOrange and mStrawberry.",,,https://www.rockland.com/categories/primary-antibodies/rfp-antibody-pre-adsorbed-600-401-379/,,,,Box2-C9
+79,Histone H3K27me1 antibody (mAb),Ò»¿¹,Active Motif,#61015,,Mouse,Monoclonal,,"Human, Wide Range Predicted",,"CHIP,WB,IHC",,ChIP: 2 - 5 ?g per ChIPChIP-Seq: 2 - 5 ?g eachWB: 0.5 - 2 ?g/ml dilution,,,,,,,Box2-C10
+80,"anti-RNA polymerase II, clone CTD4H8",Ò»¿¹,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 ¦Ìg/mL FOR WB,,,,,,,Box2-D1
+81,"anti-RNA polymerase II, clone CTD4H8",Ò»¿¹,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 ¦Ìg/mL FOR WB,,,,,,,Box2-D2
+82,NFATC2 Monoclonal Antibody,Ò»¿¹,Thermo,MA1-025,,Mouse,Monoclonal,,"Human, Mouse, Rat",,"WB, IHC, IF, FACS, CHIP",,"1ug/ml for WB, 1:50-1:200 FOR IHC, 1:100-1:1000 FOR IF, 1-3UL FOR CHIP",,,,,,,Box2-D3
+83,hSET1 Polyclonal Antibody,Ò»¿¹,Bethyl,A300-289A,,Rabbit,Polyclonal,,Human,,"WB, IHC(P),IP, CHIP",,"1:10,000-1:25,000 for WB",,thermo,,±» thermoÊÕ¹ºÁË£¬µ°°×±ğÃû: Histone-lysine N-methyltransferase SETD1A; hSET1A; Lysine N-methyltransferase 2F; SET domain-containing protein 1A; Set1/Ash2 histone methyltransferase complex subunit SET1,,,Box2-D4
+84,CRISPR-Cas9 antibody (CHIP GRADE),Ò»¿¹,Diagenode,C15310258,,Rabbit,,,Streptococcus pyogenes cas9,,"CHIP, WB, IP, IF",,"1-2UL FOR CHIP-SEQ; 1:5000 FOR WB, 1UL/IP, 1:1000 FOR IF",,,,,,,Box2-D5
+85,kap1,Ò»¿¹,Cst,4124s,,Rabbit,,,,,wb ip,wb ip,wb 1;1000,1ug/ul,,,¸öÈË±£´æÎ»ÖÃ£ºÁõĞÇ,,,Box2-D6
+86,p44/42 MAPK (Erk1/2) (L34F12) Mouse mAb #4696,Ò»¿¹,Cell Signaling Technology,4696T,,Mouse,Monoclonal,,H M R Mk Mi Z B Pg,,WB IHC IF,WB IF,WB1:2000 IHC1:250 IF1:100,251 ?g/ml,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,N,Y,Box2-D7
+87,Phospho-p44/42 MAPK (Erk1) (Tyr204)/(Erk2) (Tyr187) (D1H6G) Mouse mAb #5726,Ò»¿¹,Cell Signaling Technology,5726S,,Mouse,Monoclonal,,H M R Mk,,WB IF F,WB IF,WB1:1000 IF1:200 F1:400,560 ?g/ml,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,Y,Box2-D8
+88,Anti-MEK1 + MEK2 (phospho S222)¿¹Ìå,Ò»¿¹,Abcam,ab4750,,Rabbit,Polyclonal,,human mouse,,"ICC/IF, WB","IF, WB",WB1:1000 IF1:100,,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,,Box2-D9
+89,Anti-alpha smooth muscle Actin antibody [1A4],Ò»¿¹,ABcam,AB7817,,Mouse,Monoclonal,,H M R,,"IHC-P, ICC, WB, FC",,,,,https://www.abcam.com/en-us/products/primary-antibodies/alpha-smooth-muscle-actin-antibody-1a4-ab7817,,Y,,Box2-D10
+90,MEK1/2 Antibody,Ò»¿¹,Cell Signaling Technology,9122S,,Rabbit,Polyclonal,,H M R Mk Dm,,WB IP,WB IP,WB1:1000 IP1:50,23 ?g/ml,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,Y,Box2-E1
+91,Pan Ras Monoclonal Antibody (Ras10),Ò»¿¹,Thermo Fisher Scientific,MA1-012,,Mouse,Monoclonal,,"Human, Mouse, Non-human primate",,WB IHC IF F IP,,WB1:1000 IHC1:100 IF1:50,,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,,Box2-E2
+92,p44/42 MAPK (Erk1/2) (L34F12) Mouse mAb #4696,Ò»¿¹,Cell Signaling Technology,4696S,,Mouse,Monoclonal,,H M R Mk Mi Z B Pg,,WB IHC IF,WB IF,WB1:2000 IHC1:250 IF1:100,251 ?g/ml,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,Y,Box2-E3
 93,,,,,,,,,,,,,,,,,,,,Box2-E4
-94,"Phospho-MEK1/MEK2 (Ser218, Ser222, Ser226) Polyclonal Antibody",ä¸€æŠ—,Thermo Fisher Scientific,44-454G,,Rabbit,Polyclonal,,"Human, Mouse, Rat",,"ICC/IF, WB",,"ICC/IF 5 Âµg/mL, WB1:1000",,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,,Box2-E5
+94,"Phospho-MEK1/MEK2 (Ser218, Ser222, Ser226) Polyclonal Antibody",Ò»¿¹,Thermo Fisher Scientific,44-454G,,Rabbit,Polyclonal,,"Human, Mouse, Rat",,"ICC/IF, WB",,"ICC/IF 5 ?g/mL, WB1:1000",,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,,Box2-E5
 95,,,,,,,,,,,,,,,,,,,,Box2-E6
-96,LARP1 Polyclonal antibody,ä¸€æŠ—,Proteintech,13708-1-AP,,Rabbit,Polyclonal,,"Human, Mouse, Rat, Drosophila",,"IF/ICC, IHC, WB, ELISA","IF/ICC, IHC, WB, ELISA",WB : 1:2000-1:10000ï¼› IHC : 1:50-1:500ï¼› IF : 1:50-1:500,513 Î¼g/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šç¨‹åº·,,,Box2-E7
-97,YTHDF2,ä¸€æŠ—,Proteintech,24744-1-AP,,Rabbit,Polyclonal,,"Human, Mouse, Rat",,WB : 1:2000-1:12000IP : 4 ug for IP and 1:500-1:1000 for WBIF : 1:50-1:500,,WB : 1:2000-1:12000IP : 4 ug for IP and 1:500-1:1000 for WBIF : 1:50-1:500,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šç†Šä¿Šæµ©,Y,N,Box2-E8
-98,METTL3,ä¸€æŠ—,Proteintech,15073-1-AP,,Rabbit,Polyclonal,,"Human, Mouse, Monkey, Rat",,WB : 1:500-1:2000IP : 0.5-4.0 ug for IP and 1:1000-1:8000 for WBIHC : 1:750-1:3000,,WB : 1:500-1:2000IP : 0.5-4.0 ug for IP and 1:1000-1:8000 for WBIHC : 1:750-1:3000,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šç†Šä¿Šæµ©,Y,Y,Box2-E9
-99,mettl14,ä¸€æŠ—,Abcam,ab309096,,Rabbit,Polyclonal,,"Mouse, Rat, Human",,WBï¼š1/1000.Â Â Â Â Â Â  Predicted molecular weight: 52 kDa.IPï¼š1/30.,,WBï¼š1/1000.Â Â Â Â Â Â  Predicted molecular weight: 52 kDa.IPï¼š1/30.,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šç†Šä¿Šæµ©,Y,N,Box2-E10
-100,HDAC1(10E2),ä¸€æŠ—,Santa-Cruz,SC-81598,,Mouse,Monoclonal,,H M R,,"WB, IP, IHC, IF",,,,,,,,,Box3-A1
-101,Anti-SNAI1 antibody,ä¸€æŠ—,Sigma,AV33314-50UG,,Rabbit,Polyclonal,,"human, mouse, guinea pig, rat",,"WB,IHC",,,,,,,,,Box3-A2
-102,p44/42 MAPK (Erk1/2) (137F5) Rabbit mAb,ä¸€æŠ—,Cst,#4695,,Rabbit,Monoclonal,,H M R Hm Mk Mi Dm Z B Dg Pg Ce,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box3-A3
-103,HEXIM1 (D5Y5K) Rabbit mAb,ä¸€æŠ—,Cst,#12604S,,Rabbit,Monoclonal,,H Mk,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box3-A4
-104,CDK9 (C12F7) Rabbit mAb,ä¸€æŠ—,Cst,#2316P,,Rabbit,Monoclonal,,H M R Hm Mk B Dg,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box3-A5
-105,CDK9 (H-169)X,ä¸€æŠ—,Santa,SC-8338X,,Rabbit,Polyclonal,,"H,M,R",,"CHIP,WB,IHC,IF",,200UG/0.1 ML FOR CHIP,,,,,,,Box3-A6
-106,"anti p300 CT, Clone RW128",ä¸€æŠ—,Millipore,05-257,,Mouse,Monoclonal,,"H, M, R",,"IP, WB, ChIP",,,,,,,,,Box3-A7
-107,P300 (C-20)X,ä¸€æŠ—,Santa,SC-585X,,Rabbit,Polyclonal,,"H,M,R",,"WB,IHC,IF",,,,,,,,,Box3-A8
-108,PCNA (PC10),ä¸€æŠ—,Cst,2586S,,Mouse,Monoclonal,,H M R Mk B Pg,,"WB, IP, IHC, IF,FACS",,"1:2000 FOR WB, 1:2400 FOR IF",,,,,,,Box3-A9
-109,beta-catenin,ä¸€æŠ—,Cst,9562S,,Rabbit,,,H M R Mk,,"WB, IP, IHC",,"1:1000 FOR WB, 1:400 FOR IHC",,,,,,,Box3-A10
-110,Vimentin,ä¸€æŠ—,Bioss Antibodies,bs-0756R,,Rabbit,,,,,,,,,,,,,,Box3-B1
-111,Phospho-RNA Polymerase II (Ser2) Polyclonal Antibody,ä¸€æŠ—,Bethyl,A300-654A,,Rabbit,,,"H,M",,"WB,IHC,IP",,,,,,,,,Box3-B2
-112,CTCF (N-17)X,ä¸€æŠ—,Santa,SC-5916X,,Goat,Polyclonal,,"H,M,R",,"CHIP,WB,IHC,IF",,200UG/0.1 ML FOR CHIP,,,,,,,Box3-B3
-113,CDK4 (D9G3E),ä¸€æŠ—,Cst,12790S,,Rabbit,Monoclonal,,H Mk,,"WB,IHC,IF,FACS",,1:1000 FOR WB,,,,,,,Box3-B4
-114,GAL4 (DBD) (RK5C1),ä¸€æŠ—,Santa,SC-510,,Mouse,Monoclonal,,,,"WB,IP",,1ug/ml for WB,,,,,,,Box3-B5
-115,GATA2 (CG2-96)X,ä¸€æŠ—,Santa,SC-267X,,Mouse,Monoclonal,,"H,M,R",,"WB,IP,IHC",,,,,,,,,Box3-B6
-116,BRD4 Polyclonal Antibod,ä¸€æŠ—,Bethyl,A301-985A50,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,"1:2000-1:10000 FOR WB, 1:500-1:2000 FOR IHC, 2-10UG/MG LASATE FOR IP",,,,,,,Box3-B7
-117,PE Rat anti-mouse FLK1,ä¸€æŠ—,Bd Biosciences,561052,,Rat,,,M,PE,FACS,FACS (Y),,,,,,,,Box3-B8
-118,Annexin V PE,ä¸€æŠ—,Ebiosciences,12-8102-45,,,,,All species,,FACS,,,,,,"These kits utilize viability dye-conjugated annexin V to label phosphatidylserine (PS), an early marker of apoptosis, on the extracellular membrane.",,,Box3-B9
-119,anti V5 antibody,ä¸€æŠ—,Invitrogen,p/n 46-0705,,Mouse,,,Tag,,"WB,IHC",,"1:1000-1:5000 FOR WB, 1:100-1:500 FOR IF",,,,ç°åœ¨çš„è´§å·æ”¹ä¸ºR960-25,,,Box3-B10
-120,"isolectin GS-IB4,biotin-xx conjugate",ä¸€æŠ—,Life Technologies,I21414,,,,,,,,,,,,,ç”Ÿç‰©ç´ -XX åŒå·¥å‡é›†ç´  GS-IB 4 å¶è”ç‰©å¯ä¸è§å…‰æ ‡è®°çš„é“¾éœ‰ç´ äº²å’Œç´ ç»“åˆï¼Œç”¨äºè§å…‰æ˜¾å¾®é•œæ£€æŸ¥æˆ–æµå¼ç»†èƒåˆ†æã€‚,,,Box3-C1
-121,Vimentin,ä¸€æŠ—,Neomarkers,RB-9063-P0,,Rabbit,,,,,,,,,thermo,,å·²è¢«thermoæ”¶è´­ï¼ŒæŸ¥ä¸åˆ°æŠ—ä½“ä¿¡æ¯,,,Box3-C2
-122,C-MYC (9E10),ä¸€æŠ—,Santa,SC-40X,,Mouse,Monoclonal,,"c-Myc taged protein in H, M, R",,"WB,IP,IHC",,,,,,,,,Box3-C3
-123,cyclin T1 (H-245),ä¸€æŠ—,Santa,SC-10750X,,Rabbit,Polyclonal,,"H,M,R",,"WB,IP,IHC",,,,,,,,,Box3-C4
-124,RAT ANTI-MOUSE CD31,ä¸€æŠ—,Bd Biosciences,553370,,Rat,,,M,,,,,,,,,,,Box3-C5
-125,BRD4,ä¸€æŠ—,Bethyl,A301-985A50,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,"1:2000-1:10000 FOR WB, 1:500-1:2000 FOR IHC, 2-10UG/MG LASATE FOR IP",,,,,,,Box3-C6
-126,BRD4,ä¸€æŠ—,Bethyl,A301-985A50,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,"1:2000-1:10000 FOR WB, 1:500-1:2000 FOR IHC, 2-10UG/MG LASATE FOR IP",,,,,,,Box3-C7
-127,"ANTI RNA POLYMERASE II, CLONE CTD4H8",ä¸€æŠ—,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 Î¼g/mL FOR WB,,,,,,,Box3-C8
-128,MOUSE X N-Cadherin (3B9),ä¸€æŠ—,Invitrogen,18-0224,,Mouse,Monoclonal,,"H,M,R",,"WB,IHC(P),IP,IF",,,,,,è´§å·33-3900ï¼Ÿ,,,Box3-C9
-129,RHO-UBEA1,ä¸€æŠ—,,,,,,,,,,,,,,,æ— æŠ—ä½“ä¿¡æ¯,,,Box3-C10
-130,ANTI-GATA2,ä¸€æŠ—,,,,,Polyclonal,,,,,,,,,,æ— æŠ—ä½“ä¿¡æ¯,,,Box3-D1
-131,GAL4 [DBD] (RK5C1),ä¸€æŠ—,Santa,SC-510,,Mouse,Monoclonal,,,,"WB,IP",,1ug/ml for WB,,,,,,,Box3-D2
-132,MOUSE ANTI Calponin,ä¸€æŠ—,Sigma,C2687,,Mouse,Monoclonal,,"human, rabbit, pig, mouse, rat",,"WB,IP,IHC,IF",,1:10000 FOR WB,,,,,,,Box3-D3
-133,RAT ANTI MOUSE CD31,ä¸€æŠ—,Bd,550274,,Rat,,,MOUSE,,"IHC, IF",,1:200 FOR IHC,,,,,,,Box3-D4
-134,Anti-Cardiac Troponin IæŠ—ä½“,ä¸€æŠ—,Abcam,ab47003,,Rabbit,Polyclonal,,"Mouse, Rat, Human, Pig",,"ELISA, WB, ICC/IF, IHC-Fr, Flow Cyt, IHC-P",,"ELISA, WB, ICC/IF, IHC-Fr, Flow Cyt, IHC-P",,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šç†Šä¿Šæµ©,Y,Y,Box3-D5
-135,Mouse monoclonal anti-HERVK-Env,ä¸€æŠ—,Austral Biologicals,Cat# HERM-1811-5;,,Mouse,Monoclonal,,human,,IHC,IHC,1:100,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šç†Šä¿Šæµ©,Y,Y,Box3-D6
-136,Anti-RBM20 antibody,ä¸€æŠ—,Abcam,ab233147,,Rabbit,Polyclonal,,,,,,,,,,,Y,,Box3-D7
-137,GAA Antibody (N-term),ä¸€æŠ—,Accept,AP12544a,,Rabbit,Polyclonal,,,,,,,,,,,Y,,Box3-D8
-138,LAMP2 (E6A6S),ä¸€æŠ—,Cell Signaling Technology,34141,,Rabbit,Monoclonal,,,,,,,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šè°¢æ€è¿œ,Y,,Box3-D9
-139,SIAH1 Rabbit mAb (A23247),ä¸€æŠ—,Abclonal,A23247,,Rabbit,Monoclonal,,,,"Human, Mouse, Rat",,,,,https://abclonalbio.com/catalog-antibodies/SIAH1RabbitmAb/A23247,,,,Box3-D10
-140,é‡ç»„Anti-ELK1æŠ—ä½“,ä¸€æŠ—,Abcam,ab32106,,,,,,,,,,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,,,Box3-E1
-141,Anti-ELK1 (phospho S383)æŠ—ä½“,ä¸€æŠ—,Abcam,ab218133,,,,,,,,,,,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,,,Box3-E2
-142,Versican antibody,ä¸€æŠ—,Abmart,T58111,,Rabbit,Monoclonal,,,,WB,,,,,,250625åˆ°,,,Box3-E3
-143,,,,,,,,,,,,,,,,,,,,Box3-E4
+96,LARP1 Polyclonal antibody,Ò»¿¹,Proteintech,13708-1-AP,,Rabbit,Polyclonal,,"Human, Mouse, Rat, Drosophila",,"IF/ICC, IHC, WB, ELISA","IF/ICC, IHC, WB, ELISA",WB : 1:2000-1:10000£» IHC : 1:50-1:500£» IF : 1:50-1:500,513 ¦Ìg/ml,,,¸öÈË±£´æÎ»ÖÃ£º³Ì¿µ,,,Box2-E7
+97,YTHDF2,Ò»¿¹,Proteintech,24744-1-AP,,Rabbit,Polyclonal,,"Human, Mouse, Rat",,WB : 1:2000-1:12000IP : 4 ug for IP and 1:500-1:1000 for WBIF : 1:50-1:500,,WB : 1:2000-1:12000IP : 4 ug for IP and 1:500-1:1000 for WBIF : 1:50-1:500,,,,¸öÈË±£´æÎ»ÖÃ£ºĞÜ¿¡ºÆ,Y,N,Box2-E8
+98,METTL3,Ò»¿¹,Proteintech,15073-1-AP,,Rabbit,Polyclonal,,"Human, Mouse, Monkey, Rat",,WB : 1:500-1:2000IP : 0.5-4.0 ug for IP and 1:1000-1:8000 for WBIHC : 1:750-1:3000,,WB : 1:500-1:2000IP : 0.5-4.0 ug for IP and 1:1000-1:8000 for WBIHC : 1:750-1:3000,,,,¸öÈË±£´æÎ»ÖÃ£ºĞÜ¿¡ºÆ,Y,Y,Box2-E9
+99,mettl14,Ò»¿¹,Abcam,ab309096,,Rabbit,Polyclonal,,"Mouse, Rat, Human",,WB£º1/1000.?????? Predicted molecular weight: 52 kDa.IP£º1/30.,,WB£º1/1000.?????? Predicted molecular weight: 52 kDa.IP£º1/30.,,,,¸öÈË±£´æÎ»ÖÃ£ºĞÜ¿¡ºÆ,Y,N,Box2-E10
+100,HDAC1(10E2),Ò»¿¹,Santa-Cruz,SC-81598,,Mouse,Monoclonal,,H M R,,"WB, IP, IHC, IF",,,,,,,,,Box3-A1
+101,Anti-SNAI1 antibody,Ò»¿¹,Sigma,AV33314-50UG,,Rabbit,Polyclonal,,"human, mouse, guinea pig, rat",,"WB,IHC",,,,,,,,,Box3-A2
+102,p44/42 MAPK (Erk1/2) (137F5) Rabbit mAb,Ò»¿¹,Cst,#4695,,Rabbit,Monoclonal,,H M R Hm Mk Mi Dm Z B Dg Pg Ce,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box3-A3
+103,HEXIM1 (D5Y5K) Rabbit mAb,Ò»¿¹,Cst,#12604S,,Rabbit,Monoclonal,,H Mk,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box3-A4
+104,CDK9 (C12F7) Rabbit mAb,Ò»¿¹,Cst,#2316P,,Rabbit,Monoclonal,,H M R Hm Mk B Dg,,"WB, IP, IHC, IF,FACS",,1:1000 FOR WB,,,,,,,Box3-A5
+105,CDK9 (H-169)X,Ò»¿¹,Santa,SC-8338X,,Rabbit,Polyclonal,,"H,M,R",,"CHIP,WB,IHC,IF",,200UG/0.1 ML FOR CHIP,,,,,,,Box3-A6
+106,"anti p300 CT, Clone RW128",Ò»¿¹,Millipore,05-257,,Mouse,Monoclonal,,"H, M, R",,"IP, WB, ChIP",,,,,,,,,Box3-A7
+107,P300 (C-20)X,Ò»¿¹,Santa,SC-585X,,Rabbit,Polyclonal,,"H,M,R",,"WB,IHC,IF",,,,,,,,,Box3-A8
+108,PCNA (PC10),Ò»¿¹,Cst,2586S,,Mouse,Monoclonal,,H M R Mk B Pg,,"WB, IP, IHC, IF,FACS",,"1:2000 FOR WB, 1:2400 FOR IF",,,,,,,Box3-A9
+109,beta-catenin,Ò»¿¹,Cst,9562S,,Rabbit,,,H M R Mk,,"WB, IP, IHC",,"1:1000 FOR WB, 1:400 FOR IHC",,,,,,,Box3-A10
+110,Vimentin,Ò»¿¹,Bioss Antibodies,bs-0756R,,Rabbit,,,,,,,,,,,,,,Box3-B1
+111,Phospho-RNA Polymerase II (Ser2) Polyclonal Antibody,Ò»¿¹,Bethyl,A300-654A,,Rabbit,,,"H,M",,"WB,IHC,IP",,,,,,,,,Box3-B2
+112,CTCF (N-17)X,Ò»¿¹,Santa,SC-5916X,,Goat,Polyclonal,,"H,M,R",,"CHIP,WB,IHC,IF",,200UG/0.1 ML FOR CHIP,,,,,,,Box3-B3
+113,CDK4 (D9G3E),Ò»¿¹,Cst,12790S,,Rabbit,Monoclonal,,H Mk,,"WB,IHC,IF,FACS",,1:1000 FOR WB,,,,,,,Box3-B4
+114,GAL4 (DBD) (RK5C1),Ò»¿¹,Santa,SC-510,,Mouse,Monoclonal,,,,"WB,IP",,1ug/ml for WB,,,,,,,Box3-B5
+115,GATA2 (CG2-96)X,Ò»¿¹,Santa,SC-267X,,Mouse,Monoclonal,,"H,M,R",,"WB,IP,IHC",,,,,,,,,Box3-B6
+116,BRD4 Polyclonal Antibod,Ò»¿¹,Bethyl,A301-985A50,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,"1:2000-1:10000 FOR WB, 1:500-1:2000 FOR IHC, 2-10UG/MG LASATE FOR IP",,,,,,,Box3-B7
+117,PE Rat anti-mouse FLK1,Ò»¿¹,Bd Biosciences,561052,,Rat,,,M,PE,FACS,FACS (Y),,,,,,,,Box3-B8
+118,Annexin V PE,Ò»¿¹,Ebiosciences,12-8102-45,,,,,All species,,FACS,,,,,,"These kits utilize viability dye-conjugated annexin V to label phosphatidylserine (PS), an early marker of apoptosis, on the extracellular membrane.",,,Box3-B9
+119,anti V5 antibody,Ò»¿¹,Invitrogen,p/n 46-0705,,Mouse,,,Tag,,"WB,IHC",,"1:1000-1:5000 FOR WB, 1:100-1:500 FOR IF",,,,ÏÖÔÚµÄ»õºÅ¸ÄÎªR960-25,,,Box3-B10
+120,"isolectin GS-IB4,biotin-xx conjugate",Ò»¿¹,Life Technologies,I21414,,,,,,,,,,,,,ÉúÎïËØ-XX Í¬¹¤Äı¼¯ËØ GS-IB 4 Å¼ÁªÎï¿ÉÓëÓ«¹â±ê¼ÇµÄÁ´Ã¹ËØÇ×ºÍËØ½áºÏ£¬ÓÃÓÚÓ«¹âÏÔÎ¢¾µ¼ì²é»òÁ÷Ê½Ï¸°û·ÖÎö¡£,,,Box3-C1
+121,Vimentin,Ò»¿¹,Neomarkers,RB-9063-P0,,Rabbit,,,,,,,,,thermo,,ÒÑ±»thermoÊÕ¹º£¬²é²»µ½¿¹ÌåĞÅÏ¢,,,Box3-C2
+122,C-MYC (9E10),Ò»¿¹,Santa,SC-40X,,Mouse,Monoclonal,,"c-Myc taged protein in H, M, R",,"WB,IP,IHC",,,,,,,,,Box3-C3
+123,cyclin T1 (H-245),Ò»¿¹,Santa,SC-10750X,,Rabbit,Polyclonal,,"H,M,R",,"WB,IP,IHC",,,,,,,,,Box3-C4
+124,RAT ANTI-MOUSE CD31,Ò»¿¹,Bd Biosciences,553370,,Rat,,,M,,,,,,,,,,,Box3-C5
+125,BRD4,Ò»¿¹,Bethyl,A301-985A50,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,"1:2000-1:10000 FOR WB, 1:500-1:2000 FOR IHC, 2-10UG/MG LASATE FOR IP",,,,,,,Box3-C6
+126,BRD4,Ò»¿¹,Bethyl,A301-985A50,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,"1:2000-1:10000 FOR WB, 1:500-1:2000 FOR IHC, 2-10UG/MG LASATE FOR IP",,,,,,,Box3-C7
+127,"ANTI RNA POLYMERASE II, CLONE CTD4H8",Ò»¿¹,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 ¦Ìg/mL FOR WB,,,,,,,Box3-C8
+128,MOUSE X N-Cadherin (3B9),Ò»¿¹,Invitrogen,18-0224,,Mouse,Monoclonal,,"H,M,R",,"WB,IHC(P),IP,IF",,,,,,»õºÅ33-3900£¿,,,Box3-C9
+129,RHO-UBEA1,Ò»¿¹,,,,,,,,,,,,,,,ÎŞ¿¹ÌåĞÅÏ¢,,,Box3-C10
+130,ANTI-GATA2,Ò»¿¹,,,,,Polyclonal,,,,,,,,,,ÎŞ¿¹ÌåĞÅÏ¢,,,Box3-D1
+131,GAL4 [DBD] (RK5C1),Ò»¿¹,Santa,SC-510,,Mouse,Monoclonal,,,,"WB,IP",,1ug/ml for WB,,,,,,,Box3-D2
+132,MOUSE ANTI Calponin,Ò»¿¹,Sigma,C2687,,Mouse,Monoclonal,,"human, rabbit, pig, mouse, rat",,"WB,IP,IHC,IF",,1:10000 FOR WB,,,,,,,Box3-D3
+133,RAT ANTI MOUSE CD31,Ò»¿¹,Bd,550274,,Rat,,,MOUSE,,"IHC, IF",,1:200 FOR IHC,,,,,,,Box3-D4
+134,Anti-Cardiac Troponin I¿¹Ìå,Ò»¿¹,Abcam,ab47003,,Rabbit,Polyclonal,,"Mouse, Rat, Human, Pig",,"ELISA, WB, ICC/IF, IHC-Fr, Flow Cyt, IHC-P",,"ELISA, WB, ICC/IF, IHC-Fr, Flow Cyt, IHC-P",,,,¸öÈË±£´æÎ»ÖÃ£ºĞÜ¿¡ºÆ,Y,Y,Box3-D5
+135,Mouse monoclonal anti-HERVK-Env,Ò»¿¹,Austral Biologicals,Cat# HERM-1811-5;,,Mouse,Monoclonal,,human,,IHC,IHC,0.111111111,,,,¸öÈË±£´æÎ»ÖÃ£ºĞÜ¿¡ºÆ,Y,Y,Box3-D6
+136,Anti-RBM20 antibody,Ò»¿¹,Abcam,ab233147,,Rabbit,Polyclonal,,,,,,,,,,,Y,,Box3-D7
+137,GAA Antibody (N-term),Ò»¿¹,Accept,AP12544a,,Rabbit,Polyclonal,,,,,,,,,,,Y,,Box3-D8
+138,LAMP2 (E6A6S),Ò»¿¹,Cell Signaling Technology,34141,,Rabbit,Monoclonal,,,,,,,,,,¸öÈË±£´æÎ»ÖÃ£ºĞ»Ë¼Ô¶,Y,,Box3-D9
+139,SIAH1 Rabbit mAb (A23247),Ò»¿¹,Abclonal,A23247,,Rabbit,Monoclonal,,,,"Human, Mouse, Rat",,,,,https://abclonalbio.com/catalog-antibodies/SIAH1RabbitmAb/A23247,,,,Box3-D10
+140,ÖØ×éAnti-ELK1¿¹Ìå,Ò»¿¹,Abcam,ab32106,,,,,,,,,,,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,,,Box3-E1
+141,Anti-ELK1 (phospho S383)¿¹Ìå,Ò»¿¹,Abcam,ab218133,,,,,,,,,,,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,,,Box3-E2
+142,Versican antibody,Ò»¿¹,Abmart,T58111,,Rabbit,Monoclonal,,,,WB,,,,,,250625µ½,,,Box3-E3
+143,Anti-GAA antibody [EPR4716(2)],Ò»¿¹,Abcam,ab137068,,Rabbit,Monoclonal,,Human,,WB,,,,,https://www.abcam.com/en-us/products/primary-antibodies/gaa-antibody-epr47162-ab137068,260227µ½,,,Box3-E4
 144,,,,,,,,,,,,,,,,,,,,Box3-E5
 145,,,,,,,,,,,,,,,,,,,,Box3-E6
 146,,,,,,,,,,,,,,,,,,,,Box3-E7
 147,,,,,,,,,,,,,,,,,,,,Box3-E8
 148,,,,,,,,,,,,,,,,,,,,Box3-E9
 149,,,,,,,,,,,,,,,,,,,,Box3-E10
-150,ANTI MYOSIN SMOOTH MUSCLE,ä¸€æŠ—,Biomedical,MA-02072,,,,,,,,,1:200 FOR IHC,,,,,,,Box5-A1
-151,mEPHB4,ä¸€æŠ—,Rd,AF446,,,,,,,,,,,,,,,,Box5-A2
-152,CAMKII T286,ä¸€æŠ—,Abcam,AB171095,,,,,,,,,,,,,,,,Box5-A3
-153,mEPHRINB2,ä¸€æŠ—,Rd,AF496,,,,,,,,,,,,,,,,Box5-A4
-154,ANTI RNA POLII CTD4H8,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box5-A5
-155,gata2,ä¸€æŠ—,Wisconein,,,,,,,,,,,,,,,,,Box5-A6
-156,RNA POLII,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box5-A7
-157,ELL2-NC,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box5-A8
-158,Histone H3K4me3 antibody (pAb),ä¸€æŠ—,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,CHIP-SEQ,IHC,IF,WB",,"ChIP: 3 - 5 Âµl per ChIPChIP-Seq: 3 Âµl eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 Âµl per 50 Âµl reaction*",,,,,,,Box5-A9
-159,ERG1/2/3,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box5-A10
-160,Histone H3K4me3 antibody (pAb),ä¸€æŠ—,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,CHIP-SEQ,IHC,IF,WB",,"ChIP: 3 - 5 Âµl per ChIPChIP-Seq: 3 Âµl eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 Âµl per 50 Âµl reaction*",,,,,,,Box5-B1
-161,H3K36ME3,ä¸€æŠ—,Abcam,AB9050-100,,,,,,,,,,,,,,,,Box5-B2
-162,CBP,ä¸€æŠ—,Abcam,AB50702,,,,,,,,,,,,,,,,Box5-B3
-163,CBP,ä¸€æŠ—,Abcam,AB50702,,,,,,,,,,,,,,,,Box5-B4
-164,RBPJ,ä¸€æŠ—,Abcam,,,,,,,,,,,,,,,,,Box5-B5
-165,HTZGFP19F7,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box5-B6
-166,CBP,ä¸€æŠ—,Abcam,AB50702,,,,,,,,,,,,,,,,Box5-B7
-167,Histone H3K4me3 antibody (pAb),ä¸€æŠ—,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,CHIP-SEQ,IHC,IF,WB",,"ChIP: 3 - 5 Âµl per ChIPChIP-Seq: 3 Âµl eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 Âµl per 50 Âµl reaction*",,,,,,,Box5-B8
-168,TRUE BLOT,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box5-B9
-169,BIOTIN-SIRT3,ä¸€æŠ—,1M Nacl,,,,,,,,,,,,,,,,,Box5-B10
-170,YY1,ä¸€æŠ—,Santa Cruz,sc-281,,Rabbit,,,"H,M, R",,"WB, IP,IHC,IF",,,,,,,,,Box5-C1
-171,HTZGFP19F7,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box5-C2
-172,NORMAL MOUSE IGG,äºŒæŠ—,,,,,,,,,,,,,,,,,,Box5-C3
-173,ANTI 6XHIS,ä¸€æŠ—,,N144-14,,,,,,,,,,,,,,,,Box5-C4
-174,ANTI 6XHIS,ä¸€æŠ—,,N144-14,,,,,,,,,,,,,,,,Box5-C5
-175,RNA POLII,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box5-C6
-176,BIOTIN-LYVE,ä¸€æŠ—,Abcam,AB37288,,,,,,,,,,,,,,,,Box5-C7
-177,RT RB,ä¸€æŠ—,,,,,,,,,,,,,,,,,,Box5-C8
+150,ANTI MYOSIN SMOOTH MUSCLE,Ò»¿¹,Biomedical,MA-02072,,,,,,,,,1:200 FOR IHC,,,,,,,Box5-A1
+151,mEPHB4,Ò»¿¹,Rd,AF446,,,,,,,,,,,,,,,,Box5-A2
+152,CAMKII T286,Ò»¿¹,Abcam,AB171095,,,,,,,,,,,,,,,,Box5-A3
+153,mEPHRINB2,Ò»¿¹,Rd,AF496,,,,,,,,,,,,,,,,Box5-A4
+154,ANTI RNA POLII CTD4H8,Ò»¿¹,,,,,,,,,,,,,,,,,,Box5-A5
+155,gata2,Ò»¿¹,Wisconein,,,,,,,,,,,,,,,,,Box5-A6
+156,RNA POLII,Ò»¿¹,,,,,,,,,,,,,,,,,,Box5-A7
+157,ELL2-NC,Ò»¿¹,,,,,,,,,,,,,,,,,,Box5-A8
+158,Histone H3K4me3 antibody (pAb),Ò»¿¹,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,CHIP-SEQ,IHC,IF,WB",,"ChIP: 3 - 5 ?l per ChIPChIP-Seq: 3 ?l eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 ?l per 50 ?l reaction*",,,,,,,Box5-A9
+159,ERG1/2/3,Ò»¿¹,,,,,,,,,,,,,,,,,,Box5-A10
+160,Histone H3K4me3 antibody (pAb),Ò»¿¹,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,CHIP-SEQ,IHC,IF,WB",,"ChIP: 3 - 5 ?l per ChIPChIP-Seq: 3 ?l eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 ?l per 50 ?l reaction*",,,,,,,Box5-B1
+161,H3K36ME3,Ò»¿¹,Abcam,AB9050-100,,,,,,,,,,,,,,,,Box5-B2
+162,CBP,Ò»¿¹,Abcam,AB50702,,,,,,,,,,,,,,,,Box5-B3
+163,CBP,Ò»¿¹,Abcam,AB50702,,,,,,,,,,,,,,,,Box5-B4
+164,RBPJ,Ò»¿¹,Abcam,,,,,,,,,,,,,,,,,Box5-B5
+165,HTZGFP19F7,Ò»¿¹,,,,,,,,,,,,,,,,,,Box5-B6
+166,CBP,Ò»¿¹,Abcam,AB50702,,,,,,,,,,,,,,,,Box5-B7
+167,Histone H3K4me3 antibody (pAb),Ò»¿¹,Active Motif,39159,,Rabbit,,,"Budding Yeast, Human, Mouse, Wide Range Predicted",,"CHIP,CHIP-SEQ,IHC,IF,WB",,"ChIP: 3 - 5 ?l per ChIPChIP-Seq: 3 ?l eachICC/IF: 1:500 - 1:1,000 dilutionWB: 1:500 - 1:2,000 dilution**CUT&Tag: 1 ?l per 50 ?l reaction*",,,,,,,Box5-B8
+168,TRUE BLOT,Ò»¿¹,,,,,,,,,,,,,,,,,,Box5-B9
+169,BIOTIN-SIRT3,Ò»¿¹,1M Nacl,,,,,,,,,,,,,,,,,Box5-B10
+170,YY1,Ò»¿¹,Santa Cruz,sc-281,,Rabbit,,,"H,M, R",,"WB, IP,IHC,IF",,,,,,,,,Box5-C1
+171,HTZGFP19F7,Ò»¿¹,,,,,,,,,,,,,,,,,,Box5-C2
+172,NORMAL MOUSE IGG,¶ş¿¹,,,,,,,,,,,,,,,,,,Box5-C3
+173,ANTI 6XHIS,Ò»¿¹,,N144-14,,,,,,,,,,,,,,,,Box5-C4
+174,ANTI 6XHIS,Ò»¿¹,,N144-14,,,,,,,,,,,,,,,,Box5-C5
+175,RNA POLII,Ò»¿¹,,,,,,,,,,,,,,,,,,Box5-C6
+176,BIOTIN-LYVE,Ò»¿¹,Abcam,AB37288,,,,,,,,,,,,,,,,Box5-C7
+177,RT RB,Ò»¿¹,,,,,,,,,,,,,,,,,,Box5-C8
 178,,,,,,,,,,,,,,,,,,,,Box5-C9
 179,,,,,,,,,,,,,,,,,,,,Box5-C10
 180,,,,,,,,,,,,,,,,,,,,Box5-D1
@@ -199,90 +199,90 @@
 197,,,,,,,,,,,,,,,,,,,,Box5-E8
 198,,,,,,,,,,,,,,,,,,,,Box5-E9
 199,,,,,,,,,,,,,,,,,,,,Box5-E10
-200,Vimentin (D21H3) XP Â®,ä¸€æŠ—,Cst,5741S,,Rabbit,,,,,,,,,,,,,,Box6-A1
-201,smad 2/3 (D7G7) XPÂ® Rb mAb,ä¸€æŠ—,Cst,8685P,,Rabbit,,,,,,,,,,,,,,Box6-A2
-202,VE-cadherin (D87F2) XPÂ®,ä¸€æŠ—,Cst,2500S,,Rabbit,,,,,,,,,,,,,,Box6-A3
-203,RBPSUH (D10A4) XPÂ®,ä¸€æŠ—,Cst,5313S,,Rabbit,,,,,,,,,,,,,,Box6-A4
-204,Phospho-Smad1(Ser463/465)/Smad5(Ser463/465)/Smad8(Ser426/428) antibody,ä¸€æŠ—,Cst,#9511S,,,,,,,,,,,,,,,,Box6-A5
-205,c-Fos (9F6),ä¸€æŠ—,Cst,#2250P,,Rabbit,,,,,,,,,,,,,,Box6-A6
-206,Bmi1 (d2087) XPÂ®,ä¸€æŠ—,Cst,6964P,,Rabbit,,,,,,,,,,,,,,Box6-A7
-207,"Anti-phospho-Histone H3(Ser10), mitosis marker",ä¸€æŠ—,Emd Millipore,06-570,,Rabbit,,,,,,,1:1 dilute 1mg/ml,,,,,,,Box6-A8
-208,P-Smad1/5 (S463/465) (41D10),ä¸€æŠ—,Cst,#9516P,,Rabbit,,,,,,,,,,,,,,Box6-A9
-209,P-c-Jun (S73),ä¸€æŠ—,Cst,#3270P,,Rabbit,,,,,,,,,,,,,,Box6-A10
-210,Phospho-c-Fos (Ser32) (D82C12) XPÂ®,ä¸€æŠ—,Cst,#5348P,,Rabbit,,,,,,,,,,,,,,Box6-B1
-211,Phospho-c-Fos (Ser32) (D82C12) XPÂ®,ä¸€æŠ—,Cst,#5348P,,Rabbit,,,,,,,,,,,,,,Box6-B2
-212,Nkx-2.5(H-114)X,ä¸€æŠ—,Santa,SC-14033X,,Rabbit,,,,,,,,,,,,,,Box6-B3
-213,Nkx-2.5,ä¸€æŠ—,Active Motif,#61268,,Rabbit,,,HUMAN,,WB,,1:500-1000 FOR WB,,,,This NKX2.5 antibody was raised against a peptide within the N-terminal region of human NKX2.5.,,,Box6-B4
-214,Nkx-2.5(H-114)X,ä¸€æŠ—,Santa,SC-14033X,,Rabbit,,,,,,,,,,,,,,Box6-B5
-215,NFATc4 (H-74)X,ä¸€æŠ—,Santa,SC-13036X,,Rabbit,,,,,,,,,,,,,,Box6-B6
-216,c-Myc(n-262)x,ä¸€æŠ—,Santa,SC-764X,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-B7
-217,NFATc1 (7A6)X,ä¸€æŠ—,Santa,SC-7294,,Mouse,Monoclonal,,,,,,,,,,,,,Box6-B8
-218,Nkx-2.5(H-114)X,ä¸€æŠ—,Santa,SC-14033X,,Rabbit,,,,,,,,,,,,,,Box6-B9
-219,HDAC2 (C-19),ä¸€æŠ—,Santa,SC-6296X,,Goat,,,,,,,,,,,,,,Box6-B10
-220,NFATc2 (4G6-G5)X,ä¸€æŠ—,Santa,SC-7296X,,Mouse,,,,,,,,,,,,,,Box6-C1
-221,BRD4,ä¸€æŠ—,Active Motif,#39909,,Rabbit,Polyclonal,,H Ms,,"CHIP,WB,IHC",,"ChIP: 5 - 10 Âµl per ChIPWB*: 1:500 - 1:2,000 dilutionIHC (FFPE): 1:1000 dilution",,,,,,,Box6-C2
-222,Anti-DARC,ä¸€æŠ—,Sigma,SAB3500242-100UG,,Rabbit,,,,,,,,,,,,,,Box6-C3
-223,HDAC1(C-19)X,ä¸€æŠ—,Santa,SC-6298X,,Goat,,,,,,,,,,,,,,Box6-C4
-224,NFATc1 (H-110X,ä¸€æŠ—,Santa,SC-13033X,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-C5
-225,Nkx-2.5,ä¸€æŠ—,Active Motif,#61267,,Rabbit,,,Human,,WB,,1:500-1000 FOR WB,,,,,,,Box6-C6
-226,Ezh2(D2C9)XPÂ®,ä¸€æŠ—,Cst,5246P,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-C7
-227,RING1B(D22F2)XPÂ®,ä¸€æŠ—,Cst,5694P,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-C8
-228,VEGF Receptor 2(55B11),ä¸€æŠ—,Cst,2479S,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-C9
-229,Anti-mouse CD309(FLK1) Biotin clone:AVAS12A1,ä¸€æŠ—,Ebioscience,13-5821-82,,,,,,,,,,,,,,,,Box6-C10
-230,Slit2,ä¸€æŠ—,Abcam,ab7665-100,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-D1
-231,anti-EED,ä¸€æŠ—,Millipore,CS204372,,Mouse,Monoclonal,,,,,,,,,,,,,Box6-D2
-232,NFATc1 (7A6)X,ä¸€æŠ—,Santa,SC-7294,,Mouse,Monoclonal,,,,,,,,,,,,,Box6-D3
-233,P-Akt(S473)(D9E) XPÂ®,ä¸€æŠ—,Cst,4060S,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-D4
-234,"Anti-mouse FLK1 (VEGFR2,Ly-73) (Avas12a1)",ä¸€æŠ—,Bd Pharmingen,555307,,,,,,,,,,,,,,,,Box6-D5
-235,RAT Anti-mouse CD144,ä¸€æŠ—,Bd Pharmingen,550548,,Rat,,,,,,,,,,,,,,Box6-D6
-236,Slit3,ä¸€æŠ—,Chemicon,AB5703P,,Rabbit,,,,,,,,,,,,,,Box6-D7
-237,Anti-mouse CD31 APC Clone:390,ä¸€æŠ—,Ebioscience,17-0311-82,,,,,,,,,,,,,,,,Box6-D8
-238,Ms mAb to KAT3A/CBP [CBP5I001],ä¸€æŠ—,Abcam,ab50702,,Mouse,,,,,,,,,,,,,,Box6-D9
-239,YB1(D299),ä¸€æŠ—,Cst,4202S,,Rabbit,,,,,,,,,,,,,,Box6-D10
-240,vWF,ä¸€æŠ—,Millipore,AB7356,,Rabbit,,,,,,,,,,,,,,Box6-E1
-241,Ring1A(D2P4D),ä¸€æŠ—,Cst,13069P,,Rabbit,,,,,,,,,,,,,,Box6-E2
-242,Anti-mouse CD140a PE Clone:APA5,ä¸€æŠ—,Ebioscience,12-1401-81,,,,,,,,,,,,,,,,Box6-E3
-243,Rabbit IgG,äºŒæŠ—,Millipore,PP64B,,,,,,,,,,,,,,,,Box6-E4
-244,Anti-Prox-1 antibody,ä¸€æŠ—,Angiobio Co.,11æœˆ2æ—¥,,Rabbit,,,,,,,,,,,,,,Box6-E5
-245,rabbit anti-MED12,ä¸€æŠ—,Bethyl,A300-774A,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,1:2000-1:10000 FOR WB,,,,,,,Box6-E6
-246,CRSP1/TRAP220 Polyclonal Antibody,ä¸€æŠ—,Bethyl,A300-793A,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,1:2000-1:10000 FOR WB,,,,,,,Box6-E7
-247,Anti-YBX1,ä¸€æŠ—,Mbl,RN015P,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-E8
-248,Nur77(D63C5) XPÂ®,ä¸€æŠ—,Cst,3960P,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-E9
+200,Vimentin (D21H3) XP ?,Ò»¿¹,Cst,5741S,,Rabbit,,,,,,,,,,,,,,Box6-A1
+201,smad 2/3 (D7G7) XP? Rb mAb,Ò»¿¹,Cst,8685P,,Rabbit,,,,,,,,,,,,,,Box6-A2
+202,VE-cadherin (D87F2) XP?,Ò»¿¹,Cst,2500S,,Rabbit,,,,,,,,,,,,,,Box6-A3
+203,RBPSUH (D10A4) XP?,Ò»¿¹,Cst,5313S,,Rabbit,,,,,,,,,,,,,,Box6-A4
+204,Phospho-Smad1(Ser463/465)/Smad5(Ser463/465)/Smad8(Ser426/428) antibody,Ò»¿¹,Cst,#9511S,,,,,,,,,,,,,,,,Box6-A5
+205,c-Fos (9F6),Ò»¿¹,Cst,#2250P,,Rabbit,,,,,,,,,,,,,,Box6-A6
+206,Bmi1 (d2087) XP?,Ò»¿¹,Cst,6964P,,Rabbit,,,,,,,,,,,,,,Box6-A7
+207,"Anti-phospho-Histone H3(Ser10), mitosis marker",Ò»¿¹,Emd Millipore,06-570,,Rabbit,,,,,,,1:1 dilute 1mg/ml,,,,,,,Box6-A8
+208,P-Smad1/5 (S463/465) (41D10),Ò»¿¹,Cst,#9516P,,Rabbit,,,,,,,,,,,,,,Box6-A9
+209,P-c-Jun (S73),Ò»¿¹,Cst,#3270P,,Rabbit,,,,,,,,,,,,,,Box6-A10
+210,Phospho-c-Fos (Ser32) (D82C12) XP?,Ò»¿¹,Cst,#5348P,,Rabbit,,,,,,,,,,,,,,Box6-B1
+211,Phospho-c-Fos (Ser32) (D82C12) XP?,Ò»¿¹,Cst,#5348P,,Rabbit,,,,,,,,,,,,,,Box6-B2
+212,Nkx-2.5(H-114)X,Ò»¿¹,Santa,SC-14033X,,Rabbit,,,,,,,,,,,,,,Box6-B3
+213,Nkx-2.5,Ò»¿¹,Active Motif,#61268,,Rabbit,,,HUMAN,,WB,,1:500-1000 FOR WB,,,,This NKX2.5 antibody was raised against a peptide within the N-terminal region of human NKX2.5.,,,Box6-B4
+214,Nkx-2.5(H-114)X,Ò»¿¹,Santa,SC-14033X,,Rabbit,,,,,,,,,,,,,,Box6-B5
+215,NFATc4 (H-74)X,Ò»¿¹,Santa,SC-13036X,,Rabbit,,,,,,,,,,,,,,Box6-B6
+216,c-Myc(n-262)x,Ò»¿¹,Santa,SC-764X,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-B7
+217,NFATc1 (7A6)X,Ò»¿¹,Santa,SC-7294,,Mouse,Monoclonal,,,,,,,,,,,,,Box6-B8
+218,Nkx-2.5(H-114)X,Ò»¿¹,Santa,SC-14033X,,Rabbit,,,,,,,,,,,,,,Box6-B9
+219,HDAC2 (C-19),Ò»¿¹,Santa,SC-6296X,,Goat,,,,,,,,,,,,,,Box6-B10
+220,NFATc2 (4G6-G5)X,Ò»¿¹,Santa,SC-7296X,,Mouse,,,,,,,,,,,,,,Box6-C1
+221,BRD4,Ò»¿¹,Active Motif,#39909,,Rabbit,Polyclonal,,H Ms,,"CHIP,WB,IHC",,"ChIP: 5 - 10 ?l per ChIPWB*: 1:500 - 1:2,000 dilutionIHC (FFPE): 1:1000 dilution",,,,,,,Box6-C2
+222,Anti-DARC,Ò»¿¹,Sigma,SAB3500242-100UG,,Rabbit,,,,,,,,,,,,,,Box6-C3
+223,HDAC1(C-19)X,Ò»¿¹,Santa,SC-6298X,,Goat,,,,,,,,,,,,,,Box6-C4
+224,NFATc1 (H-110X,Ò»¿¹,Santa,SC-13033X,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-C5
+225,Nkx-2.5,Ò»¿¹,Active Motif,#61267,,Rabbit,,,Human,,WB,,1:500-1000 FOR WB,,,,,,,Box6-C6
+226,Ezh2(D2C9)XP?,Ò»¿¹,Cst,5246P,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-C7
+227,RING1B(D22F2)XP?,Ò»¿¹,Cst,5694P,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-C8
+228,VEGF Receptor 2(55B11),Ò»¿¹,Cst,2479S,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-C9
+229,Anti-mouse CD309(FLK1) Biotin clone:AVAS12A1,Ò»¿¹,Ebioscience,13-5821-82,,,,,,,,,,,,,,,,Box6-C10
+230,Slit2,Ò»¿¹,Abcam,ab7665-100,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-D1
+231,anti-EED,Ò»¿¹,Millipore,CS204372,,Mouse,Monoclonal,,,,,,,,,,,,,Box6-D2
+232,NFATc1 (7A6)X,Ò»¿¹,Santa,SC-7294,,Mouse,Monoclonal,,,,,,,,,,,,,Box6-D3
+233,P-Akt(S473)(D9E) XP?,Ò»¿¹,Cst,4060S,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-D4
+234,"Anti-mouse FLK1 (VEGFR2,Ly-73) (Avas12a1)",Ò»¿¹,Bd Pharmingen,555307,,,,,,,,,,,,,,,,Box6-D5
+235,RAT Anti-mouse CD144,Ò»¿¹,Bd Pharmingen,550548,,Rat,,,,,,,,,,,,,,Box6-D6
+236,Slit3,Ò»¿¹,Chemicon,AB5703P,,Rabbit,,,,,,,,,,,,,,Box6-D7
+237,Anti-mouse CD31 APC Clone:390,Ò»¿¹,Ebioscience,17-0311-82,,,,,,,,,,,,,,,,Box6-D8
+238,Ms mAb to KAT3A/CBP [CBP5I001],Ò»¿¹,Abcam,ab50702,,Mouse,,,,,,,,,,,,,,Box6-D9
+239,YB1(D299),Ò»¿¹,Cst,4202S,,Rabbit,,,,,,,,,,,,,,Box6-D10
+240,vWF,Ò»¿¹,Millipore,AB7356,,Rabbit,,,,,,,,,,,,,,Box6-E1
+241,Ring1A(D2P4D),Ò»¿¹,Cst,13069P,,Rabbit,,,,,,,,,,,,,,Box6-E2
+242,Anti-mouse CD140a PE Clone:APA5,Ò»¿¹,Ebioscience,12-1401-81,,,,,,,,,,,,,,,,Box6-E3
+243,Rabbit IgG,¶ş¿¹,Millipore,PP64B,,,,,,,,,,,,,,,,Box6-E4
+244,Anti-Prox-1 antibody,Ò»¿¹,Angiobio Co.,11ÔÂ2ÈÕ,,Rabbit,,,,,,,,,,,,,,Box6-E5
+245,rabbit anti-MED12,Ò»¿¹,Bethyl,A300-774A,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,1:2000-1:10000 FOR WB,,,,,,,Box6-E6
+246,CRSP1/TRAP220 Polyclonal Antibody,Ò»¿¹,Bethyl,A300-793A,,Rabbit,,,"H,M",,"WB,IHC(P),IP",,1:2000-1:10000 FOR WB,,,,,,,Box6-E7
+247,Anti-YBX1,Ò»¿¹,Mbl,RN015P,,Rabbit,Polyclonal,,,,,,,,,,,,,Box6-E8
+248,Nur77(D63C5) XP?,Ò»¿¹,Cst,3960P,,Rabbit,Monoclonal,,,,,,,,,,,,,Box6-E9
 249,,,,,,,,,,,,,,,,,,,,Box6-E10
-250,ANTI WT1,ä¸€æŠ—,Epitonicis 060419-1131,1781-1,,Rabbit,,,,,,,,,,,,,,Box7-A1
-251,WGA Alexa555,ä¸€æŠ—,Thermo?,W32464,,,,,,,,,,,,,,,,Box7-A2
-252,anti NG2,ä¸€æŠ—,Millipore,AB5320,,Rabbit,,,"RAT,MOUSE",,"IHC,WB",IHC,1:250 FOR IHC,,,,,,,Box7-A3
-253,ANTI E-Cadherin,ä¸€æŠ—,Bd,610181,,Mouse,,,"HUAMN, MOUSE ,RAT, DOG",,"WB,IF,IHC,IP",IF WB,1:50 FOR IF; 1:2500-1:5000 FOR WB,,,,,,,Box7-A4
-254,CollagenIV,ä¸€æŠ—,Bio-Rad Antibodies,2150-0140,,Rabbit,Polyclonal,,HUMAN,,"elisa,IF, IHC",,Pretreatment is required with 1 mg/ml pepsin in 0.5 M acetic acid for two hours at 37ÂºC and multiple buffer washes.,,,https://www.bio-rad-antibodies.com/polyclonal/human-collagen-iv-antibody-2150-0140.html?f=purified&JSESSIONID_STERLING=9AF0CCD16B313E64D68889067FF241F3.ecommerce1&evCntryLang=CN-zhthirdPartyCookieEnabled,,,,Box7-A5
-255,anti-OCT4,ä¸€æŠ—,Abcam,ab19857,,Rabbit,,,"MOUSE,HUMAN",,"IP, ICC/IF, WB",,,,,,,,,Box7-A6
-256,"Anti-Procollagen Type I Antibody, NT, clone M-58",ä¸€æŠ—,Millipore,MAB1912,,Rat,,,HUAMN,,IH(P),,,,,,,,,Box7-A7
-257,Human Semaphorin 3c peptide (ab39299),ä¸€æŠ—,Abcm,AB39299,,Rabbit,,,,,,,,,,,,,,Box7-A8
-258,WT1 ms cell MARQUE,ä¸€æŠ—,,348N1-95,,,,,,,,,,,,,,,,Box7-A9
-259,ANTI BrdU,ä¸€æŠ—,Abcam,AB1893,,Sheep,,,,,"IHC-FrFl, IHC-P, IHC-Fr, ELISA, WB",,,,,,,,,Box7-A10
-260,Troponin I æŠ—ä½“ (H-170),ä¸€æŠ—,Santa,SC15368,,Rabbit,,,"HUMAN,MOUSE",,"IF,IHC",,,,,,,,,Box7-B1
-261,Islet-1 Antibody (K-20),ä¸€æŠ—,Santa,SC-23590,,Goat,,,"HUAMN, MOUSE,RAT",,"IF,IHC",IF,1:400 FOR IF,,,,,,,Box7-B2
-262,MYL7 (H-60),ä¸€æŠ—,Santa,SC-66967,,Rabbit,,,"HUAMN, MOUSE,RAT",,"WB(1:100-1:1000),IP,IF(1:50-1:500),IHC,ELISA(1:30-1:3000)",,,,,,,,,Box7-B3
-263,YAP Antibody (H-125),ä¸€æŠ—,Santa,SC-15407,,Rabbit,,,"HUAMN, MOUSE,RAT",,"WB,IHC,IF,CHIP",WB,1:500-1:3000 FOR WB,,,,,,,Box7-B4
-264,WT1,ä¸€æŠ—,Santa,SC192,,Rabbit,,,"HUAMN, MOUSE,RAT",,,,,,,,,,,Box7-B5
-265,WT1 (N-20),ä¸€æŠ—,Santa,SC-15421,,Goat,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP,ELISA",,,,,,,,,Box7-B6
-266,Phospho-p38 MAPK (Thr180/Tyr182) Antibody,ä¸€æŠ—,Cst,9211S,,Rabbit,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP",,,,,,,,,Box7-B7
-267,PCNA,ä¸€æŠ—,Santa,SC56,,Mouse,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP",,,,,,,,,Box7-B8
-268,Pro-COL1A1 æŠ—ä½“ (A-17),ä¸€æŠ—,Santa,SC-25973,,Goat,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP,ELISA",,,,,,,,,Box7-B9
-269,TBX18,ä¸€æŠ—,Santa,SC17869,,Goat,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP,ELISA",IF,1:50-1:100 FOR IF,,,,,,,Box7-B10
-270,VCAM1 (CD106),ä¸€æŠ—,Bd,550547,,Rat,,,MOUSE,,IHC(FORZEN),IF,1:10-1:50 FOR IF,,,,,,,Box7-C1
-271,WT1 (Wilmsâ€™ tumor protein),ä¸€æŠ—,Santa,SC7385,,Mouse,,,,,,,,,,,,,,Box7-C2
+250,ANTI WT1,Ò»¿¹,Epitonicis 060419-1131,1781-1,,Rabbit,,,,,,,,,,,,,,Box7-A1
+251,WGA Alexa555,Ò»¿¹,Thermo?,W32464,,,,,,,,,,,,,,,,Box7-A2
+252,anti NG2,Ò»¿¹,Millipore,AB5320,,Rabbit,,,"RAT,MOUSE",,"IHC,WB",IHC,1:250 FOR IHC,,,,,,,Box7-A3
+253,ANTI E-Cadherin,Ò»¿¹,Bd,610181,,Mouse,,,"HUAMN, MOUSE ,RAT, DOG",,"WB,IF,IHC,IP",IF WB,1:50 FOR IF; 1:2500-1:5000 FOR WB,,,,,,,Box7-A4
+254,CollagenIV,Ò»¿¹,Bio-Rad Antibodies,2150-0140,,Rabbit,Polyclonal,,HUMAN,,"elisa,IF, IHC",,Pretreatment is required with 1 mg/ml pepsin in 0.5 M acetic acid for two hours at 37?C and multiple buffer washes.,,,https://www.bio-rad-antibodies.com/polyclonal/human-collagen-iv-antibody-2150-0140.html?f=purified&JSESSIONID_STERLING=9AF0CCD16B313E64D68889067FF241F3.ecommerce1&evCntryLang=CN-zhthirdPartyCookieEnabled,,,,Box7-A5
+255,anti-OCT4,Ò»¿¹,Abcam,ab19857,,Rabbit,,,"MOUSE,HUMAN",,"IP, ICC/IF, WB",,,,,,,,,Box7-A6
+256,"Anti-Procollagen Type I Antibody, NT, clone M-58",Ò»¿¹,Millipore,MAB1912,,Rat,,,HUAMN,,IH(P),,,,,,,,,Box7-A7
+257,Human Semaphorin 3c peptide (ab39299),Ò»¿¹,Abcm,AB39299,,Rabbit,,,,,,,,,,,,,,Box7-A8
+258,WT1 ms cell MARQUE,Ò»¿¹,,348N1-95,,,,,,,,,,,,,,,,Box7-A9
+259,ANTI BrdU,Ò»¿¹,Abcam,AB1893,,Sheep,,,,,"IHC-FrFl, IHC-P, IHC-Fr, ELISA, WB",,,,,,,,,Box7-A10
+260,Troponin I ¿¹Ìå (H-170),Ò»¿¹,Santa,SC15368,,Rabbit,,,"HUMAN,MOUSE",,"IF,IHC",,,,,,,,,Box7-B1
+261,Islet-1 Antibody (K-20),Ò»¿¹,Santa,SC-23590,,Goat,,,"HUAMN, MOUSE,RAT",,"IF,IHC",IF,1:400 FOR IF,,,,,,,Box7-B2
+262,MYL7 (H-60),Ò»¿¹,Santa,SC-66967,,Rabbit,,,"HUAMN, MOUSE,RAT",,"WB(1:100-1:1000),IP,IF(1:50-1:500),IHC,ELISA(1:30-1:3000)",,,,,,,,,Box7-B3
+263,YAP Antibody (H-125),Ò»¿¹,Santa,SC-15407,,Rabbit,,,"HUAMN, MOUSE,RAT",,"WB,IHC,IF,CHIP",WB,1:500-1:3000 FOR WB,,,,,,,Box7-B4
+264,WT1,Ò»¿¹,Santa,SC192,,Rabbit,,,"HUAMN, MOUSE,RAT",,,,,,,,,,,Box7-B5
+265,WT1 (N-20),Ò»¿¹,Santa,SC-15421,,Goat,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP,ELISA",,,,,,,,,Box7-B6
+266,Phospho-p38 MAPK (Thr180/Tyr182) Antibody,Ò»¿¹,Cst,9211S,,Rabbit,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP",,,,,,,,,Box7-B7
+267,PCNA,Ò»¿¹,Santa,SC56,,Mouse,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP",,,,,,,,,Box7-B8
+268,Pro-COL1A1 ¿¹Ìå (A-17),Ò»¿¹,Santa,SC-25973,,Goat,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP,ELISA",,,,,,,,,Box7-B9
+269,TBX18,Ò»¿¹,Santa,SC17869,,Goat,,,"HUAMN, MOUSE,RAT",,"WB,IF,IP,ELISA",IF,1:50-1:100 FOR IF,,,,,,,Box7-B10
+270,VCAM1 (CD106),Ò»¿¹,Bd,550547,,Rat,,,MOUSE,,IHC(FORZEN),IF,1:10-1:50 FOR IF,,,,,,,Box7-C1
+271,WT1 (Wilms¡¯ tumor protein),Ò»¿¹,Santa,SC7385,,Mouse,,,,,,,,,,,,,,Box7-C2
 272,,,,,,,,,,,,,,,,,,,,Box7-C3
-273,WT1,ä¸€æŠ—,Santa,SC192,,Rabbit,,,,,,,,,,,,,,Box7-C4
-274,WT1,ä¸€æŠ—,Santa,SC192,,Rabbit,,,,,,,,,,,,,,Box7-C5
-275,WT1,ä¸€æŠ—,Dako,M3561,,,,,,,,,,,,,,,,Box7-C6
-276,Troponin T-C æŠ—ä½“,ä¸€æŠ—,Santa,SC8121,,Goat,,,"Human, mouse, rat",,"IP,IHC,IF,WB",IF,1:10 FOR IF,,,,,,,Box7-C7
-277,WT1,ä¸€æŠ—,Santa,SC192,,Rabbit,,,,,,,,,,,,,,Box7-C8
-278,Phospho-SAPK/JNK (Thr183/Tyr185) Antibody,ä¸€æŠ—,Cst,9251s,,Rabbit,,,"Human, mouse, rat",,WB,WB,1:1000 FOR WB,,,,,,,Box7-C9
-279,p-p38 MAPK æŠ—ä½“ (D-8),ä¸€æŠ—,Santa,sc7973,,Mouse,,,,,"IP,IHC,IF,WB,elisa",,,,,,"æ¨èç”¨äº mouse, ratï¼Œ human å’Œ æ¥æºçš„Tyr 182 phosphorylated p38 alpha MAPK14, p38 beta MAPK11 and p38 gamma MAPK12 WB, IP, IF, IHC(P) å’Œ ELISAæ£€æµ‹",,,Box7-C10
-280,SRF æŠ—ä½“ (G-20),ä¸€æŠ—,Santa,SC335,,Rabbit,,,"human, mouse, rat",,"wb, IHC",,,,,,,,,Box7-D1
-281,Tropomyosin,ä¸€æŠ—,Sype Hyper Doma Band,CH1,,Mouse,,,,,,,,,,,æŸ¥ä¸åˆ°æŠ—ä½“ä¿¡æ¯,,,Box7-D2
-282,,,,,,,,,,,,,,,,,,,,Box7-D3
-283,,,,,,,,,,,,,,,,,,,,Box7-D4
+273,WT1,Ò»¿¹,Santa,SC192,,Rabbit,,,,,,,,,,,,,,Box7-C4
+274,WT1,Ò»¿¹,Santa,SC192,,Rabbit,,,,,,,,,,,,,,Box7-C5
+275,WT1,Ò»¿¹,Dako,M3561,,,,,,,,,,,,,,,,Box7-C6
+276,Troponin T-C ¿¹Ìå,Ò»¿¹,Santa,SC8121,,Goat,,,"Human, mouse, rat",,"IP,IHC,IF,WB",IF,1:10 FOR IF,,,,,,,Box7-C7
+277,WT1,Ò»¿¹,Santa,SC192,,Rabbit,,,,,,,,,,,,,,Box7-C8
+278,Phospho-SAPK/JNK (Thr183/Tyr185) Antibody,Ò»¿¹,Cst,9251s,,Rabbit,,,"Human, mouse, rat",,WB,WB,1:1000 FOR WB,,,,,,,Box7-C9
+279,p-p38 MAPK ¿¹Ìå (D-8),Ò»¿¹,Santa,sc7973,,Mouse,,,,,"IP,IHC,IF,WB,elisa",,,,,,"ÍÆ¼öÓÃÓÚ mouse, rat£¬ human ºÍ À´Ô´µÄTyr 182 phosphorylated p38 alpha MAPK14, p38 beta MAPK11 and p38 gamma MAPK12 WB, IP, IF, IHC(P) ºÍ ELISA¼ì²â",,,Box7-C10
+280,SRF ¿¹Ìå (G-20),Ò»¿¹,Santa,SC335,,Rabbit,,,"human, mouse, rat",,"wb, IHC",,,,,,,,,Box7-D1
+281,Tropomyosin,Ò»¿¹,Sype Hyper Doma Band,CH1,,Mouse,,,,,,,,,,,²é²»µ½¿¹ÌåĞÅÏ¢,,,Box7-D2
+282,Anti alpha 1 type I collagen antibody,Ò»¿¹,abcam,ab270993,,Rabbit,Monoclonal,,"Mouse, Rat",,,,,,,https://www.abcam.com/en-us/products/primary-antibodies/collagen-i-antibody-epr24331-53-ab270993,,20260227µ½,,Box7-D3
+283,Emerin (D3B9G) Rabbit Monoclonal Antibody,Ò»¿¹,Cell Signaling,30853S,,Rabbit?,Monoclonal,,"Human, Mouse, Rat, Monkey",,Western Blotting\t1:1000,,,,,https://www.cellsignal.com/products/primary-antibodies/emerin-d3b9g-rabbit-monoclonal-antibody/30853?srsltid=AfmBOoqsZMv_-25mUMPLC2hZ9ec_hvEPSpgt-lG0ZF5Gp8Jp05mj2ncA,,20260227µ½,,Box7-D4
 284,,,,,,,,,,,,,,,,,,,,Box7-D5
 285,,,,,,,,,,,,,,,,,,,,Box7-D6
 286,,,,,,,,,,,,,,,,,,,,Box7-D7
@@ -299,385 +299,385 @@
 297,,,,,,,,,,,,,,,,,,,,Box7-E8
 298,,,,,,,,,,,,,,,,,,,,Box7-E9
 299,,,,,,,,,,,,,,,,,,,,Box7-E10
-300,HA tag mab,ä¸€æŠ—,Cst,2367S,5,Mouse,Monoclonal,,all species,,"WB, IHC, IF, F",,"1:1000 for WB, 1:1200 for IHC, 1:100 for IF, 1:50 for FACS",,,,åŸæ¥çš„ab squareç›’å­ç¼–ä¸ºBox4,,,Box4-A1
-301,K63 linkage SPECIFIC polyubiquintin (D7A11),ä¸€æŠ—,Cst,5621S,4,Rabbit,Monoclonal,,all species,,WB,,1:1000 for WB,,,,,,,Box4-A2
-302,EZH2 (D2C9) XP,ä¸€æŠ—,Cst,5246S,9,Rabbit,Monoclonal,,"H, M, R, Mk",,"WB, IP, IHC, IF, F, CHIP, C&R",,"1:1000 for WB, 1:200 for IP,Â  1:50 for IHC, 1:100~1:400 for IF, 1:100~1:400 for FACS, 1:100 for CHIP, 1:100 for CUT&RUN",,,,,,,Box4-A3
-303,EGR3,ä¸€æŠ—,Cst,2559S,1,Rabbit,Polyclonal,,"H, M, R",,WB,,1:1000 for WB,,,,,,,Box4-A4
-304,TCF21,ä¸€æŠ—,Abcam,ab32981-50,,Rabbit,Polyclonal,,H,,"IHC-P, WB",,,,,,,,,Box4-A5
-305,Acelylated lysine,ä¸€æŠ—,Cst,9441S,13,Rabbit,Polyclonal,,all species,,"WB, IP, IHC, IF, CHIP",,"1:1000 for WB, 1:100 for IP,Â  1:400~1:1600 for IHC, 1:100~1:800 for IF, 1:800 for CHIP, 1:2000 for è‚½ELISA",,,,,,,Box4-A6
-306,tri-methy-histone H3(K27),ä¸€æŠ—,Cst,9733P,8,Rabbit,Monoclonal,,"H, M, R, Mk",,"WB, IHC, IF, F, CHIP, C&R",,"1:1000 for WB, 1:100 ~1:400for IHC, 1:800~1:3200 for IF, 1:100~1:400 for FACS, 1:50 for CHIP, 1:50 for CUT&RUN",,,,,,,Box4-A7
-307,HA tag mab,ä¸€æŠ—,Cst,2367S,5,Mouse,Monoclonal,,all species,,"WB,Â  IHC, IF, F",,"1:1000 for WB, 1:1200 for IHC, 1:100 for IF, 1:50 for FACS",,,,,,,Box4-A8
-308,HMGA1(D6A4) XPÂ®,ä¸€æŠ—,Cst,7777T,1,Rabbit,Monoclonal,,"H, Mk",,"WB, IP, IF",,"1:1000 for WB, 1:200 for IP,8 1:100~1:3200 for IF",,,,,,,Box4-A9
+300,HA tag mab,Ò»¿¹,Cst,2367S,5,Mouse,Monoclonal,,all species,,"WB, IHC, IF, F",,"1:1000 for WB, 1:1200 for IHC, 1:100 for IF, 1:50 for FACS",,,,Ô­À´µÄab squareºĞ×Ó±àÎªBox4,,,Box4-A1
+301,K63 linkage SPECIFIC polyubiquintin (D7A11),Ò»¿¹,Cst,5621S,4,Rabbit,Monoclonal,,all species,,WB,,1:1000 for WB,,,,,,,Box4-A2
+302,EZH2 (D2C9) XP,Ò»¿¹,Cst,5246S,9,Rabbit,Monoclonal,,"H, M, R, Mk",,"WB, IP, IHC, IF, F, CHIP, C&R",,"1:1000 for WB, 1:200 for IP,? 1:50 for IHC, 1:100~1:400 for IF, 1:100~1:400 for FACS, 1:100 for CHIP, 1:100 for CUT&RUN",,,,,,,Box4-A3
+303,EGR3,Ò»¿¹,Cst,2559S,1,Rabbit,Polyclonal,,"H, M, R",,WB,,1:1000 for WB,,,,,,,Box4-A4
+304,TCF21,Ò»¿¹,Abcam,ab32981-50,,Rabbit,Polyclonal,,H,,"IHC-P, WB",,,,,,,,,Box4-A5
+305,Acelylated lysine,Ò»¿¹,Cst,9441S,13,Rabbit,Polyclonal,,all species,,"WB, IP, IHC, IF, CHIP",,"1:1000 for WB, 1:100 for IP,? 1:400~1:1600 for IHC, 1:100~1:800 for IF, 1:800 for CHIP, 1:2000 for ëÄELISA",,,,,,,Box4-A6
+306,tri-methy-histone H3(K27),Ò»¿¹,Cst,9733P,8,Rabbit,Monoclonal,,"H, M, R, Mk",,"WB, IHC, IF, F, CHIP, C&R",,"1:1000 for WB, 1:100 ~1:400for IHC, 1:800~1:3200 for IF, 1:100~1:400 for FACS, 1:50 for CHIP, 1:50 for CUT&RUN",,,,,,,Box4-A7
+307,HA tag mab,Ò»¿¹,Cst,2367S,5,Mouse,Monoclonal,,all species,,"WB,? IHC, IF, F",,"1:1000 for WB, 1:1200 for IHC, 1:100 for IF, 1:50 for FACS",,,,,,,Box4-A8
+308,HMGA1(D6A4) XP?,Ò»¿¹,Cst,7777T,1,Rabbit,Monoclonal,,"H, Mk",,"WB, IP, IF",,"1:1000 for WB, 1:200 for IP,8 1:100~1:3200 for IF",,,,,,,Box4-A9
 309,,,,,,,,,,,,,,,,,,,,Box4-B1
-310,anti-LARP7 antibody,ä¸€æŠ—,Sigama,AV40847-50UG,,Rabbit,Polyclonal,,"bovine, horse, rat, human, canine, guinea pig, rabbit, mouse",,WB,,,,,,,,,Box4-B2
-311,HRP CONJUGATED B ACTIN,ä¸€æŠ—,Proteintech,HRP-60008,21000382,Mouse,Monoclonal,,"Human, Mouse, Rat, Zebrafish, Plant,  Canine, Hamster",HRP Fluorescent Dye,"ELISA, IF, WB",,1:2000-1:16000 for WB,,,,,,,Box4-B3
-312,JMJD3,ä¸€æŠ—,Santa Cruz,SC-130157,L0241,Rabbit,Polyclonal,,H,,"WB, IP, IF, IHC(P), ELISA",,,,,,,,,Box4-B4
-313,ANTI-Osteopontin,ä¸€æŠ—,Millipore,AB10910,3150395,Rabbit,Polyclonal,,"H, M",,"WB, IHC",,"1:500 - 1:5,000 for WB",,,,,,,Box4-B5
-314,ANTI-SIRT1,ä¸€æŠ—,Millipore,07-131,3226269,Rabbit,Polyclonal,,"H, M",,"ICC, IP, WB, ChIP",,1:500 for ICC,,,,,,,Box4-B6
-315,MAFF,ä¸€æŠ—,Abconal,A12920,117900101,Rabbit,,,H,,WB,,1:500 - 1:2000 for WB,,,,,,,Box4-B7
-316,SIP1 Polyclonal Antibody,ä¸€æŠ—,Bethyl,A302-474A-T,,Rabbit,Polyclonal,,Human,,"WB, IHC(P),IP",,1:1000 for WB,,,,,,,Box4-B8
-317,ZEB1 Polyclonal Antibody,ä¸€æŠ—,Bethyl,A301-922A-T,,Rabbit,Polyclonal,,"H, M",,"WB, IHC(P),IP",,1:1000 for WB,,,,,,,Box4-B9
-318,ANTI-RFP,ä¸€æŠ—,Rockland,p/n 600-401-379,,Rabbit,Polyclonal,,All species,,"ELISA, IF, IHC, WB, EM, FC, FISH, IP, Other",,"IF:1:1000; react with RFP, tdTomato, Expect reactivity against RFP and its variants: mCherry, tdTomato, mBanana, mOrange, mPlum, mOrange and mStrawberry.",,,,,,,Box4-C1
-319,anti-FSP1,ä¸€æŠ—,Millipore,2274å¹´7æœˆ,2806560,Rabbit,Polyclonal,,"M, H",,"WB, IH(P)",,,,,,,,,Box4-C2
-320,MAFG,ä¸€æŠ—,Abconal,A16056,33930101,Mouse,,,H,,WB,,1:500 - 1:2000 for WB,,,,,,,Box4-C3
-321,CD31,ä¸€æŠ—,Bd Biosciences,550274,87929,Rat,,,MOUSE,,"IHC, IF,F,IP",,1:200 for IHC,,,,,,,Box4-C4
-322,ANTI-LARP7 ANTIBODY,ä¸€æŠ—,Bethyl,A303-723A,,Rabbit,Polyclonal,,"H, M",,"WB, IP",,,,,,,,,Box4-C5
-323,ANTI-LARP7 ANTIBODY,ä¸€æŠ—,Bethyl,A303-723A,,Rabbit,Polyclonal,,"H, M",,"WB, IP",,,,,,,,,Box4-C6
-324,TWIST1,ä¸€æŠ—,Abconal,A7314,3560401103,Rabbit,,,"H, M",,"WB, IF",,"1:500 - 1:2000 for WB, 1:50 - 1:200 for IF",,,,,,,Box4-C7
-325,ANTI-SIRT1,ä¸€æŠ—,Millipore,07-131,3169543,Rabbit,Polyclonal,,"M, H",,"ICC, IP, WB, ChIP",,,,,,,,,Box4-C8
-326,CD31,ä¸€æŠ—,Bd Biosciences,550274,9002678,Rat,,,M,,"IHC, ELISA, WB",,,,,,,,,Box4-C9
-327,GAPDH,ä¸€æŠ—,Genetex,GTX627408,41323,Mouse,Monoclonal,,"Human, Mouse, Rat, Zebrafish, Yeast, Drosophila, Dog, Pig, Monkey, Candida albicans, E. coli",,"WB, ICC/IF, IHC-P, EMSA",,,,,,,,,Box4-D1
-328,MEPCE,ä¸€æŠ—,Proteintech,14917-1-AP,6010,Rabbit,Polyclonal,,Human,,"IF, IP, WB,ELISA",,"1:1000-1:4000 for WB, 0.5-4.0 ug for IP and 1:200-1:1000 for WB, 1:20-1:200 for IF",,,,,,,Box4-D2
-329,EZH1,ä¸€æŠ—,Millipore,ABE281,3022878,Rabbit,Polyclonal,,"H, M",,"IHC, WB",,,,,,,,,Box4-D3
-330,WGA,ä¸€æŠ—,,B1025,,,,1MG/MML,,,,,,,,,,,,Box4-D4
-331,KAP1,ä¸€æŠ—,Abcam,,,Mouse,,,,,,,,,,,,,,Box4-D5
-332,A-SMA,ä¸€æŠ—,Abcam,AB5694,,Rabbit,Polyclonal,,"M, H",,"WB, IHC-P",,"Use a concentration of 0.5 - 2 Âµg/ml for WB, 1/50 - 1/200 for IHC-P",,,,,,,Box4-D6
-333,H3K27ME3,ä¸€æŠ—,Millipore,07-449,DAM1731568,Rabbit,Polyclonal,,"human,mouse",,"ICC, IP, Mplex, WB, IHC",,,,,,,,,Box4-D7
-334,PAT PERILIPIN,ä¸€æŠ—,,B446,,Goat,,,mouse,,,,,,,,,,,Box4-D8
-335,H3K27ME3,ä¸€æŠ—,Millipore,07-449,DAM1731568,Rabbit,Polyclonal,,"human,mouse",,"ICC, IP, Mplex, WB, IHC",,,,,,,,,Box4-D9
-336,N-CADHERIN,ä¸€æŠ—,Invitrogen,MA1-91128,18-0024,Mouse,Monoclonal,,"Bovine, Dog, Chicken, Cat, Guinea pig, Goat, Hamster, Human, Mammal, Mouse, Sheep, Pig, Rabbit, Reptile, Rat",,"IF,WB,IHC",,"1:500Â  for WB, 1:500Â  for IHC,Â  1:500Â  for ICC/IF",,,,,,,Box4-E1
-337,ZO1,ä¸€æŠ—,Abcam,AB59720,,Rabbit,Polyclonal,40MG/ML,"human,mouse,pig,dog,chicken,",,"FC/FACS, ICC/IF, WB",,"1:50~1:1000Â  for WB,Â  1:50Â  for ICC, 1:200Â  for IHC-IF, 1:100 for FC/FACS",,,,,,,Box4-E2
-338,"PH3(Anti-phospho-Histone H3(Ser10), mitosis marker)",ä¸€æŠ—,Millipore,06-570,,Rabbit,Polyclonal,,"human,mouse",,"ICC, IP, WB",,,,,,,,,Box4-E3
-339,Anti-Sarcomeric Alpha Actinin antibody,ä¸€æŠ—,Abcam,AB9465,,Mouse,Monoclonal,,"HUMAN,RAT",,"IHC-P,WB",,"Use a concentration of 10 - 20 Âµg/ml for IHC-P, Use a concentration of 2 - 4 Âµg/ml for WB",,,,,,,Box4-E4
-340,Anti-alpha smooth muscle Actin antibody,ä¸€æŠ—,Abcam,AB5694,,Rabbit,Polyclonal,,"HUAMN,MOUSE",,"IHC-P,WB",,"1:50~1:200 for IHC-P, Use a concentration of 0.5~2 Âµg/ml for WB",,,,,,,Box4-E5
-341,ANTI-EZH1,ä¸€æŠ—,Millipore,ABE281,,Rabbit,Polyclonal,,"HUAMN,MOUSE",,"IHC, WB",,,,,,,,,Box4-E6
-342,CTNT,ä¸€æŠ—,Abcam,AB45932,,Rabbit,Polyclonal,,HUAMN,,"IHC-P,ELISA, WB",,"Use a concentration of 1 Âµg/ml for IHC-P, Use a concentration of 0.5 Âµg/ml for ELISA, Use a concentration of 1 Âµg/ml for WB",,,,,,,Box4-E7
-343,MHC,ä¸€æŠ—,,,,Mouse,,,,,,,,,,,,,,Box4-E8
-344,hSnail,ä¸€æŠ—,R&D,AF3639,,Goat,Polyclonal,,"HUAMN,",,"WB,ChIP, IHC, FACS",,"Use a concentration of 5-15 Âµg/mL for IHC-P, Use a concentration of 5 Âµg/5 x 106 cells for ChIP, Use a concentration of 0.5 Âµg/ml for WB, Use a concentration of 0.25 Âµg/106 cells for FACS",,,,,,,Box4-E9
-345,Anti-KDM6A / UTX antibody,ä¸€æŠ—,Abcam,AB36938,GR228522-1,Rabbit,Polyclonal,,"Mouse, Rat, Human",,"ChIP, WB, ICC/IF",,"Use a concentration of 1 Âµg/ml for WB,Â  Use a concentration of 1 Âµg/ml for ICC/IF .",,,,,,,Box4-F1
-346,Anti-CREBBP,ä¸€æŠ—,Abcam,AB2832,GR13367-1,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IHC-P, ICC/IF",,"Use a concentration of 1 - 2 Âµg/ml for WB, 1:1000~1:5000 for IHC-P,1:100 for ICC/IF",,,,,,,Box4-F2
-347,Anti-Histone H3 antibody - Nuclear Marker and ChIP Grade,ä¸€æŠ—,Abcam,AB1791,887601,Rabbit,Polyclonal,,"Mouse, Rat, Human, Saccharomyces cerevisiae, Xenopus laevis, Arabidopsis thaliana, Drosophila melanogaster, Indian muntjac, Schizosaccharomyces pombe",,"ICC, IHC-P, ChIP, IP, WB",,"Use a concentration of 1 Âµg/ml for ICC, 1/100 - 1/400 for IHC-P, Use a concentration of 2Âµg/106 cells for ChIP, Use a concentration of 5 Âµg/ml for IP, 1/1000 - 1/5000 for WB",,,,,,,Box4-F3
-348,SLUG,ä¸€æŠ—,Abcam,AB27568,GR32099265-1,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Human",,"WB, IHC-Fr, ICC/IF",,1/500 - 1/1000 for WB,,,,,,,Box4-F4
-349,Anti-CREBBP,ä¸€æŠ—,Abcam,AB2832,GR13367-1,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IHC-P, ICC/IF",,"Use a concentration of 1 - 2 Âµg/ml for WB, 1:1000~1:5000 for IHC-P,1:100 for ICC/IF",,,,,,,Box4-F5
-350,SM22A/Anti-TAGLN/Transgelin,ä¸€æŠ—,Abcam,AB14106,GR3206563-1,Rabbit,Polyclonal,,"Mouse, Rat, Human",,"ICC/IF, WB",,"Use a concentration of 1 - 5 Âµg/ml for ICC/IF,Use a concentration of 1 Âµg/ml for WB",,,,,,,Box4-F6
-351,HISTONE H2A.Z,ä¸€æŠ—,Abcam,AB4174,GR147288-1,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human",,"ICC/IF, ChIP, WB",,"1/1000 for ICC/IF, 1/1000Â  for WB",,,,,,,Box4-F7
-352,A-SMOOTH MUSLE ACTIN,ä¸€æŠ—,Abcam,AB5694,GR283004-30,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IHC-P",,"Use a concentration of 0.5 - 2 Âµg/ml for WB, 1/50 - 1/200 for IHC-P",,,,,,,Box4-F8
-353,KAP1,ä¸€æŠ—,Abcam,AB22553,GR3332149-6,Mouse,Monoclonal,,Human,,"WB, ICC, IHC-P",,"1/500 for WB, Use a concentration of 2 Âµg/ml for ICC, Use a concentration of 2 Âµg/ml for IHC-P",,,,,,,Box4-F9
-354,Ki67,ä¸€æŠ—,Abcam,AB15580,GR3198221-1,Rabbit,Polyclonal,,"Mouse, Human",,"IHC-P, ICC",,"Use a concentration of 0.1 - 5 Âµg/ml for IHC-P, Use a concentration of 0.1 - 5 Âµg/ml for ICC",,,,,,,Box4-G1
-355,S100A4,ä¸€æŠ—,Abcam,AB197896,GR3213138-1,Rabbit,Monoclonal,,"Mouse, Rat, Human",,"Flow Cyt (Intra), IHC-P, WB, ICC/IF, IP",,"1/250 for FACS, 1/2000 for IHC-P, 1/1000 for WB, 1/250 for ICC/IF,Â  1/40 for IP",,,,,,,Box4-G2
-356,MAFK,ä¸€æŠ—,Abcam,AB50322,GR11750-30,Rabbit,Polyclonal,,Human,,WB,,1/4000 - 1/8000 for WB,,,,,,,Box4-G3
-357,CARDIAC TROPONIN1,ä¸€æŠ—,Abcam,AB10231,GR31729911-1,Mouse,Monoclonal,,Human,,IHC-P,,Use a concentration of 1 Âµg/ml for IHC-P,,,,,,,Box4-G4
-358,ETS1,ä¸€æŠ—,Abcam,AB26096,GR176579-1,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Human, pig, domestic dog, bovine",,"ELISA, ICC-IF, IHC-P,WB",,"1/1000 - 1/2000 for WB,1/200 for IHC",,,,,,,Box4-G5
-359,RNA POLII CTD REPEAT YSPTSPS(PHOSPHOS 2),ä¸€æŠ—,Abcam,AB5096,GR79455-1,Rabbit,Polyclonal,,,,,,,,,,,,,Box4-G6
-360,RANGAP1,ä¸€æŠ—,Abcam,AB2081-100,690667,Goat,Polyclonal,,"Mouse, Human",,"WB, ICC/IF",,"Use a concentration of 0.1 - 0.5 Âµg/ml for WB, 1/500 for ICC/IF",,,,,,,Box4-G7
-361,NEUCLEAR POL O-LINKED GLYCO PROTEIN,ä¸€æŠ—,Abcam,AB2734,956968,Mouse,Monoclonal,,"Rat, Human",,"IHC-P, WB",,"1/200 for IHC-P, 1/1000 for WB",,,,,,,Box4-G8
-362,HISTONE H2B,ä¸€æŠ—,Abcam,AB1790,961902,Rabbit,Polyclonal,,"Cow, Human, Saccharomyces cerevisiae, Xenopus laevis, Arabidopsis",,"WB, IHC-P, ChIP, ICC/IF, IP",,"Use a concentration of 0.1 Âµg/ml for WB,Use a concentration of 1 Âµg/ml for IHC-P,Use a concentration of 2~3 Âµg/ml for ChIP, Use a concentration of 0.5 Âµg/ml for ICC/IF, Use a concentration of 5 Âµg/ml for IP",,,,,,,Box4-G9
-363,ZO1 TIGHT JUCTION PROTEIN,ä¸€æŠ—,Abcam,AB59720,287296-1,Rabbit,Polyclonal,,"Mouse,Chicken, Human, pig, domestic dog",,"FC/FACS, ICC-IF,WB",,"1/50 - 1000 for WB,1/50 for ICC, 1/200 for IHC-IF, 1/100-1/400 for IHC, 1/50-1/5000 for IF, 1:100 for FACS",,,,,,,Box4-H1
-364,HISTONE H3 Y47 DI-MELTHY K4,ä¸€æŠ—,Abcam,AB32356,947550,Rabbit,Monoclonal,,"Mouse, Rat, Chicken, Cow, Human, African green monkey",,"ChIP, ChIP-sequencing, WB, IHC-P, ICC/IF, Flow Cyt (Intra), IP",,"Use 2 Âµg /25 Âµg of chromatin for ChIP, Use 4 Âµg /30 Âµg of chromatin for ChIP-seq, 1/2000 for WB, 1/800 for IHC-P,1/1000 FOR ICC/IF, 1/20-1/100 for FACS, 1/30 for IP",,,,,,,Box4-H2
-365,HISTONE H3 TRI-METHYL K36,ä¸€æŠ—,Abcam,AB9050,947436,Rabbit,Polyclonal,,"Cow, Human",,"ICC/IF, WB, ChIP",,"Use a concentration ofÂ  0.1 - 1 Âµg/ml for ICC/IF, Use a concentration ofÂ  1 Âµg/ml for WB",,,,,,,Box4-H3
-366,ETS1 PHOSPHO T38,ä¸€æŠ—,Abcam,AB59179,GR84256-6,Rabbit,Polyclonal,,Human,,IHC-P,,,,,,,,,Box4-H4
-367,HISTONE H2A.Z ACETY K4K7K11,ä¸€æŠ—,Abcam,AB18262,GR149365-1,Sheep,Polyclonal,,"Mouse, Human, Chicken",,"WB, ICC/IF, ChIP",,1:200 for IHC,,,,,,,Box4-H5
-368,EZH1,ä¸€æŠ—,Abcam,AB13665,GR192014-1,Rabbit,Polyclonal,,"Mouse, Human",,"WB, ICC/IF, ChIP",,,,,,,,,Box4-H6
-369,HISTONE H3 mono methy K4,ä¸€æŠ—,Abcam,AB8895,961813,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human",,"ICC, ChIP, WB, IHC-P",,"Use a concentration of 1 - 5Âµg/ml for ICC, Use 2 Âµg/25 Âµg of chromatin for ChIP, 1:500 for WB, Use a concentration of 0.5Âµg/ml for IHC-P",,,,,,,Box4-H7
-370,RNA POLII (H14),ä¸€æŠ—,Abcam,AB24759,868177,Mouse,Monoclonal,,"Mouse, Human,Yeast, Schizosaccharomyces pombe",,"ICC/IF, ChIP, WB",,1:50 for IF,,,,,,,Box4-H8
-371,HISTONE H3 ACETY K27,ä¸€æŠ—,Abcam,AB4729,GR87165-1,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human, Recombinant fragment",,"ICC/IF, WB, IHC-P, ChIP, PepArr",,"Use a concentration of 1Â  Âµg/ml for WB, Use a concentration of 0.5 Âµg/ml for ICC/IF, Use a concentration of 1 Âµg/ml for IHC-P,Use 2 Âµg/25 Âµg of chromatin for ChIP,Â  Use a concentration of 0.2 - 0.02 Âµg/ml for PepArr",,,,,,,Box4-H9
-372,KDM5A/GARID1A/RBBP2,ä¸€æŠ—,Abcam,AB70892,GR258602-12,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IP",,"Use a concentration of 2-5 Âµg/ml for IP, 1:2000~1:10000 forWB",,,,,,,Box4-I1
-373,HISTONE H3 ACETY K27,ä¸€æŠ—,Abcam,AB4729,GR24371-1,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human, Recombinant fragment",,"ICC/IF, WB, IHC-P, ChIP, PepArr",,"Use a concentration of 1Â  Âµg/ml for WB, Use a concentration of 0.5 Âµg/ml for ICC/IF, Use a concentration of 1 Âµg/ml for IHC-P,Use 2 Âµg/25 Âµg of chromatin for ChIP,Â  Use a concentration of 0.2 - 0.02 Âµg/ml for PepArr",,,,,,,Box4-I2
-374,HISTONE H3 Y47 DI-MELTHY K4,ä¸€æŠ—,Abcam,AB32356,947550,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Cow, Human, African green monkey",,"ChIP, ChIP-sequencing, WB, IHC-P, ICC/IF, Flow Cyt (Intra), IP",,"Use 2 Âµg /25 Âµg of chromatin for ChIP, Use 4 Âµg /30 Âµg of chromatin for ChIP-seq, 1/2000 for WB, 1/800 for IHC-P,1/1000 FOR ICC/IF, 1/20-1/100 for FACS, 1/30 for IP",,,,,,,Box4-I3
-375,SLUG,ä¸€æŠ—,Abcam,AB27568,GR3209926-1,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Human",,"WB, IHC-Fr, ICC/IF",,1:500~1:1000 for WB,,,,,,,Box4-I4
-376,TWIST,ä¸€æŠ—,Abcam,AB50581-100,658848,Rabbit,Polyclonal,,Human,,ICC/IF,,Use a concentration of 1 - 2 Âµg/ml for ICC/IF,,,,,,,Box4-I5
-377,BRD4,ä¸€æŠ—,Abcam,AB128874,GR177619-29,Rabbit,Monoclonal,,"Mouse, Human",,"Flow Cyt (Intra), WB, IHC-P, ICC/IF",,"1:200 for IHC-P,1:200 for ICC/IF, 1:200-1/1000 for WB, 1/50 for Flow Cyt (Intra)",,,,,,,Box4-I6
+310,anti-LARP7 antibody,Ò»¿¹,Sigama,AV40847-50UG,,Rabbit,Polyclonal,,"bovine, horse, rat, human, canine, guinea pig, rabbit, mouse",,WB,,,,,,,,,Box4-B2
+311,HRP CONJUGATED B ACTIN,Ò»¿¹,Proteintech,HRP-60008,21000382,Mouse,Monoclonal,,"Human, Mouse, Rat, Zebrafish, Plant,  Canine, Hamster",HRP Fluorescent Dye,"ELISA, IF, WB",,1:2000-1:16000 for WB,,,,,,,Box4-B3
+312,JMJD3,Ò»¿¹,Santa Cruz,SC-130157,L0241,Rabbit,Polyclonal,,H,,"WB, IP, IF, IHC(P), ELISA",,,,,,,,,Box4-B4
+313,ANTI-Osteopontin,Ò»¿¹,Millipore,AB10910,3150395,Rabbit,Polyclonal,,"H, M",,"WB, IHC",,"1:500 - 1:5,000 for WB",,,,,,,Box4-B5
+314,ANTI-SIRT1,Ò»¿¹,Millipore,07-131,3226269,Rabbit,Polyclonal,,"H, M",,"ICC, IP, WB, ChIP",,1:500 for ICC,,,,,,,Box4-B6
+315,MAFF,Ò»¿¹,Abconal,A12920,117900101,Rabbit,,,H,,WB,,1:500 - 1:2000 for WB,,,,,,,Box4-B7
+316,SIP1 Polyclonal Antibody,Ò»¿¹,Bethyl,A302-474A-T,,Rabbit,Polyclonal,,Human,,"WB, IHC(P),IP",,1:1000 for WB,,,,,,,Box4-B8
+317,ZEB1 Polyclonal Antibody,Ò»¿¹,Bethyl,A301-922A-T,,Rabbit,Polyclonal,,"H, M",,"WB, IHC(P),IP",,1:1000 for WB,,,,,,,Box4-B9
+318,ANTI-RFP,Ò»¿¹,Rockland,p/n 600-401-379,,Rabbit,Polyclonal,,All species,,"ELISA, IF, IHC, WB, EM, FC, FISH, IP, Other",,"IF:1:1000; react with RFP, tdTomato, Expect reactivity against RFP and its variants: mCherry, tdTomato, mBanana, mOrange, mPlum, mOrange and mStrawberry.",,,,,,,Box4-C1
+319,anti-FSP1,Ò»¿¹,Millipore,2274Äê7ÔÂ,2806560,Rabbit,Polyclonal,,"M, H",,"WB, IH(P)",,,,,,,,,Box4-C2
+320,MAFG,Ò»¿¹,Abconal,A16056,33930101,Mouse,,,H,,WB,,1:500 - 1:2000 for WB,,,,,,,Box4-C3
+321,CD31,Ò»¿¹,Bd Biosciences,550274,87929,Rat,,,MOUSE,,"IHC, IF,F,IP",,1:200 for IHC,,,,,,,Box4-C4
+322,ANTI-LARP7 ANTIBODY,Ò»¿¹,Bethyl,A303-723A,,Rabbit,Polyclonal,,"H, M",,"WB, IP",,,,,,,,,Box4-C5
+323,ANTI-LARP7 ANTIBODY,Ò»¿¹,Bethyl,A303-723A,,Rabbit,Polyclonal,,"H, M",,"WB, IP",,,,,,,,,Box4-C6
+324,TWIST1,Ò»¿¹,Abconal,A7314,3560401103,Rabbit,,,"H, M",,"WB, IF",,"1:500 - 1:2000 for WB, 1:50 - 1:200 for IF",,,,,,,Box4-C7
+325,ANTI-SIRT1,Ò»¿¹,Millipore,07-131,3169543,Rabbit,Polyclonal,,"M, H",,"ICC, IP, WB, ChIP",,,,,,,,,Box4-C8
+326,CD31,Ò»¿¹,Bd Biosciences,550274,9002678,Rat,,,M,,"IHC, ELISA, WB",,,,,,,,,Box4-C9
+327,GAPDH,Ò»¿¹,Genetex,GTX627408,41323,Mouse,Monoclonal,,"Human, Mouse, Rat, Zebrafish, Yeast, Drosophila, Dog, Pig, Monkey, Candida albicans, E. coli",,"WB, ICC/IF, IHC-P, EMSA",,,,,,,,,Box4-D1
+328,MEPCE,Ò»¿¹,Proteintech,14917-1-AP,6010,Rabbit,Polyclonal,,Human,,"IF, IP, WB,ELISA",,"1:1000-1:4000 for WB, 0.5-4.0 ug for IP and 1:200-1:1000 for WB, 1:20-1:200 for IF",,,,,,,Box4-D2
+329,EZH1,Ò»¿¹,Millipore,ABE281,3022878,Rabbit,Polyclonal,,"H, M",,"IHC, WB",,,,,,,,,Box4-D3
+330,WGA,Ò»¿¹,,B1025,,,,1MG/MML,,,,,,,,,,,,Box4-D4
+331,KAP1,Ò»¿¹,Abcam,,,Mouse,,,,,,,,,,,,,,Box4-D5
+332,A-SMA,Ò»¿¹,Abcam,AB5694,,Rabbit,Polyclonal,,"M, H",,"WB, IHC-P",,"Use a concentration of 0.5 - 2 ?g/ml for WB, 1/50 - 1/200 for IHC-P",,,,,,,Box4-D6
+333,H3K27ME3,Ò»¿¹,Millipore,07-449,DAM1731568,Rabbit,Polyclonal,,"human,mouse",,"ICC, IP, Mplex, WB, IHC",,,,,,,,,Box4-D7
+334,PAT PERILIPIN,Ò»¿¹,,B446,,Goat,,,mouse,,,,,,,,,,,Box4-D8
+335,H3K27ME3,Ò»¿¹,Millipore,07-449,DAM1731568,Rabbit,Polyclonal,,"human,mouse",,"ICC, IP, Mplex, WB, IHC",,,,,,,,,Box4-D9
+336,N-CADHERIN,Ò»¿¹,Invitrogen,MA1-91128,18-0024,Mouse,Monoclonal,,"Bovine, Dog, Chicken, Cat, Guinea pig, Goat, Hamster, Human, Mammal, Mouse, Sheep, Pig, Rabbit, Reptile, Rat",,"IF,WB,IHC",,"1:500? for WB, 1:500? for IHC,? 1:500? for ICC/IF",,,,,,,Box4-E1
+337,ZO1,Ò»¿¹,Abcam,AB59720,,Rabbit,Polyclonal,40MG/ML,"human,mouse,pig,dog,chicken,",,"FC/FACS, ICC/IF, WB",,"1:50~1:1000? for WB,? 1:50? for ICC, 1:200? for IHC-IF, 1:100 for FC/FACS",,,,,,,Box4-E2
+338,"PH3(Anti-phospho-Histone H3(Ser10), mitosis marker)",Ò»¿¹,Millipore,06-570,,Rabbit,Polyclonal,,"human,mouse",,"ICC, IP, WB",,,,,,,,,Box4-E3
+339,Anti-Sarcomeric Alpha Actinin antibody,Ò»¿¹,Abcam,AB9465,,Mouse,Monoclonal,,"HUMAN,RAT",,"IHC-P,WB",,"Use a concentration of 10 - 20 ?g/ml for IHC-P, Use a concentration of 2 - 4 ?g/ml for WB",,,,,,,Box4-E4
+340,Anti-alpha smooth muscle Actin antibody,Ò»¿¹,Abcam,AB5694,,Rabbit,Polyclonal,,"HUAMN,MOUSE",,"IHC-P,WB",,"1:50~1:200 for IHC-P, Use a concentration of 0.5~2 ?g/ml for WB",,,,,,,Box4-E5
+341,ANTI-EZH1,Ò»¿¹,Millipore,ABE281,,Rabbit,Polyclonal,,"HUAMN,MOUSE",,"IHC, WB",,,,,,,,,Box4-E6
+342,CTNT,Ò»¿¹,Abcam,AB45932,,Rabbit,Polyclonal,,HUAMN,,"IHC-P,ELISA, WB",,"Use a concentration of 1 ?g/ml for IHC-P, Use a concentration of 0.5 ?g/ml for ELISA, Use a concentration of 1 ?g/ml for WB",,,,,,,Box4-E7
+343,MHC,Ò»¿¹,,,,Mouse,,,,,,,,,,,,,,Box4-E8
+344,hSnail,Ò»¿¹,R&D,AF3639,,Goat,Polyclonal,,"HUAMN,",,"WB,ChIP, IHC, FACS",,"Use a concentration of 5-15 ?g/mL for IHC-P, Use a concentration of 5 ?g/5 x 106 cells for ChIP, Use a concentration of 0.5 ?g/ml for WB, Use a concentration of 0.25 ?g/106 cells for FACS",,,,,,,Box4-E9
+345,Anti-KDM6A / UTX antibody,Ò»¿¹,Abcam,AB36938,GR228522-1,Rabbit,Polyclonal,,"Mouse, Rat, Human",,"ChIP, WB, ICC/IF",,"Use a concentration of 1 ?g/ml for WB,? Use a concentration of 1 ?g/ml for ICC/IF .",,,,,,,Box4-F1
+346,Anti-CREBBP,Ò»¿¹,Abcam,AB2832,GR13367-1,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IHC-P, ICC/IF",,"Use a concentration of 1 - 2 ?g/ml for WB, 1:1000~1:5000 for IHC-P,1:100 for ICC/IF",,,,,,,Box4-F2
+347,Anti-Histone H3 antibody - Nuclear Marker and ChIP Grade,Ò»¿¹,Abcam,AB1791,887601,Rabbit,Polyclonal,,"Mouse, Rat, Human, Saccharomyces cerevisiae, Xenopus laevis, Arabidopsis thaliana, Drosophila melanogaster, Indian muntjac, Schizosaccharomyces pombe",,"ICC, IHC-P, ChIP, IP, WB",,"Use a concentration of 1 ?g/ml for ICC, 1/100 - 1/400 for IHC-P, Use a concentration of 2?g/106 cells for ChIP, Use a concentration of 5 ?g/ml for IP, 1/1000 - 1/5000 for WB",,,,,,,Box4-F3
+348,SLUG,Ò»¿¹,Abcam,AB27568,GR32099265-1,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Human",,"WB, IHC-Fr, ICC/IF",,1/500 - 1/1000 for WB,,,,,,,Box4-F4
+349,Anti-CREBBP,Ò»¿¹,Abcam,AB2832,GR13367-1,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IHC-P, ICC/IF",,"Use a concentration of 1 - 2 ?g/ml for WB, 1:1000~1:5000 for IHC-P,1:100 for ICC/IF",,,,,,,Box4-F5
+350,SM22A/Anti-TAGLN/Transgelin,Ò»¿¹,Abcam,AB14106,GR3206563-1,Rabbit,Polyclonal,,"Mouse, Rat, Human",,"ICC/IF, WB",,"Use a concentration of 1 - 5 ?g/ml for ICC/IF,Use a concentration of 1 ?g/ml for WB",,,,,,,Box4-F6
+351,HISTONE H2A.Z,Ò»¿¹,Abcam,AB4174,GR147288-1,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human",,"ICC/IF, ChIP, WB",,"1/1000 for ICC/IF, 1/1000? for WB",,,,,,,Box4-F7
+352,A-SMOOTH MUSLE ACTIN,Ò»¿¹,Abcam,AB5694,GR283004-30,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IHC-P",,"Use a concentration of 0.5 - 2 ?g/ml for WB, 1/50 - 1/200 for IHC-P",,,,,,,Box4-F8
+353,KAP1,Ò»¿¹,Abcam,AB22553,GR3332149-6,Mouse,Monoclonal,,Human,,"WB, ICC, IHC-P",,"1/500 for WB, Use a concentration of 2 ?g/ml for ICC, Use a concentration of 2 ?g/ml for IHC-P",,,,,,,Box4-F9
+354,Ki67,Ò»¿¹,Abcam,AB15580,GR3198221-1,Rabbit,Polyclonal,,"Mouse, Human",,"IHC-P, ICC",,"Use a concentration of 0.1 - 5 ?g/ml for IHC-P, Use a concentration of 0.1 - 5 ?g/ml for ICC",,,,,,,Box4-G1
+355,S100A4,Ò»¿¹,Abcam,AB197896,GR3213138-1,Rabbit,Monoclonal,,"Mouse, Rat, Human",,"Flow Cyt (Intra), IHC-P, WB, ICC/IF, IP",,"1/250 for FACS, 1/2000 for IHC-P, 1/1000 for WB, 1/250 for ICC/IF,? 1/40 for IP",,,,,,,Box4-G2
+356,MAFK,Ò»¿¹,Abcam,AB50322,GR11750-30,Rabbit,Polyclonal,,Human,,WB,,1/4000 - 1/8000 for WB,,,,,,,Box4-G3
+357,CARDIAC TROPONIN1,Ò»¿¹,Abcam,AB10231,GR31729911-1,Mouse,Monoclonal,,Human,,IHC-P,,Use a concentration of 1 ?g/ml for IHC-P,,,,,,,Box4-G4
+358,ETS1,Ò»¿¹,Abcam,AB26096,GR176579-1,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Human, pig, domestic dog, bovine",,"ELISA, ICC-IF, IHC-P,WB",,"1/1000 - 1/2000 for WB,1/200 for IHC",,,,,,,Box4-G5
+359,RNA POLII CTD REPEAT YSPTSPS(PHOSPHOS 2),Ò»¿¹,Abcam,AB5096,GR79455-1,Rabbit,Polyclonal,,,,,,,,,,,,,Box4-G6
+360,RANGAP1,Ò»¿¹,Abcam,AB2081-100,690667,Goat,Polyclonal,,"Mouse, Human",,"WB, ICC/IF",,"Use a concentration of 0.1 - 0.5 ?g/ml for WB, 1/500 for ICC/IF",,,,,,,Box4-G7
+361,NEUCLEAR POL O-LINKED GLYCO PROTEIN,Ò»¿¹,Abcam,AB2734,956968,Mouse,Monoclonal,,"Rat, Human",,"IHC-P, WB",,"1/200 for IHC-P, 1/1000 for WB",,,,,,,Box4-G8
+362,HISTONE H2B,Ò»¿¹,Abcam,AB1790,961902,Rabbit,Polyclonal,,"Cow, Human, Saccharomyces cerevisiae, Xenopus laevis, Arabidopsis",,"WB, IHC-P, ChIP, ICC/IF, IP",,"Use a concentration of 0.1 ?g/ml for WB,Use a concentration of 1 ?g/ml for IHC-P,Use a concentration of 2~3 ?g/ml for ChIP, Use a concentration of 0.5 ?g/ml for ICC/IF, Use a concentration of 5 ?g/ml for IP",,,,,,,Box4-G9
+363,ZO1 TIGHT JUCTION PROTEIN,Ò»¿¹,Abcam,AB59720,287296-1,Rabbit,Polyclonal,,"Mouse,Chicken, Human, pig, domestic dog",,"FC/FACS, ICC-IF,WB",,"1/50 - 1000 for WB,1/50 for ICC, 1/200 for IHC-IF, 1/100-1/400 for IHC, 1/50-1/5000 for IF, 1:100 for FACS",,,,,,,Box4-H1
+364,HISTONE H3 Y47 DI-MELTHY K4,Ò»¿¹,Abcam,AB32356,947550,Rabbit,Monoclonal,,"Mouse, Rat, Chicken, Cow, Human, African green monkey",,"ChIP, ChIP-sequencing, WB, IHC-P, ICC/IF, Flow Cyt (Intra), IP",,"Use 2 ?g /25 ?g of chromatin for ChIP, Use 4 ?g /30 ?g of chromatin for ChIP-seq, 1/2000 for WB, 1/800 for IHC-P,1/1000 FOR ICC/IF, 1/20-1/100 for FACS, 1/30 for IP",,,,,,,Box4-H2
+365,HISTONE H3 TRI-METHYL K36,Ò»¿¹,Abcam,AB9050,947436,Rabbit,Polyclonal,,"Cow, Human",,"ICC/IF, WB, ChIP",,"Use a concentration of? 0.1 - 1 ?g/ml for ICC/IF, Use a concentration of? 1 ?g/ml for WB",,,,,,,Box4-H3
+366,ETS1 PHOSPHO T38,Ò»¿¹,Abcam,AB59179,GR84256-6,Rabbit,Polyclonal,,Human,,IHC-P,,,,,,,,,Box4-H4
+367,HISTONE H2A.Z ACETY K4K7K11,Ò»¿¹,Abcam,AB18262,GR149365-1,Sheep,Polyclonal,,"Mouse, Human, Chicken",,"WB, ICC/IF, ChIP",,1:200 for IHC,,,,,,,Box4-H5
+368,EZH1,Ò»¿¹,Abcam,AB13665,GR192014-1,Rabbit,Polyclonal,,"Mouse, Human",,"WB, ICC/IF, ChIP",,,,,,,,,Box4-H6
+369,HISTONE H3 mono methy K4,Ò»¿¹,Abcam,AB8895,961813,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human",,"ICC, ChIP, WB, IHC-P",,"Use a concentration of 1 - 5?g/ml for ICC, Use 2 ?g/25 ?g of chromatin for ChIP, 1:500 for WB, Use a concentration of 0.5?g/ml for IHC-P",,,,,,,Box4-H7
+370,RNA POLII (H14),Ò»¿¹,Abcam,AB24759,868177,Mouse,Monoclonal,,"Mouse, Human,Yeast, Schizosaccharomyces pombe",,"ICC/IF, ChIP, WB",,1:50 for IF,,,,,,,Box4-H8
+371,HISTONE H3 ACETY K27,Ò»¿¹,Abcam,AB4729,GR87165-1,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human, Recombinant fragment",,"ICC/IF, WB, IHC-P, ChIP, PepArr",,"Use a concentration of 1? ?g/ml for WB, Use a concentration of 0.5 ?g/ml for ICC/IF, Use a concentration of 1 ?g/ml for IHC-P,Use 2 ?g/25 ?g of chromatin for ChIP,? Use a concentration of 0.2 - 0.02 ?g/ml for PepArr",,,,,,,Box4-H9
+372,KDM5A/GARID1A/RBBP2,Ò»¿¹,Abcam,AB70892,GR258602-12,Rabbit,Polyclonal,,"Mouse, Human",,"WB, IP",,"Use a concentration of 2-5 ?g/ml for IP, 1:2000~1:10000 forWB",,,,,,,Box4-I1
+373,HISTONE H3 ACETY K27,Ò»¿¹,Abcam,AB4729,GR24371-1,Rabbit,Polyclonal,,"Mouse, Rat, Cow, Human, Recombinant fragment",,"ICC/IF, WB, IHC-P, ChIP, PepArr",,"Use a concentration of 1? ?g/ml for WB, Use a concentration of 0.5 ?g/ml for ICC/IF, Use a concentration of 1 ?g/ml for IHC-P,Use 2 ?g/25 ?g of chromatin for ChIP,? Use a concentration of 0.2 - 0.02 ?g/ml for PepArr",,,,,,,Box4-I2
+374,HISTONE H3 Y47 DI-MELTHY K4,Ò»¿¹,Abcam,AB32356,947550,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Cow, Human, African green monkey",,"ChIP, ChIP-sequencing, WB, IHC-P, ICC/IF, Flow Cyt (Intra), IP",,"Use 2 ?g /25 ?g of chromatin for ChIP, Use 4 ?g /30 ?g of chromatin for ChIP-seq, 1/2000 for WB, 1/800 for IHC-P,1/1000 FOR ICC/IF, 1/20-1/100 for FACS, 1/30 for IP",,,,,,,Box4-I3
+375,SLUG,Ò»¿¹,Abcam,AB27568,GR3209926-1,Rabbit,Polyclonal,,"Mouse, Rat, Chicken, Human",,"WB, IHC-Fr, ICC/IF",,1:500~1:1000 for WB,,,,,,,Box4-I4
+376,TWIST,Ò»¿¹,Abcam,AB50581-100,658848,Rabbit,Polyclonal,,Human,,ICC/IF,,Use a concentration of 1 - 2 ?g/ml for ICC/IF,,,,,,,Box4-I5
+377,BRD4,Ò»¿¹,Abcam,AB128874,GR177619-29,Rabbit,Monoclonal,,"Mouse, Human",,"Flow Cyt (Intra), WB, IHC-P, ICC/IF",,"1:200 for IHC-P,1:200 for ICC/IF, 1:200-1/1000 for WB, 1/50 for Flow Cyt (Intra)",,,,,,,Box4-I6
 378,,,,,,,,,,,,,,,,,,,,Box4-I7
 379,,,,,,,,,,,,,,,,,,,,Box4-I8
 380,,,,,,,,,,,,,,,,,,,,Box4-I9
-381,P21,ä¸€æŠ—,Abcam,ab109199,,Rabbit,,,,,,WB,WB 1:2000,N,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-A1
-382,Anti-MEPCE antibody - C-terminal,ä¸€æŠ—,Abcam,ab185991,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-A2
-383,Anti-RNA polymerase II CTD repeat YSPTSPS (phospho S5) antibody,ä¸€æŠ—,Abcam,ab5131,,Rabbit,Polyclonal,,"H,M,R",,"IHC-Fr, IHC-P, ELISA, IP, WB, ChIP, ICC/IF, IHC - Wholemount",,CHIP:Use 2 Âµg for 25 Âµg of chromatin.,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-A3
-384,53BP1,ä¸€æŠ—,Abcam,ab36823,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-A4
-385,SIRT6,ä¸€æŠ—,Abcam,ab62739,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-A5
-386,HA antibody (C29F4),ä¸€æŠ—,Cst,3724,,Rabbit,,,,,,WB,WB 1:2000,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-A6
-387,Acetyl-p53 (Lys382) Antibody,ä¸€æŠ—,Cst,2525S,,Rabbit,,,,,,WB,WB 1:2000,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-A7
-388,Anti-Rb (phospho S795) antibody (ab47474),ä¸€æŠ—,Abcam,ab47474,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-A8
-389,Histone H3,ä¸€æŠ—,Abcam,ab1791,,Rabbit,,,,,,WB,WB 1:2000,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-A9
-390,P-BRCA1 (S1524),ä¸€æŠ—,Cst,9009T,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-B1
-391,CBP (D6C5),ä¸€æŠ—,Cst,7389S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-B2
-392,P-Chk2(T68) (C13C1),ä¸€æŠ—,Cst,2197T,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-B3
-393,P-ATR(S428),ä¸€æŠ—,Cst,2853T,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-B4
-394,P-Chk1(S345),ä¸€æŠ—,Cst,2348T,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-B5
-395,P-Histone H2A.X (S139) (20E3),ä¸€æŠ—,Cst,9178S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-B6
-396,ATR,ä¸€æŠ—,Cst,2790S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-B7
-397,P-(S/T) ATM/ATR Substrate,ä¸€æŠ—,Cst,2851S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-B8
-398,Phospho-Rb (Ser807/811) (D20B12) XPÂ®,ä¸€æŠ—,Cst,8516T,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-B9
-399,MDM2(D1V2Z),ä¸€æŠ—,Cst,86934S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-C1
-400,DNA-PKcs Antibody #4602,ä¸€æŠ—,Cst,4602T,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-C2
-401,P-ATR(S428),ä¸€æŠ—,Cst,2853T,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-C3
-402,JARID1B,ä¸€æŠ—,Cst,3273T,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-C4
-403,"Anti-rabbit IgG, HRP-linked antibody",äºŒæŠ—,Cst,7074S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-C5
-404,Phospho-Tyrosine Mouse mAb (P-Tyr-100),ä¸€æŠ—,Cst,9411S,,Mouse,All Species,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-C6
-405,P-Threonine (P-T-Polyclonal) Rabbit aab (magnetic bead),ä¸€æŠ—,Cst,8859S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-C7
-406,anti-BRCA2(Ab-1),ä¸€æŠ—,Emd Millipore,OP95-100UG,,Mouse,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-C8
-407,anti-CBP,ä¸€æŠ—,Biolegend,606401,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-C9
-408,USP22 antibody (C-term),ä¸€æŠ—,Abgent,AM2230b-ev,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-D1
-409,IKBKG,ä¸€æŠ—,Lifespan Biosciences,LS-C353075,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-D2
-410,Poly(ADP-ribose),ä¸€æŠ—,Enzo,ALX-804-220-R100,,,Monoclonal,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-D3
-411,"anti-RNA polymerase II, clone CTD4H8",ä¸€æŠ—,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 Î¼g/mL FOR WB,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-D4
-412,rabbit anti-p16INK4a,ä¸€æŠ—,Bethyl,A301-267A-M,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-D5
-413,Rabbit anti-53BP1,ä¸€æŠ—,Bethyl,A700-011,,Rabbit,Monoclonal,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-D6
-414,"MEPCE Antibody,",ä¸€æŠ—,Bethyl,A304-184A,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-D7
-415,MEPCE Polyclonal Antibody,ä¸€æŠ—,Abclonal,A7121,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-D8
-416,Chk2,ä¸€æŠ—,Abclonal,A19543,,Rabbit,Monoclonal,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-D9
-417,Phospho-PRKDC-S2056,ä¸€æŠ—,Abclonal,AP0621,,Rabbit,Polyclonal,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-E1
-418,Phospho-CHEK2-T68,ä¸€æŠ—,Abclonal,AP0590,,Rabbit,Polyclonal,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-E2
-419,IKBKG,ä¸€æŠ—,Abclonal,A0917,,Rabbit,Polyclonal,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-E3
-420,SFN,ä¸€æŠ—,Abclonal,A1026,,Rabbit,Polyclonal,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-E4
-421,HRAS,ä¸€æŠ—,Abclonal,A12212,,Rabbit,Polyclonal,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-E5
-422,LaminB (B-100,ä¸€æŠ—,Santa,sc-374015,,Mouse,Monoclonal,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-E6
-423,TAF6 antibody,ä¸€æŠ—,Invitrogen,PA5-40955,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-E7
-424,anti-connexin-43 antibody,ä¸€æŠ—,Sigma,C6219-100UL,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-E8
-425,anti-SIRT6(N-terminal),ä¸€æŠ—,Sigma,S4322-200UL,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-E9
-426,Acetylated-Lysine polyclonal antibody,ä¸€æŠ—,Cst,9441S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-F1
-427,Acetylated-Lysine monoclonal antibody (Ac-K-103),ä¸€æŠ—,Cst,9681S,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-F2
-428,"Monoclonal anti-actin, a-smooth musle antibody",ä¸€æŠ—,Sigma,A2547-100ul,,Mouse,,,"H, M, R",,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-F3
-429,"Anti-Phosphoserine Antibody, clone 4A4",ä¸€æŠ—,Merck (Upstate),05-1000X,,Mouse,All Species,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-F4
-430,PARP2,ä¸€æŠ—,Proteintech,55149-I-AP,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-F5
-431,PPARA,ä¸€æŠ—,Proteintech,I5540-I-AP,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-F6
-432,"NRF2,NFE2L2",ä¸€æŠ—,Proteintech,I6396-I-AP,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-F7
-433,PECAM-1(MEC13.3),ä¸€æŠ—,Santa,SC-18916,,Rat,,,,,,,,,,,é‡‘ç†è¾‰ä¿å­˜,,N,Box8-F8
-434,,,,,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-F9
-435,BARD1,ä¸€æŠ—,Bethyl,A300-263A,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-G1
-436,CDK1,ä¸€æŠ—,Abclonal,A0220,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-G2
-437,BRCA1(Ab-1),ä¸€æŠ—,Calbiochem,OP92-100UG,,Mouse,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-G3
-438,Anti-cyclinB1,ä¸€æŠ—,Millipore,05-373,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-G4
-439,CCNB2,ä¸€æŠ—,Abclonal,A3351,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-G5
-440,XRCC1,ä¸€æŠ—,Abclonal,A0442,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-G6
-441,LARP7 Polyclonal Antibody,ä¸€æŠ—,Bethyl,A303-723A,,Rabbit,,,"H,M",,"WB,IP",,1:2000-1:10000 FOR WB,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-G7
-442,PARP1,ä¸€æŠ—,Abclonal,A0942,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-G8
-443,PARP1,ä¸€æŠ—,Proteintech,I337I-I-AP,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-G9
-444,PARP1,ä¸€æŠ—,Abcam,AB227244,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-H1
-445,Rb antibody Acetylated p65(K310),ä¸€æŠ—,Cst,3045S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-H2
-446,IL1A,ä¸€æŠ—,Abclonal,A1316,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-H3
-447,IL1B,ä¸€æŠ—,Abclonal,A16288,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-H4
-448,p21 waf1/Cip1(12D1),ä¸€æŠ—,Cst,2947S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,N,Box8-H5
-449,Poly/mono-ADP Ribose(E6F6A),ä¸€æŠ—,Cst,83732S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-H6
-450,K48-linked polyubiquitin,ä¸€æŠ—,Cst,4289S,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-H7
-451,CDKN2A/p16INK4a,ä¸€æŠ—,Abcam,AB108349,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-H8
-452,CDK1,ä¸€æŠ—,Abcam,AB18,,Mouse,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-H9
-453,RPS19BP1/AROS,ä¸€æŠ—,Abcam,AB201091,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-I1
-454,LAMIN B1,ä¸€æŠ—,Abcam,AB16048,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-I2
-455,BRCA1,ä¸€æŠ—,Abcam,AB191042,,Rabbit,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-I3
-456,,,,,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-I4
-457,,,,,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-I5
-458,,,,,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-I6
-459,,,,,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-I7
-460,,,,,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-I8
-461,,,,,,,,,,,,,,,,,YPYç›’å­ç¼–ä¸ºBox8,,,Box8-I9
-462,anti-phospho-ATM(Ser1981),ä¸€æŠ—,Millipore,MAB3806-C,,Mouse,Monoclonal,,H M,,"ICC, IP, ELISA, WB",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-A1
-463,RAD51,ä¸€æŠ—,Calbiochem,PC130,,Rabbit,Polyclonal,,"H,M,R",,"WB,IF,IP",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-A2
-464,Phospho-HISTONE H2A.X (S139),ä¸€æŠ—,Millipore,05-636,,Mouse,Monoclonal,,Vertebrates,,"ICC, IF, WB, ChIP, IHC",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-A3
-465,Phospho-H2AFX-S139,ä¸€æŠ—,Abclonal,AP0099,,Rabbit,,,"H,M,R",,WB,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-A4
-466,PHOSPHO-ATM-S1981,ä¸€æŠ—,Abclonal,AP0310,,Rabbit,,,H,,"WB, IHC",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-A5
-467,DUSP27(F-12),ä¸€æŠ—,Santa,SC-515513,,Mouse,Monoclonal,,"H,M,R",,"WB,IP,IF,ELISA",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-A6
-468,ATM,ä¸€æŠ—,Abclonal,A5908,,Rabbit,,,H,,WB,,WB1:500 - 1:1000,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-A7
-469,rabbit IgG,äºŒæŠ—,Beyotime,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-A8
-470,acetylated lysine,ä¸€æŠ—,Cst,9441S,,Rabbit,,,All species,,"WB,IP,IHC,IF,CHIP,peptide ELISA",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-A9
-471,CDK4,ä¸€æŠ—,Abclonal,A0366,,Rabbit,,,"H,M,R",,"WB,IP,IHC",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-B1
-472,COX6A1,ä¸€æŠ—,Abclonal,A3798,,Rabbit,,,"H,M,R",,"WB,IHC,IF",,WB1:200 - 1:2000IHC1:20 - 1:200IF1:50 - 1:200,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-B2
-473,ATP6VOC,ä¸€æŠ—,Abclonal,A16350,,Rabbit,,,"M,R",,"WB,IF",,WB 1:500 - 1:2000IF 1:50 - 1:100,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-B3
-474,P-ATM(S1981),ä¸€æŠ—,Cst,5883T,,Rabbit,,,H,,WB,,WB 1:1000,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-B4
-475,PGC1A,ä¸€æŠ—,Novus,NBP-04676,,Rabbit,Monoclonal,,"H, M, R, Goat, Hamster, Porcine",,"WB, ChIP, Flow, Flow-IC, ICC/IF, IHC, IHC-Fr, IHC-P, IP, KD, KO",,Chromatin ImmunoprecipitationFlow (Intracellular) 1 - 2.5 ug/mlFlow Cytometry 1 - 2.5 ug/mlImmunocytochemistry/Immunofluorescence 1:1000Immunohistochemistry 1:10-1:500Immunohistochemistry-FrozenImmunohistochemistry-Paraffin 1:200ImmunoprecipitationKnockdown ValidatedKnockout ValidatedWestern Blot 1 - 2 ug/ml,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-B5
-476,AuroraB,ä¸€æŠ—,Sigma,A5102,,Rabbit,Polyclonal,,"H,M,R",,"WB,IP,IF",,IF 1:200,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-B6
-477,p-BRCA2(Ser3291),ä¸€æŠ—,Millipore,AB9986,,Rabbit,,,"H, Eq, M, R, Chp, Ca, Ht, Rhesus Macaque",,"ICC, IHC, DB",,IHC only,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-B7
-478,pgc1 alpha,ä¸€æŠ—,Novus,nbp1-04676,,Rabbit,Monoclonal,,"H, M, R, Goat, Hamster, Porcine",,"WB, ChIP, Flow, Flow-IC, ICC/IF, IHC, IHC-Fr, IHC-P, IP, KD, KO",,Chromatin ImmunoprecipitationFlow (Intracellular) 1 - 2.5 ug/mlFlow Cytometry 1 - 2.5 ug/mlImmunocytochemistry/Immunofluorescence 1:1000Immunohistochemistry 1:10-1:500Immunohistochemistry-FrozenImmunohistochemistry-Paraffin 1:200ImmunoprecipitationKnockdown ValidatedKnockout ValidatedWestern Blot 1 - 2 ug/ml,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-B8
-479,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-B9
-480,ATM,ä¸€æŠ—,Santa Cruz,SC-135663,,Mouse,Monoclonal,,"H,M,R",,"WB,IP,ELISA",,"WB:1:1000Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  immunoprecipitation [1-2 Âµg per 100-500 Âµg of total protein solid phase ELISA (starting dilution 1:30, dilution range1:30-1:3000).",,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-C1
-481,anti-ATM Protein kinase pS1981,ä¸€æŠ—,Rockland,P/N 200-301-400S,,Mouse,Monoclonal,,"H,M,R",,"ELISA, FC, IF, SDS-PAGE, WB",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-C2
-482,ANTI-SIRT1,ä¸€æŠ—,Millipore,07-131,,Rabbit,Polyclonal,,"M,H",,"ICC, IP, WB, ChIP",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-C3
-483,ESRRA,ä¸€æŠ—,Abclonal,A14184,,Rabbit,Polyclonal,,"H,M,R",,WB IHC,,WB1:500 - 1:2000IHC1:50 - 1:200,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-C4
-484,SOD1,ä¸€æŠ—,Abclonal,A0274,,Rabbit,Polyclonal,,"H,M,R",,WB IHC IF,,WB1:500 - 1:2000IHC1:50 - 1:200IF1:50 - 1:200,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-C5
-485,ESRRA,ä¸€æŠ—,Lifespan Bio,LS-A5402,,Rabbit,Polyclonal,,"Human, Monkey, Mouse, Rat, Bat, Bovine, Dog, Hamster, Horse, Pig",,"IHC, IHC-P, ChrIP",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-C6
-486,HSPD1,ä¸€æŠ—,Abclonal,A0969,,Rabbit,Polyclonal,,H M R,,WB IHC IF IP,,WB1:500 - 1:2000IHC1:50 - 1:200IF1:50 - 1:100IP1:50 - 1:200,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-C7
-487,NDUFA12,ä¸€æŠ—,Abclonal,A8237,,Rabbit,,,"H, M R",,WB,,WB 1:500 - 1:2000,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-C8
-488,ATR,ä¸€æŠ—,Abclonal,A7247,,Rabbit,,,H,,WB,,WB1:500 - 1:2000,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-C9
-489,ATP5G1/2/3,ä¸€æŠ—,Abcam,ab180149,,Rabbit,Monoclonal,,H M R,,WB IHC-P,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-D1
-490,COX IV,ä¸€æŠ—,40Ul,abcam,ab202554,Rabbit,Monoclonal,,H M R,,"low Cyt (Intra), ICC/IF, IP, IHC-P, WB",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-D2
-491,PGC1 ALPHA,ä¸€æŠ—,Abcam,AB54481,,Rabbit,Polyclonal,,H M,,WB,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-D3
-492,CollagenI,ä¸€æŠ—,Abcam,ab6308,,Mouse,Monoclonal,,H,,"IHC-Fr, WB",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-D4
-493,4-HNE (4 HYDROXYNONEAL),ä¸€æŠ—,Abcam,ab46545,,Rabbit,Polyclonal,,Species independent,,WB,,IF 1:100,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-D5
-494,SDHB,ä¸€æŠ—,Abcam,ab14714,,Mouse,Monoclonal,,H M R cow,,"Flow Cyt, IHC-Fr, WB, ICC/IF",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-D6
-495,mt-TFA (TFAM),ä¸€æŠ—,Abcam,ab131607,,Rabbit,Polyclonal,,R,,WB,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-D7
-496,LAMP1,ä¸€æŠ—,Abcam,ab25245,,Rat,Monoclonal,,H,,"IHC-P, Flow Cyt (Intra)",,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-D8
-497,DUPD1,ä¸€æŠ—,Santa Cruz,sc515513,,Mouse,Monoclonal,,H M R,,WB IP IF ELISA,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-D9
-498,FLAG M2 BEADS,ä¸€æŠ—,Sigma,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-E1
-499,Dusp27-C-1,ä¸€æŠ—,å…¬å¸åˆæˆ,/,,Rabbit,,,mouse,,"WB(1:1000),IHC (1:50),IF(1:50)",,0.217 ug/ul,,,,ç”±èƒ¡æ¬¢ä¿å­˜,,,Box9-E2
-500,Dusp27-C-2,ä¸€æŠ—,å…¬å¸åˆæˆ,/,,Rabbit,,,mouse,,,,3.7 ug/ul,,,,ç”±èƒ¡æ¬¢ä¿å­˜ï¼Œç‰¹å¼‚æ€§å·®ï¼ˆæƒ èå¸ˆå§ï¼‰,,N,Box9-E3
-501,Dusp27-N-1,ä¸€æŠ—,å…¬å¸åˆæˆ,/,,Rabbit,,,mouse,,,,0.38 ug/ul,,,,ç”±èƒ¡æ¬¢ä¿å­˜ï¼Œç‰¹å¼‚æ€§å·®ï¼ˆæƒ èå¸ˆå§ï¼‰,,N,Box9-E4
-502,Dusp27,ä¸€æŠ—,Sigama,HPA012912,,Rabbit,,,human,,IF (0.25-2ug/ul),,,,,,ç”±èƒ¡æ¬¢ä¿å­˜,,,Box9-E5
-503,Dusp27,ä¸€æŠ—,Abcam,ab220004,,Rabbit,,,"human,mouse,rat",,ICC/IF (0.25-2ug/ul),,,,,,ç”±èƒ¡æ¬¢ä¿å­˜,,,Box9-E6
-504,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-E7
-505,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-E8
-506,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-E9
-507,p54/nrb(A-11),ä¸€æŠ—,Santa,SC-166702,,Mouse,Monoclonal,,H M R,,WB IP IF ELISA,,,,,,æ¥æºäºåº”æ¢…è®¢è´­æŠ—ä½“,,,Box9-F1
-508,PSF(39-1),ä¸€æŠ—,Santa,SC-101137,,Mouse,Monoclonal,,H M R,,WB IP IF IHC ELISA,,,,,,æ¥æºäºåº”æ¢…è®¢è´­æŠ—ä½“,,,Box9-F2
-509,LARP1,ä¸€æŠ—,Proteintech,13708-1-AP,,Rabbit,Polyclonal,,H M R fruit fly,,WB IHC/IF,,,,,,æ¥æºäºåº”æ¢…è®¢è´­æŠ—ä½“,,,Box9-F3
-510,Histone H3(tri methyl K9),ä¸€æŠ—,Abcam,AB8898,,Rabbit,Polyclonal,,H M Cow,,"WB, IHC-P, ICC, ChIP",,,,,,æ¥æºäºåº”æ¢…è®¢è´­æŠ—ä½“,,,Box9-F4
-511,SMOOTH MUSCLE,ä¸€æŠ—,Abcam,AB683,,Mouse,,,,,,,,,,,"æ¥æºäºåº”æ¢…è®¢è´­æŠ—ä½“ï¼Œå¤‡æ³¨ï¼ˆMYH11),not available",,,Box9-F5
-512,nmt55/p54nrb,ä¸€æŠ—,Abcam,ab70335,,Rabbit,Polyclonal,,H M R,,"ICC/IF, IHC-P, WB, IP",,,,,,æ¥æºäºåº”æ¢…è®¢è´­æŠ—ä½“,,,Box9-F6
-513,Cardiac Troponin I,ä¸€æŠ—,Abcam,AB47003,,Rabbit,Polyclonal,,H M R pig,,"ELISA, WB, ICC/IF, IHC-Fr, Flow Cyt, IHC-P",,,,,,æ¥æºäºåº”æ¢…è®¢è´­æŠ—ä½“,,,Box9-F7
-514,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-F8
-515,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-F9
-516,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-G1
-517,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-G2
-518,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-G3
-519,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-G4
-520,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-G5
-521,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-G6
-522,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-G7
-523,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-G8
-524,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-G9
-525,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-H1
-526,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-H2
-527,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-H3
-528,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-H4
-529,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-H5
-530,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-H6
-531,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-H7
-532,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-H8
-533,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-H9
-534,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-I1
-535,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-I2
-536,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-I3
-537,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-I4
-538,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-I5
-539,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-I6
-540,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-I7
-541,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-I8
-542,,,,,,,,,,,,,,,,,Box9 åŸä¸ºè•™èæŠ—ä½“ç›’å­,,,Box9-I9
-543,p-NFÎºB p65 (27.Ser 536),ä¸€æŠ—,Santa,sc-136548,,Mouse,,,"H,M,R",,"WB,IP,IHC,IF,ELISA",,1:100-1:1000 FOR WB,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-A1
-544,TAK1(C-9),ä¸€æŠ—,Santa,SC-7967,,Mouse,,,"H,M,R",,"WB,IP,IHC,IF,ELISA",,1:100-1:1000 FOR WB,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-A2
-545,CD3(PC3/188A),ä¸€æŠ—,Santa,SC-20047,,Mouse,,,"H,M,R",,"WB,IP,IHC,IF,ELISA, FCAS",,1:100-1:1000 FOR WB,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-A3
-546,NFKB P65(F-6),ä¸€æŠ—,Santa,SC-8008,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000IF 1:50 - 1:200,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-A4
-547,CD68 (KP1),ä¸€æŠ—,Santa,SC-20060,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-A5
-548,TRAF6(D-10),ä¸€æŠ—,Santa,SC-8409,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-A6
-549,MYD88(E-11),ä¸€æŠ—,Santa,SC-74532,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-A7
-550,Normal rabbit IgG,äºŒæŠ—,Cst,2729S,,Rabbit,,,"H,M,R",,IP,,1ul for IP,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-A8
-551,DYKDDDK Tag,ä¸€æŠ—,Cst,2368T,,Rabbit,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,N,Box10-A9
-552,Angiotesinogen,ä¸€æŠ—,Abclonal,A15637,,Rabbit,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,N,,Box10-B1
-553,Angiotesinogen,ä¸€æŠ—,Abclonal,A15637,,Rabbit,,,human,,WB,,WB 1:1000;,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-B2
-554,Renin,ä¸€æŠ—,Abclonal,A1585,,Rabbit,,,"Mouse, Rat, Human",,WB 1:500 - 1:2000IHC 1:100 - 1:200,,WB 1:500 - 1:2000IHC 1:100 - 1:200,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-B3
-555,APOC3,ä¸€æŠ—,Abclonal,A1409,,Rabbit,,,"Mouse, Rat, Human",,WB 1:1000; in è„±è„‚ç‰›å¥¶,,WB 1:1000; in è„±è„‚ç‰›å¥¶,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-B4
-556,ANTI-AGT,ä¸€æŠ—,Millipore,MABS817,,Mouse,,,human,,WB,,WB 1:1000;,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-B5
-557,GAPDH antibody,ä¸€æŠ—,Genetex,GT239,,Mouse,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,N,,Box10-B6
-558,KAP1,ä¸€æŠ—,Diagenode,C15410236,,Rabbit,,,"H,M",,only for CHIP,,2ug/CHIP,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-B7
-559,Angiotesinogen,ä¸€æŠ—,Abcam,AB213705,,Rabbit,,,"Mouse, Rat",,WB 1:1000 IP 1:40,,WB 1:1000 IP 1:40,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-B8
-560,Phospho-H2AFX-S139,ä¸€æŠ—,Abclonal,AP0099,,Rabbit,,,"Mouse, Rat, Human",,WB1:500 - 1:1000,,WB1:500 - 1:1000,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-B9
-561,TLR3,ä¸€æŠ—,Abclonal,A11778,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-C1
-562,K63-linkage specific polyubiquitin,ä¸€æŠ—,Abclonal,A18164,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000DB 1:500 - 1:2000,,WB 1:500 - 1:2000DB 1:500 - 1:2000,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-C2
-563,TLR7,ä¸€æŠ—,Abclonal,A0991,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000,,WB 1:500 - 1:2000,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-C3
-564,TLR8,ä¸€æŠ—,Abclonal,A12906,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IF 1:50 - 1:200,,WB 1:500 - 1:2000IF 1:50 - 1:200,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-C4
-565,STING/TMEM173,ä¸€æŠ—,Abclonal,A3575,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200IP 1:50 - 1:100,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200IP 1:50 - 1:100,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-C5
-566,MDA5,ä¸€æŠ—,Abclonal,A2419,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-C6
-567,cGAS,ä¸€æŠ—,Abclonal,A8335,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:100IP 1:50 - 1:100,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:100IP 1:50 - 1:100,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-C7
-568,RIG-1/DDX58,ä¸€æŠ—,Abclonal,A13407,,Rabbit,,,"Human, Mouse",,WB 1:500 - 1:2000IF 1:50 - 1:200,,WB 1:500 - 1:2000IF 1:50 - 1:200,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-C8
-569,Phospho-TAK1-T187,ä¸€æŠ—,Abclonal,AP1222,,Rabbit,,,"Human, Mouse",,WB 1:500 - 1:2000,,WB 1:500 - 1:2000,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-C9
-570,IRF3,ä¸€æŠ—,Abclonal,A0816,,Rabbit,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,N,,Box10-D1
-571,Phospho-IRF3-S396,ä¸€æŠ—,Abclonal,AP0623,,Rabbit,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,N,,Box10-D2
-572,MAVS,ä¸€æŠ—,Abclonal,A5764,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-D3
-573,MAVS,ä¸€æŠ—,Abclonal,A5764,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-D4
-574,HRP-conjugated goat anti-mouse IgG light chain,äºŒæŠ—,Abclonal,AS062,,Goat,,,"Human, Mouse",,WB1:2000 - 1:10000,,WB1:2000 - 1:10000,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-D5
-575,MOUSE IgG,äºŒæŠ—,Beyotime,A7028,,,,,"H,M,R",,IP,,1ul for IP,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-D6
-576,WGA 647,ä¸€æŠ—,,,,,,,,,IF,,IF 1:500,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-D7
-577,Rabbit HRP äºŒæŠ—,äºŒæŠ—,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-D8
-578,mouse äºŒæŠ—,äºŒæŠ—,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-D9
-579,CD31,ä¸€æŠ—,Bd,550274,,Rat,Monoclonal,,MOUSE,,"IHC,IF",,1:200 FOR IHC,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-E1
-580,CD31,ä¸€æŠ—,Bd,553370,,Rat,Monoclonal,,MOUSE,,"IHC,IF",,1:100 FOR IHC,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-E2
-581,CD31 (PECAM-1) (89C2) Mouse mAb,ä¸€æŠ—,Cst,3528S,,Mouse,Monoclonal,,H,,"WB,IP,IHC,IF",,1:1000 FOR WB,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-E3
-582,3*FLAG PEPTIDE 5MG/ML,ä¸€æŠ—,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-E4
-583,3*FLAG PEPTIDE 5MG/ML,ä¸€æŠ—,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-E5
-584,P300,ä¸€æŠ—,,SC585X,,,,,,,WB,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-E6
-585,KAP1 (TIF1Î² Antibody),ä¸€æŠ—,Cst,4123T,,Rabbit,,,H M R Mk,,"WB,IP,IF",,1:1000 FOR WB,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-E7
-586,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-E8
-587,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-E9
-588,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-F1
-589,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-F2
-590,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-F3
-591,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-F4
-592,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-F5
-593,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-F6
-594,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-F7
-595,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-F8
-596,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-F9
-597,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-G1
-598,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-G2
-599,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-G3
-600,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-G4
-601,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-G5
-602,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-G6
-603,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-G7
-604,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-G8
-605,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-G9
-606,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-H1
-607,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-H2
-608,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-H3
-609,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-H4
-610,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-H5
-611,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-H6
-612,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-H7
-613,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-H8
-614,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-H9
-615,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-I1
-616,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-I2
-617,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-I3
-618,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-I4
-619,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-I5
-620,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-I6
-621,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-I7
-622,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-I8
-623,,,,,,,,,,,,,,,,,Box10 ç†Šä¿Šæµ©ä¿å­˜,,,Box10-I9
-624,FLAG M2 MAGNETIC BEADS,ä¸€æŠ—,,,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-A1
-625,ANTI FLAG M2 GEL,ä¸€æŠ—,Sigma,A2220-1ML,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-A2
-626,FLAG M2 MAGNETIC BEADS,ä¸€æŠ—,Sigma,M8823-1ML,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-A3
-627,Hypoxyprobe-1,ä¸€æŠ—,,,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-A4
-628,"dextran,fluorescein, 70,000MW, anionic, lysine fixable",ä¸€æŠ—,Molecular Probes,D1822,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-A5
-629,mouse anti-human CD31,ä¸€æŠ—,Dako,M0823,,Mouse,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-A6
-630,Allophycocyanin-conjugated streptavidin,ä¸€æŠ—,Jackson Immuno Research,016-130-084,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-A7
-631,anti-flag M2 antibody,ä¸€æŠ—,Millipore,F1804-1MG,,Mouse,Monoclonal,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-A8
-632,anti-flag M2 antibody,ä¸€æŠ—,Millipore,F1804-1MG,,Mouse,Monoclonal,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-A9
-633,beta tubulin,ä¸€æŠ—,Abmart,M20005S,,Mouse,Monoclonal,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-B1
-634,HA-TAG,ä¸€æŠ—,Abmart,M20003S,,Mouse,Monoclonal,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-B2
-635,ACTIN,ä¸€æŠ—,Abmart,M20011S,,,Monoclonal,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-B3
-636,HA-TAG,ä¸€æŠ—,Cst,3724S,,Rabbit,Monoclonal,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-B4
-637,ANTI-GST ANTIBODY,ä¸€æŠ—,,27457701V,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-B5
-638,beta tubulin,ä¸€æŠ—,Cst,2146S,,Rabbit,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-B6
-639,"ANTI RABBIT IgG, HRP-LINKED ANTIBODY",äºŒæŠ—,Cst,7074S,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-B7
-640,"ANTI RABBIT IgG, HRP-LINKED ANTIBODY",äºŒæŠ—,Cst,7074S,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-B8
-641,VE-Cadherin,ä¸€æŠ—,,,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-B9
-642,"ANTI mouse IgG, HRP-LINKED ANTIBODY",äºŒæŠ—,Cst,7076S,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-C1
-643,beta tubulin,ä¸€æŠ—,Abmart,M20005S,,Mouse,Monoclonal,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-C2
-644,goat-anti-rabbit and mouse IgG-HRP,äºŒæŠ—,Abmart,M21003S,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-C3
-645,beta tubulin,ä¸€æŠ—,Solarbio,K200059M,,Mouse,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-C4
-645,è¾£æ ¹è¿‡æ°§åŒ–ç‰©é…¶æ ‡è®°çš„é©´æŠ—ç¾ŠIgG|Donkey Anti-Goat IgG/HRP,äºŒæŠ—,Bioss/åšå¥¥æ£®,bs-0294D-HRP-100ul,,Donkey,Polyclonal,IgG,,,"WB=1:1000-10000, IHC-P=1:100-500, IHC-F=1:100-1000, ELISA=1:1000-10000",WB,,2.0 mg/ml,,http://www.bioss.com.cn/prolook_03.asp?id=AF08169606010811&pro37=4,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,,,Box11-C5
-645,Human/Mouse/Rat alpha -Actinin 1 Antibody,ä¸€æŠ—,R&D Systems,AF8279,,Goat,Polyclonal,,H M R,,WB IHC IF,IF,1:20,0.2 mg/mL,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šå´ç¡•,Y,Y,Box11-C6
-645,Human/Mouse/Rat alpha -Actinin 1 Antibody,ä¸€æŠ—,R&D Systems,AF8279,,Goat,Polyclonal,,"Human, Mouse, Rat",,"ICC/IF, WB",,"ICC/IF 10Âµg/mL, WB 0.5Âµg/mL",,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,,Box11-C7
-645,HA Tag Mouse Monoclonal Antibody,ä¸€æŠ—,ç¢§äº‘å¤©(Beyotime),AF2858-200Î¼l,,Mouse,Monoclonal,,,,"WB, IP, IF, IHC, ICC",,"WB1:1000, IP1:50, IF1:50, IHC1ï¼›50, ICC1:50",,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,Y,Box11-C8
-645,Mouse Anti-Rabbit IgG (Light-Chain Specific) (D4W3E) mAb (HRP Conjugate) #93702,äºŒæŠ—,Cell Signaling Technology,93702S,,Mouse,,,Rb,,WB,WB,WB1:1000,880 Âµg/ml,,,ä¸ªäººä¿å­˜ä½ç½®ï¼šèƒ¡æ¬¢,Y,Y,Box11-C9
-645,GST tag(12G8),ä¸€æŠ—,Abmart,M20007,,Mouse,Monoclonal,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,Y,,Box11-D1
-645,GAPDH Rabbit mAb(High Dilution) (A19056),ä¸€æŠ—,Abclonal,A19056,,Rabbit,Monoclonal,IgG,"Human,Mouse,Rat",,Western blot,,WB:1:100000,,,https://abclonal.com/catalog-antibodies/GAPDHRabbitmAb/A19056?srsltid=AfmBOoo5fRXlJl1MWP5sTNdAGitu08oMGNdr5_vIiRtQnxgt_ImIKrWN,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-D2
-645,,,,,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-D3
-645,,,,,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-D4
-645,,,,,,,,,,,,,,,,,Box11ä¸ºå¤§ä½“ç§¯æŠ—ä½“å’Œä¹‹å‰çš„å†…å‚æŠ—ä½“ ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box11-D5
-645,"streptavidin, Alexa Fluor 488",äºŒæŠ—,Invitrogen,S32354,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-A1
-645,Donkey anti mouse 488,äºŒæŠ—,Invitrogen,A21202,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-A2
-645,Donkey anti RAT 488,äºŒæŠ—,Invitrogen,A21208,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-A3
-645,Donkey anti GOAT 488,äºŒæŠ—,Invitrogen,A11055,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-A4
-645,Donkey anti MOUSE 488,äºŒæŠ—,Invitrogen,A21202,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-A5
-645,Donkey anti RABBIT 488,äºŒæŠ—,Invitrogen,A21206,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-A6
-645,GOAT anti RAT 488,äºŒæŠ—,Invitrogen,A11006,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-A7
-645,,,,,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-A8
-645,,,,,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-A9
-645,Donkey anti mouse 555,äºŒæŠ—,Invitrogen,A31570,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-B1
-645,Donkey anti GOAT 555,äºŒæŠ—,Invitrogen,A21432,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-B2
-645,Donkey anti MOUSE 555,äºŒæŠ—,Invitrogen,A31570,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-B3
-645,Donkey anti RABBIT 555,äºŒæŠ—,Invitrogen,A31572,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-B4
-645,"streptavidin, Alexa Fluor 555",äºŒæŠ—,Invitrogen,S32355,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-B5
-645,"streptavidin, ARODAMINE RED CONJUGATED",äºŒæŠ—,Invitrogen,S6366,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-B6
-645,Cy3 GOAT ANTI RAT,äºŒæŠ—,Invitrogen,A10522,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-B7
-645,,,,,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-B8
-645,,,,,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-B9
-645,Donkey anti mouse 647,äºŒæŠ—,Invitrogen,A31571,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-C1
-645,Donkey anti RABBIT 647,äºŒæŠ—,Invitrogen,A31573,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-C2
-645,"RODAMINE PHALLOIDIN,F-ACTIN",äºŒæŠ—,Invitrogen,R415,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-C3
-645,MITOTRACKER GREEN,äºŒæŠ—,Invitrogen,M7514,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-C4
-645,ER TRACKER BLUE-WHITE DPX,äºŒæŠ—,Invitrogen,E12353,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-C5
-645,MITOTRACKER RED CMX ROS,äºŒæŠ—,Invitrogen,M7512,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-C6
-645,HOCHEST,äºŒæŠ—,,33342,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-C7
-645,BARDOXOLONE METHYL,äºŒæŠ—,Selleckchem.Com,S8078,,,,,,,,,,,,,Box12ä¸ºè§å…‰äºŒæŠ— ï¼ˆè¿™ä¸ªç›’å­çš„æŠ—ä½“ä¸ä¸¥æ ¼æŒ‰é¡ºåºæ’åˆ—ï¼‰,,,Box12-C8
+381,P21,Ò»¿¹,Abcam,ab109199,,Rabbit,,,,,,WB,WB 1:2000,N,,,YPYºĞ×Ó±àÎªBox8,,,Box8-A1
+382,Anti-MEPCE antibody - C-terminal,Ò»¿¹,Abcam,ab185991,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-A2
+383,Anti-RNA polymerase II CTD repeat YSPTSPS (phospho S5) antibody,Ò»¿¹,Abcam,ab5131,,Rabbit,Polyclonal,,"H,M,R",,"IHC-Fr, IHC-P, ELISA, IP, WB, ChIP, ICC/IF, IHC - Wholemount",,CHIP:Use 2 ?g for 25 ?g of chromatin.,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-A3
+384,53BP1,Ò»¿¹,Abcam,ab36823,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-A4
+385,SIRT6,Ò»¿¹,Abcam,ab62739,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-A5
+386,HA antibody (C29F4),Ò»¿¹,Cst,3724,,Rabbit,,,,,,WB,WB 1:2000,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-A6
+387,Acetyl-p53 (Lys382) Antibody,Ò»¿¹,Cst,2525S,,Rabbit,,,,,,WB,WB 1:2000,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-A7
+388,Anti-Rb (phospho S795) antibody (ab47474),Ò»¿¹,Abcam,ab47474,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-A8
+389,Histone H3,Ò»¿¹,Abcam,ab1791,,Rabbit,,,,,,WB,WB 1:2000,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-A9
+390,P-BRCA1 (S1524),Ò»¿¹,Cst,9009T,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-B1
+391,CBP (D6C5),Ò»¿¹,Cst,7389S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-B2
+392,P-Chk2(T68) (C13C1),Ò»¿¹,Cst,2197T,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-B3
+393,P-ATR(S428),Ò»¿¹,Cst,2853T,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-B4
+394,P-Chk1(S345),Ò»¿¹,Cst,2348T,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-B5
+395,P-Histone H2A.X (S139) (20E3),Ò»¿¹,Cst,9178S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-B6
+396,ATR,Ò»¿¹,Cst,2790S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-B7
+397,P-(S/T) ATM/ATR Substrate,Ò»¿¹,Cst,2851S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-B8
+398,Phospho-Rb (Ser807/811) (D20B12) XP?,Ò»¿¹,Cst,8516T,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-B9
+399,MDM2(D1V2Z),Ò»¿¹,Cst,86934S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-C1
+400,DNA-PKcs Antibody #4602,Ò»¿¹,Cst,4602T,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-C2
+401,P-ATR(S428),Ò»¿¹,Cst,2853T,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-C3
+402,JARID1B,Ò»¿¹,Cst,3273T,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-C4
+403,"Anti-rabbit IgG, HRP-linked antibody",¶ş¿¹,Cst,7074S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-C5
+404,Phospho-Tyrosine Mouse mAb (P-Tyr-100),Ò»¿¹,Cst,9411S,,Mouse,All Species,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-C6
+405,P-Threonine (P-T-Polyclonal) Rabbit aab (magnetic bead),Ò»¿¹,Cst,8859S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-C7
+406,anti-BRCA2(Ab-1),Ò»¿¹,Emd Millipore,OP95-100UG,,Mouse,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-C8
+407,anti-CBP,Ò»¿¹,Biolegend,606401,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-C9
+408,USP22 antibody (C-term),Ò»¿¹,Abgent,AM2230b-ev,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-D1
+409,IKBKG,Ò»¿¹,Lifespan Biosciences,LS-C353075,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-D2
+410,Poly(ADP-ribose),Ò»¿¹,Enzo,ALX-804-220-R100,,,Monoclonal,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-D3
+411,"anti-RNA polymerase II, clone CTD4H8",Ò»¿¹,Millipore,05-623,,Mouse,Monoclonal,,"mouse, Saccharomyces cerevisiae, rat, human",,"CHIP-SEQ,WB",,0.05-1 ¦Ìg/mL FOR WB,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-D4
+412,rabbit anti-p16INK4a,Ò»¿¹,Bethyl,A301-267A-M,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-D5
+413,Rabbit anti-53BP1,Ò»¿¹,Bethyl,A700-011,,Rabbit,Monoclonal,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-D6
+414,"MEPCE Antibody,",Ò»¿¹,Bethyl,A304-184A,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-D7
+415,MEPCE Polyclonal Antibody,Ò»¿¹,Abclonal,A7121,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-D8
+416,Chk2,Ò»¿¹,Abclonal,A19543,,Rabbit,Monoclonal,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-D9
+417,Phospho-PRKDC-S2056,Ò»¿¹,Abclonal,AP0621,,Rabbit,Polyclonal,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-E1
+418,Phospho-CHEK2-T68,Ò»¿¹,Abclonal,AP0590,,Rabbit,Polyclonal,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-E2
+419,IKBKG,Ò»¿¹,Abclonal,A0917,,Rabbit,Polyclonal,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-E3
+420,SFN,Ò»¿¹,Abclonal,A1026,,Rabbit,Polyclonal,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-E4
+421,HRAS,Ò»¿¹,Abclonal,A12212,,Rabbit,Polyclonal,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-E5
+422,LaminB (B-100,Ò»¿¹,Santa,sc-374015,,Mouse,Monoclonal,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-E6
+423,TAF6 antibody,Ò»¿¹,Invitrogen,PA5-40955,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-E7
+424,anti-connexin-43 antibody,Ò»¿¹,Sigma,C6219-100UL,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-E8
+425,anti-SIRT6(N-terminal),Ò»¿¹,Sigma,S4322-200UL,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-E9
+426,Acetylated-Lysine polyclonal antibody,Ò»¿¹,Cst,9441S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-F1
+427,Acetylated-Lysine monoclonal antibody (Ac-K-103),Ò»¿¹,Cst,9681S,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-F2
+428,"Monoclonal anti-actin, a-smooth musle antibody",Ò»¿¹,Sigma,A2547-100ul,,Mouse,,,"H, M, R",,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-F3
+429,"Anti-Phosphoserine Antibody, clone 4A4",Ò»¿¹,Merck (Upstate),05-1000X,,Mouse,All Species,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-F4
+430,PARP2,Ò»¿¹,Proteintech,55149-I-AP,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-F5
+431,PPARA,Ò»¿¹,Proteintech,I5540-I-AP,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-F6
+432,"NRF2,NFE2L2",Ò»¿¹,Proteintech,I6396-I-AP,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-F7
+433,PECAM-1(MEC13.3),Ò»¿¹,Santa,SC-18916,,Rat,,,,,,,,,,,½ğÀí»Ô±£´æ,,N,Box8-F8
+434,,,,,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-F9
+435,BARD1,Ò»¿¹,Bethyl,A300-263A,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-G1
+436,CDK1,Ò»¿¹,Abclonal,A0220,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-G2
+437,BRCA1(Ab-1),Ò»¿¹,Calbiochem,OP92-100UG,,Mouse,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-G3
+438,Anti-cyclinB1,Ò»¿¹,Millipore,05-373,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-G4
+439,CCNB2,Ò»¿¹,Abclonal,A3351,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-G5
+440,XRCC1,Ò»¿¹,Abclonal,A0442,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-G6
+441,LARP7 Polyclonal Antibody,Ò»¿¹,Bethyl,A303-723A,,Rabbit,,,"H,M",,"WB,IP",,1:2000-1:10000 FOR WB,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-G7
+442,PARP1,Ò»¿¹,Abclonal,A0942,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-G8
+443,PARP1,Ò»¿¹,Proteintech,I337I-I-AP,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-G9
+444,PARP1,Ò»¿¹,Abcam,AB227244,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-H1
+445,Rb antibody Acetylated p65(K310),Ò»¿¹,Cst,3045S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-H2
+446,IL1A,Ò»¿¹,Abclonal,A1316,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-H3
+447,IL1B,Ò»¿¹,Abclonal,A16288,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-H4
+448,p21 waf1/Cip1(12D1),Ò»¿¹,Cst,2947S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,N,Box8-H5
+449,Poly/mono-ADP Ribose(E6F6A),Ò»¿¹,Cst,83732S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-H6
+450,K48-linked polyubiquitin,Ò»¿¹,Cst,4289S,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-H7
+451,CDKN2A/p16INK4a,Ò»¿¹,Abcam,AB108349,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-H8
+452,CDK1,Ò»¿¹,Abcam,AB18,,Mouse,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-H9
+453,RPS19BP1/AROS,Ò»¿¹,Abcam,AB201091,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-I1
+454,LAMIN B1,Ò»¿¹,Abcam,AB16048,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-I2
+455,BRCA1,Ò»¿¹,Abcam,AB191042,,Rabbit,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-I3
+456,,,,,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-I4
+457,,,,,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-I5
+458,,,,,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-I6
+459,,,,,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-I7
+460,,,,,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-I8
+461,,,,,,,,,,,,,,,,,YPYºĞ×Ó±àÎªBox8,,,Box8-I9
+462,anti-phospho-ATM(Ser1981),Ò»¿¹,Millipore,MAB3806-C,,Mouse,Monoclonal,,H M,,"ICC, IP, ELISA, WB",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-A1
+463,RAD51,Ò»¿¹,Calbiochem,PC130,,Rabbit,Polyclonal,,"H,M,R",,"WB,IF,IP",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-A2
+464,Phospho-HISTONE H2A.X (S139),Ò»¿¹,Millipore,05-636,,Mouse,Monoclonal,,Vertebrates,,"ICC, IF, WB, ChIP, IHC",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-A3
+465,Phospho-H2AFX-S139,Ò»¿¹,Abclonal,AP0099,,Rabbit,,,"H,M,R",,WB,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-A4
+466,PHOSPHO-ATM-S1981,Ò»¿¹,Abclonal,AP0310,,Rabbit,,,H,,"WB, IHC",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-A5
+467,DUSP27(F-12),Ò»¿¹,Santa,SC-515513,,Mouse,Monoclonal,,"H,M,R",,"WB,IP,IF,ELISA",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-A6
+468,ATM,Ò»¿¹,Abclonal,A5908,,Rabbit,,,H,,WB,,WB1:500 - 1:1000,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-A7
+469,rabbit IgG,¶ş¿¹,Beyotime,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-A8
+470,acetylated lysine,Ò»¿¹,Cst,9441S,,Rabbit,,,All species,,"WB,IP,IHC,IF,CHIP,peptide ELISA",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-A9
+471,CDK4,Ò»¿¹,Abclonal,A0366,,Rabbit,,,"H,M,R",,"WB,IP,IHC",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-B1
+472,COX6A1,Ò»¿¹,Abclonal,A3798,,Rabbit,,,"H,M,R",,"WB,IHC,IF",,WB1:200 - 1:2000IHC1:20 - 1:200IF1:50 - 1:200,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-B2
+473,ATP6VOC,Ò»¿¹,Abclonal,A16350,,Rabbit,,,"M,R",,"WB,IF",,WB 1:500 - 1:2000IF 1:50 - 1:100,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-B3
+474,P-ATM(S1981),Ò»¿¹,Cst,5883T,,Rabbit,,,H,,WB,,WB 1:1000,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-B4
+475,PGC1A,Ò»¿¹,Novus,NBP-04676,,Rabbit,Monoclonal,,"H, M, R, Goat, Hamster, Porcine",,"WB, ChIP, Flow, Flow-IC, ICC/IF, IHC, IHC-Fr, IHC-P, IP, KD, KO",,Chromatin ImmunoprecipitationFlow (Intracellular) 1 - 2.5 ug/mlFlow Cytometry 1 - 2.5 ug/mlImmunocytochemistry/Immunofluorescence 1:1000Immunohistochemistry 1:10-1:500Immunohistochemistry-FrozenImmunohistochemistry-Paraffin 1:200ImmunoprecipitationKnockdown ValidatedKnockout ValidatedWestern Blot 1 - 2 ug/ml,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-B5
+476,AuroraB,Ò»¿¹,Sigma,A5102,,Rabbit,Polyclonal,,"H,M,R",,"WB,IP,IF",,IF 1:200,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-B6
+477,p-BRCA2(Ser3291),Ò»¿¹,Millipore,AB9986,,Rabbit,,,"H, Eq, M, R, Chp, Ca, Ht, Rhesus Macaque",,"ICC, IHC, DB",,IHC only,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-B7
+478,pgc1 alpha,Ò»¿¹,Novus,nbp1-04676,,Rabbit,Monoclonal,,"H, M, R, Goat, Hamster, Porcine",,"WB, ChIP, Flow, Flow-IC, ICC/IF, IHC, IHC-Fr, IHC-P, IP, KD, KO",,Chromatin ImmunoprecipitationFlow (Intracellular) 1 - 2.5 ug/mlFlow Cytometry 1 - 2.5 ug/mlImmunocytochemistry/Immunofluorescence 1:1000Immunohistochemistry 1:10-1:500Immunohistochemistry-FrozenImmunohistochemistry-Paraffin 1:200ImmunoprecipitationKnockdown ValidatedKnockout ValidatedWestern Blot 1 - 2 ug/ml,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-B8
+479,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-B9
+480,ATM,Ò»¿¹,Santa Cruz,SC-135663,,Mouse,Monoclonal,,"H,M,R",,"WB,IP,ELISA",,"WB:1:1000? ? ? ? ? ? ? ? ? ? immunoprecipitation [1-2 ?g per 100-500 ?g of total protein solid phase ELISA (starting dilution 1:30, dilution range1:30-1:3000).",,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-C1
+481,anti-ATM Protein kinase pS1981,Ò»¿¹,Rockland,P/N 200-301-400S,,Mouse,Monoclonal,,"H,M,R",,"ELISA, FC, IF, SDS-PAGE, WB",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-C2
+482,ANTI-SIRT1,Ò»¿¹,Millipore,07-131,,Rabbit,Polyclonal,,"M,H",,"ICC, IP, WB, ChIP",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-C3
+483,ESRRA,Ò»¿¹,Abclonal,A14184,,Rabbit,Polyclonal,,"H,M,R",,WB IHC,,WB1:500 - 1:2000IHC1:50 - 1:200,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-C4
+484,SOD1,Ò»¿¹,Abclonal,A0274,,Rabbit,Polyclonal,,"H,M,R",,WB IHC IF,,WB1:500 - 1:2000IHC1:50 - 1:200IF1:50 - 1:200,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-C5
+485,ESRRA,Ò»¿¹,Lifespan Bio,LS-A5402,,Rabbit,Polyclonal,,"Human, Monkey, Mouse, Rat, Bat, Bovine, Dog, Hamster, Horse, Pig",,"IHC, IHC-P, ChrIP",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-C6
+486,HSPD1,Ò»¿¹,Abclonal,A0969,,Rabbit,Polyclonal,,H M R,,WB IHC IF IP,,WB1:500 - 1:2000IHC1:50 - 1:200IF1:50 - 1:100IP1:50 - 1:200,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-C7
+487,NDUFA12,Ò»¿¹,Abclonal,A8237,,Rabbit,,,"H, M R",,WB,,WB 1:500 - 1:2000,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-C8
+488,ATR,Ò»¿¹,Abclonal,A7247,,Rabbit,,,H,,WB,,WB1:500 - 1:2000,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-C9
+489,ATP5G1/2/3,Ò»¿¹,Abcam,ab180149,,Rabbit,Monoclonal,,H M R,,WB IHC-P,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-D1
+490,COX IV,Ò»¿¹,40Ul,abcam,ab202554,Rabbit,Monoclonal,,H M R,,"low Cyt (Intra), ICC/IF, IP, IHC-P, WB",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-D2
+491,PGC1 ALPHA,Ò»¿¹,Abcam,AB54481,,Rabbit,Polyclonal,,H M,,WB,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-D3
+492,CollagenI,Ò»¿¹,Abcam,ab6308,,Mouse,Monoclonal,,H,,"IHC-Fr, WB",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-D4
+493,4-HNE (4 HYDROXYNONEAL),Ò»¿¹,Abcam,ab46545,,Rabbit,Polyclonal,,Species independent,,WB,,IF 1:100,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-D5
+494,SDHB,Ò»¿¹,Abcam,ab14714,,Mouse,Monoclonal,,H M R cow,,"Flow Cyt, IHC-Fr, WB, ICC/IF",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-D6
+495,mt-TFA (TFAM),Ò»¿¹,Abcam,ab131607,,Rabbit,Polyclonal,,R,,WB,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-D7
+496,LAMP1,Ò»¿¹,Abcam,ab25245,,Rat,Monoclonal,,H,,"IHC-P, Flow Cyt (Intra)",,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-D8
+497,DUPD1,Ò»¿¹,Santa Cruz,sc515513,,Mouse,Monoclonal,,H M R,,WB IP IF ELISA,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-D9
+498,FLAG M2 BEADS,Ò»¿¹,Sigma,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-E1
+499,Dusp27-C-1,Ò»¿¹,¹«Ë¾ºÏ³É,/,,Rabbit,,,mouse,,"WB(1:1000),IHC (1:50),IF(1:50)",,0.217 ug/ul,,,,ÓÉºú»¶±£´æ,,,Box9-E2
+500,Dusp27-C-2,Ò»¿¹,¹«Ë¾ºÏ³É,/,,Rabbit,,,mouse,,,,3.7 ug/ul,,,,ÓÉºú»¶±£´æ£¬ÌØÒìĞÔ²î£¨»İİ¼Ê¦½ã£©,,N,Box9-E3
+501,Dusp27-N-1,Ò»¿¹,¹«Ë¾ºÏ³É,/,,Rabbit,,,mouse,,,,0.38 ug/ul,,,,ÓÉºú»¶±£´æ£¬ÌØÒìĞÔ²î£¨»İİ¼Ê¦½ã£©,,N,Box9-E4
+502,Dusp27,Ò»¿¹,Sigama,HPA012912,,Rabbit,,,human,,IF (0.25-2ug/ul),,,,,,ÓÉºú»¶±£´æ,,,Box9-E5
+503,Dusp27,Ò»¿¹,Abcam,ab220004,,Rabbit,,,"human,mouse,rat",,ICC/IF (0.25-2ug/ul),,,,,,ÓÉºú»¶±£´æ,,,Box9-E6
+504,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-E7
+505,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-E8
+506,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-E9
+507,p54/nrb(A-11),Ò»¿¹,Santa,SC-166702,,Mouse,Monoclonal,,H M R,,WB IP IF ELISA,,,,,,À´Ô´ÓÚÓ¦Ã·¶©¹º¿¹Ìå,,,Box9-F1
+508,PSF(39-1),Ò»¿¹,Santa,SC-101137,,Mouse,Monoclonal,,H M R,,WB IP IF IHC ELISA,,,,,,À´Ô´ÓÚÓ¦Ã·¶©¹º¿¹Ìå,,,Box9-F2
+509,LARP1,Ò»¿¹,Proteintech,13708-1-AP,,Rabbit,Polyclonal,,H M R fruit fly,,WB IHC/IF,,,,,,À´Ô´ÓÚÓ¦Ã·¶©¹º¿¹Ìå,,,Box9-F3
+510,Histone H3(tri methyl K9),Ò»¿¹,Abcam,AB8898,,Rabbit,Polyclonal,,H M Cow,,"WB, IHC-P, ICC, ChIP",,,,,,À´Ô´ÓÚÓ¦Ã·¶©¹º¿¹Ìå,,,Box9-F4
+511,SMOOTH MUSCLE,Ò»¿¹,Abcam,AB683,,Mouse,,,,,,,,,,,"À´Ô´ÓÚÓ¦Ã·¶©¹º¿¹Ìå£¬±¸×¢£¨MYH11),not available",,,Box9-F5
+512,nmt55/p54nrb,Ò»¿¹,Abcam,ab70335,,Rabbit,Polyclonal,,H M R,,"ICC/IF, IHC-P, WB, IP",,,,,,À´Ô´ÓÚÓ¦Ã·¶©¹º¿¹Ìå,,,Box9-F6
+513,Cardiac Troponin I,Ò»¿¹,Abcam,AB47003,,Rabbit,Polyclonal,,H M R pig,,"ELISA, WB, ICC/IF, IHC-Fr, Flow Cyt, IHC-P",,,,,,À´Ô´ÓÚÓ¦Ã·¶©¹º¿¹Ìå,,,Box9-F7
+514,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-F8
+515,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-F9
+516,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-G1
+517,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-G2
+518,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-G3
+519,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-G4
+520,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-G5
+521,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-G6
+522,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-G7
+523,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-G8
+524,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-G9
+525,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-H1
+526,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-H2
+527,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-H3
+528,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-H4
+529,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-H5
+530,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-H6
+531,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-H7
+532,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-H8
+533,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-H9
+534,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-I1
+535,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-I2
+536,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-I3
+537,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-I4
+538,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-I5
+539,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-I6
+540,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-I7
+541,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-I8
+542,,,,,,,,,,,,,,,,,Box9 Ô­ÎªŞ¥İ¼¿¹ÌåºĞ×Ó,,,Box9-I9
+543,p-NF¦ÊB p65 (27.Ser 536),Ò»¿¹,Santa,sc-136548,,Mouse,,,"H,M,R",,"WB,IP,IHC,IF,ELISA",,1:100-1:1000 FOR WB,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-A1
+544,TAK1(C-9),Ò»¿¹,Santa,SC-7967,,Mouse,,,"H,M,R",,"WB,IP,IHC,IF,ELISA",,1:100-1:1000 FOR WB,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-A2
+545,CD3(PC3/188A),Ò»¿¹,Santa,SC-20047,,Mouse,,,"H,M,R",,"WB,IP,IHC,IF,ELISA, FCAS",,1:100-1:1000 FOR WB,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-A3
+546,NFKB P65(F-6),Ò»¿¹,Santa,SC-8008,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000IF 1:50 - 1:200,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-A4
+547,CD68 (KP1),Ò»¿¹,Santa,SC-20060,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-A5
+548,TRAF6(D-10),Ò»¿¹,Santa,SC-8409,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-A6
+549,MYD88(E-11),Ò»¿¹,Santa,SC-74532,,Mouse,,,"H,M,R",,"WB, IP, IF, IHC(P), FCM, ELISA",,WB 1:100-1:1000,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-A7
+550,Normal rabbit IgG,¶ş¿¹,Cst,2729S,,Rabbit,,,"H,M,R",,IP,,1ul for IP,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-A8
+551,DYKDDDK Tag,Ò»¿¹,Cst,2368T,,Rabbit,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,N,Box10-A9
+552,Angiotesinogen,Ò»¿¹,Abclonal,A15637,,Rabbit,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,N,,Box10-B1
+553,Angiotesinogen,Ò»¿¹,Abclonal,A15637,,Rabbit,,,human,,WB,,WB 1:1000;,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-B2
+554,Renin,Ò»¿¹,Abclonal,A1585,,Rabbit,,,"Mouse, Rat, Human",,WB 1:500 - 1:2000IHC 1:100 - 1:200,,WB 1:500 - 1:2000IHC 1:100 - 1:200,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-B3
+555,APOC3,Ò»¿¹,Abclonal,A1409,,Rabbit,,,"Mouse, Rat, Human",,WB 1:1000; in ÍÑÖ¬Å£ÄÌ,,WB 1:1000; in ÍÑÖ¬Å£ÄÌ,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-B4
+556,ANTI-AGT,Ò»¿¹,Millipore,MABS817,,Mouse,,,human,,WB,,WB 1:1000;,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-B5
+557,GAPDH antibody,Ò»¿¹,Genetex,GT239,,Mouse,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,N,,Box10-B6
+558,KAP1,Ò»¿¹,Diagenode,C15410236,,Rabbit,,,"H,M",,only for CHIP,,2ug/CHIP,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-B7
+559,Angiotesinogen,Ò»¿¹,Abcam,AB213705,,Rabbit,,,"Mouse, Rat",,WB 1:1000 IP 1:40,,WB 1:1000 IP 1:40,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-B8
+560,Phospho-H2AFX-S139,Ò»¿¹,Abclonal,AP0099,,Rabbit,,,"Mouse, Rat, Human",,WB1:500 - 1:1000,,WB1:500 - 1:1000,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-B9
+561,TLR3,Ò»¿¹,Abclonal,A11778,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-C1
+562,K63-linkage specific polyubiquitin,Ò»¿¹,Abclonal,A18164,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000DB 1:500 - 1:2000,,WB 1:500 - 1:2000DB 1:500 - 1:2000,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-C2
+563,TLR7,Ò»¿¹,Abclonal,A0991,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000,,WB 1:500 - 1:2000,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-C3
+564,TLR8,Ò»¿¹,Abclonal,A12906,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IF 1:50 - 1:200,,WB 1:500 - 1:2000IF 1:50 - 1:200,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-C4
+565,STING/TMEM173,Ò»¿¹,Abclonal,A3575,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200IP 1:50 - 1:100,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200IP 1:50 - 1:100,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-C5
+566,MDA5,Ò»¿¹,Abclonal,A2419,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-C6
+567,cGAS,Ò»¿¹,Abclonal,A8335,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:100IP 1:50 - 1:100,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:100IP 1:50 - 1:100,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-C7
+568,RIG-1/DDX58,Ò»¿¹,Abclonal,A13407,,Rabbit,,,"Human, Mouse",,WB 1:500 - 1:2000IF 1:50 - 1:200,,WB 1:500 - 1:2000IF 1:50 - 1:200,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-C8
+569,Phospho-TAK1-T187,Ò»¿¹,Abclonal,AP1222,,Rabbit,,,"Human, Mouse",,WB 1:500 - 1:2000,,WB 1:500 - 1:2000,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-C9
+570,IRF3,Ò»¿¹,Abclonal,A0816,,Rabbit,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,N,,Box10-D1
+571,Phospho-IRF3-S396,Ò»¿¹,Abclonal,AP0623,,Rabbit,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,N,,Box10-D2
+572,MAVS,Ò»¿¹,Abclonal,A5764,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-D3
+573,MAVS,Ò»¿¹,Abclonal,A5764,,Rabbit,,,"Human, Mouse, Rat",,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,WB 1:500 - 1:2000IHC 1:50 - 1:200IF 1:50 - 1:200,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-D4
+574,HRP-conjugated goat anti-mouse IgG light chain,¶ş¿¹,Abclonal,AS062,,Goat,,,"Human, Mouse",,WB1:2000 - 1:10000,,WB1:2000 - 1:10000,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-D5
+575,MOUSE IgG,¶ş¿¹,Beyotime,A7028,,,,,"H,M,R",,IP,,1ul for IP,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-D6
+576,WGA 647,Ò»¿¹,,,,,,,,,IF,,IF 1:500,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-D7
+577,Rabbit HRP ¶ş¿¹,¶ş¿¹,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-D8
+578,mouse ¶ş¿¹,¶ş¿¹,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-D9
+579,CD31,Ò»¿¹,Bd,550274,,Rat,Monoclonal,,MOUSE,,"IHC,IF",,1:200 FOR IHC,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-E1
+580,CD31,Ò»¿¹,Bd,553370,,Rat,Monoclonal,,MOUSE,,"IHC,IF",,1:100 FOR IHC,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-E2
+581,CD31 (PECAM-1) (89C2) Mouse mAb,Ò»¿¹,Cst,3528S,,Mouse,Monoclonal,,H,,"WB,IP,IHC,IF",,1:1000 FOR WB,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-E3
+582,3*FLAG PEPTIDE 5MG/ML,Ò»¿¹,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-E4
+583,3*FLAG PEPTIDE 5MG/ML,Ò»¿¹,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-E5
+584,P300,Ò»¿¹,,SC585X,,,,,,,WB,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-E6
+585,KAP1 (TIF1¦Â Antibody),Ò»¿¹,Cst,4123T,,Rabbit,,,H M R Mk,,"WB,IP,IF",,1:1000 FOR WB,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-E7
+586,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-E8
+587,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-E9
+588,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-F1
+589,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-F2
+590,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-F3
+591,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-F4
+592,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-F5
+593,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-F6
+594,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-F7
+595,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-F8
+596,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-F9
+597,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-G1
+598,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-G2
+599,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-G3
+600,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-G4
+601,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-G5
+602,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-G6
+603,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-G7
+604,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-G8
+605,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-G9
+606,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-H1
+607,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-H2
+608,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-H3
+609,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-H4
+610,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-H5
+611,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-H6
+612,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-H7
+613,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-H8
+614,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-H9
+615,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-I1
+616,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-I2
+617,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-I3
+618,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-I4
+619,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-I5
+620,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-I6
+621,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-I7
+622,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-I8
+623,,,,,,,,,,,,,,,,,Box10 ĞÜ¿¡ºÆ±£´æ,,,Box10-I9
+624,FLAG M2 MAGNETIC BEADS,Ò»¿¹,,,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-A1
+625,ANTI FLAG M2 GEL,Ò»¿¹,Sigma,A2220-1ML,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-A2
+626,FLAG M2 MAGNETIC BEADS,Ò»¿¹,Sigma,M8823-1ML,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-A3
+627,Hypoxyprobe-1,Ò»¿¹,,,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-A4
+628,"dextran,fluorescein, 70,000MW, anionic, lysine fixable",Ò»¿¹,Molecular Probes,D1822,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-A5
+629,mouse anti-human CD31,Ò»¿¹,Dako,M0823,,Mouse,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-A6
+630,Allophycocyanin-conjugated streptavidin,Ò»¿¹,Jackson Immuno Research,016-130-084,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-A7
+631,anti-flag M2 antibody,Ò»¿¹,Millipore,F1804-1MG,,Mouse,Monoclonal,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-A8
+632,anti-flag M2 antibody,Ò»¿¹,Millipore,F1804-1MG,,Mouse,Monoclonal,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-A9
+633,beta tubulin,Ò»¿¹,Abmart,M20005S,,Mouse,Monoclonal,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-B1
+634,HA-TAG,Ò»¿¹,Abmart,M20003S,,Mouse,Monoclonal,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-B2
+635,ACTIN,Ò»¿¹,Abmart,M20011S,,,Monoclonal,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-B3
+636,HA-TAG,Ò»¿¹,Cst,3724S,,Rabbit,Monoclonal,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-B4
+637,ANTI-GST ANTIBODY,Ò»¿¹,,27457701V,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-B5
+638,beta tubulin,Ò»¿¹,Cst,2146S,,Rabbit,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-B6
+639,"ANTI RABBIT IgG, HRP-LINKED ANTIBODY",¶ş¿¹,Cst,7074S,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-B7
+640,"ANTI RABBIT IgG, HRP-LINKED ANTIBODY",¶ş¿¹,Cst,7074S,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-B8
+641,VE-Cadherin,Ò»¿¹,,,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-B9
+642,"ANTI mouse IgG, HRP-LINKED ANTIBODY",¶ş¿¹,Cst,7076S,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-C1
+643,beta tubulin,Ò»¿¹,Abmart,M20005S,,Mouse,Monoclonal,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-C2
+644,goat-anti-rabbit and mouse IgG-HRP,¶ş¿¹,Abmart,M21003S,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-C3
+645,beta tubulin,Ò»¿¹,Solarbio,K200059M,,Mouse,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-C4
+645,À±¸ù¹ıÑõ»¯ÎïÃ¸±ê¼ÇµÄÂ¿¿¹ÑòIgG|Donkey Anti-Goat IgG/HRP,¶ş¿¹,Bioss/²©°ÂÉ­,bs-0294D-HRP-100ul,,Donkey,Polyclonal,IgG,,,"WB=1:1000-10000, IHC-P=1:100-500, IHC-F=1:100-1000, ELISA=1:1000-10000",WB,,2.0 mg/ml,,http://www.bioss.com.cn/prolook_03.asp?id=AF08169606010811&pro37=4,¸öÈË±£´æÎ»ÖÃ£ººú»¶,,,Box11-C5
+645,Human/Mouse/Rat alpha -Actinin 1 Antibody,Ò»¿¹,R&D Systems,AF8279,,Goat,Polyclonal,,H M R,,WB IHC IF,IF,1:20,0.2 mg/mL,,,¸öÈË±£´æÎ»ÖÃ£ºÎâË¶,Y,Y,Box11-C6
+645,Human/Mouse/Rat alpha -Actinin 1 Antibody,Ò»¿¹,R&D Systems,AF8279,,Goat,Polyclonal,,"Human, Mouse, Rat",,"ICC/IF, WB",,"ICC/IF 10?g/mL, WB 0.5?g/mL",,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,,Box11-C7
+645,HA Tag Mouse Monoclonal Antibody,Ò»¿¹,±ÌÔÆÌì(Beyotime),AF2858-200¦Ìl,,Mouse,Monoclonal,,,,"WB, IP, IF, IHC, ICC",,"WB1:1000, IP1:50, IF1:50, IHC1£»50, ICC1:50",,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,Y,Box11-C8
+645,Mouse Anti-Rabbit IgG (Light-Chain Specific) (D4W3E) mAb (HRP Conjugate) #93702,¶ş¿¹,Cell Signaling Technology,93702S,,Mouse,,,Rb,,WB,WB,WB1:1000,880 ?g/ml,,,¸öÈË±£´æÎ»ÖÃ£ººú»¶,Y,Y,Box11-C9
+645,GST tag(12G8),Ò»¿¹,Abmart,M20007,,Mouse,Monoclonal,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,Y,,Box11-D1
+645,GAPDH Rabbit mAb(High Dilution) (A19056),Ò»¿¹,Abclonal,A19056,,Rabbit,Monoclonal,IgG,"Human,Mouse,Rat",,Western blot,,WB:1:100000,,,https://abclonal.com/catalog-antibodies/GAPDHRabbitmAb/A19056?srsltid=AfmBOoo5fRXlJl1MWP5sTNdAGitu08oMGNdr5_vIiRtQnxgt_ImIKrWN,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-D2
+645,,,,,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-D3
+645,,,,,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-D4
+645,,,,,,,,,,,,,,,,,Box11Îª´óÌå»ı¿¹ÌåºÍÖ®Ç°µÄÄÚ²Î¿¹Ìå £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box11-D5
+645,"streptavidin, Alexa Fluor 488",¶ş¿¹,Invitrogen,S32354,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-A1
+645,Donkey anti mouse 488,¶ş¿¹,Invitrogen,A21202,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-A2
+645,Donkey anti RAT 488,¶ş¿¹,Invitrogen,A21208,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-A3
+645,Donkey anti GOAT 488,¶ş¿¹,Invitrogen,A11055,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-A4
+645,Donkey anti MOUSE 488,¶ş¿¹,Invitrogen,A21202,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-A5
+645,Donkey anti RABBIT 488,¶ş¿¹,Invitrogen,A21206,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-A6
+645,GOAT anti RAT 488,¶ş¿¹,Invitrogen,A11006,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-A7
+645,,,,,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-A8
+645,,,,,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-A9
+645,Donkey anti mouse 555,¶ş¿¹,Invitrogen,A31570,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-B1
+645,Donkey anti GOAT 555,¶ş¿¹,Invitrogen,A21432,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-B2
+645,Donkey anti MOUSE 555,¶ş¿¹,Invitrogen,A31570,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-B3
+645,Donkey anti RABBIT 555,¶ş¿¹,Invitrogen,A31572,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-B4
+645,"streptavidin, Alexa Fluor 555",¶ş¿¹,Invitrogen,S32355,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-B5
+645,"streptavidin, ARODAMINE RED CONJUGATED",¶ş¿¹,Invitrogen,S6366,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-B6
+645,Cy3 GOAT ANTI RAT,¶ş¿¹,Invitrogen,A10522,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-B7
+645,,,,,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-B8
+645,,,,,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-B9
+645,Donkey anti mouse 647,¶ş¿¹,Invitrogen,A31571,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-C1
+645,Donkey anti RABBIT 647,¶ş¿¹,Invitrogen,A31573,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-C2
+645,"RODAMINE PHALLOIDIN,F-ACTIN",¶ş¿¹,Invitrogen,R415,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-C3
+645,MITOTRACKER GREEN,¶ş¿¹,Invitrogen,M7514,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-C4
+645,ER TRACKER BLUE-WHITE DPX,¶ş¿¹,Invitrogen,E12353,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-C5
+645,MITOTRACKER RED CMX ROS,¶ş¿¹,Invitrogen,M7512,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-C6
+645,HOCHEST,¶ş¿¹,,33342,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-C7
+645,BARDOXOLONE METHYL,¶ş¿¹,Selleckchem.Com,S8078,,,,,,,,,,,,,Box12ÎªÓ«¹â¶ş¿¹ £¨Õâ¸öºĞ×ÓµÄ¿¹Ìå²»ÑÏ¸ñ°´Ë³ĞòÅÅÁĞ£©,,,Box12-C8
