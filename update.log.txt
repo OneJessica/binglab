@@ -14,3 +14,7 @@ Box3-E1新增抗体重组Anti-ELK1抗体
 Box3-E2新增抗体Anti-ELK1 (phospho S383)抗体
 2025.6.25更新：
 Box3-E3新增抗体 versican antibody
+2026.2.27更新：
+Box3-E4新增抗体 anti-GAA antibody
+Box7-D3新增抗体 collegen mAB
+Box7-D4新增抗体 emerin
