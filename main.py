@@ -14,7 +14,7 @@ def read_update_log():
         return '\n'.join(text)
 
 @st.cache_data
-def get_data(file = 'binglab_antibody.v0.0.8.csv'):
+def get_data(file = '2025-06-25T09-07_export.csv'):
     antibody_df= pd.read_csv(file,encoding='latin1',index_col=0)
     return antibody_df
     
