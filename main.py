@@ -52,7 +52,7 @@ with tab1:
     with st.expander('抗体详情'):
         st.dataframe(name_df)
 with tab2:
-    data_new=st.data_editor(st.session_state['df'],num_rows=num_row)
+    data_new=st.data_editor(st.session_state['df'],)
     # st.dataframe(data_new.compare(antibody_df))
     st.subheader('修改情况')
     st.info(read_update_log())
