@@ -13,14 +13,14 @@ def read_update_log():
         text = f.readlines()
         return '\n'.join(text)
 
-
+@st.cache_data
 def get_data(file = 'binglab_antibody.v0.0.8.csv'):
     antibody_df= pd.read_csv(file,encoding='latin1',index_col=0)
     return antibody_df
     
 st.header('Antibody')
-filename =st.selectbox('Check file',glob('*.csv'),)
-antibody_df = get_data(filename,)
+# filename =st.selectbox('Check file',glob('*.csv'),)
+antibody_df = get_data()
 # from pandas.testing import assert_frame_equal
 # @st.cache_data
 
