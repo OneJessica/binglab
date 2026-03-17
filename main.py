@@ -14,11 +14,11 @@ def read_update_log():
         return '\n'.join(text)
 # from pandas.testing import assert_frame_equal
 @st.cache_data
-def get_data(file = '2025-06-25T09-07_export（old）.csv'):
+def get_data(file = 'binglab_antibody.v0.0.8.csv'):
     antibody_df= pd.read_csv(file,index_col=0)
     return antibody_df
 st.header('Antibody')
-filename =st.multiselect('Check file',glob('*.csv'),default='binglab_antibody.v0.0.8.csv')
+filename =st.selectbox('Check file',glob('*.csv'),)
 antibody_df = get_data(filename,)
 num_row = st.sidebar.selectbox(label='编辑',options=('fixed','dynamic'))
 tab1,tab2,tab3 = st.tabs(['🔍查询','📕抗体详情','统计'])
