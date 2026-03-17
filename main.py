@@ -29,7 +29,9 @@ if 'df' not in st.session_state:
 
 
 
-num_row = st.sidebar.selectbox(label='编辑',options=('fixed','dynamic'))
+num_row = st.sidebar.selectbox(label='编辑',options=('fixed',
+st.sidebar.header('Update log')                                                   
+st.sidebar.markdown(read_update_log())
 tab1,tab2,tab3 = st.tabs(['🔍查询','📕抗体详情','统计'])
 with tab1:
     name = st.text_input('抗体名称')
