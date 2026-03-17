@@ -15,7 +15,7 @@ def read_update_log():
 # from pandas.testing import assert_frame_equal
 @st.cache_data
 def get_data():
-    antibody_df= pd.read_csv('2025-06-25T09-07_export.csv',index_col=0)
+    antibody_df= pd.read_csv('2025-06-25T09-07_export（old）.csv',index_col=0)
     return antibody_df
 st.header('Antibody')
 antibody_df = get_data()
