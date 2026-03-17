@@ -12,14 +12,20 @@ def read_update_log():
     with open('update.log.txt',) as f:
         text = f.readlines()
         return '\n'.join(text)
-# from pandas.testing import assert_frame_equal
-@st.cache_data
-def get_data(file = 'binglab_antibody.v0.0.8.csv'):
-    antibody_df= pd.read_csv(file,encoding='latin1',index_col=0)
-    return antibody_df
 st.header('Antibody')
 filename =st.selectbox('Check file',glob('*.csv'),)
 antibody_df = get_data(filename,)
+# from pandas.testing import assert_frame_equal
+# @st.cache_data
+
+def get_data(file = 'binglab_antibody.v0.0.8.csv'):
+    antibody_df= pd.read_csv(file,encoding='latin1',index_col=0)
+    return antibody_df
+if 'df' not in st.session_state:
+    st.session_state['df'] = antibody_df
+
+
+
 num_row = st.sidebar.selectbox(label='编辑',options=('fixed','dynamic'))
 tab1,tab2,tab3 = st.tabs(['🔍查询','📕抗体详情','统计'])
 with tab1:
@@ -28,7 +34,7 @@ with tab1:
         st.info('enter')
         st.stop()
     # st.dataframe(antibody_df[antibody_df.apply(lambda x:True if name.lower() in x.lower() else False,axis=1)])
-    name_df = antibody_df[antibody_df.name.map(lambda x: True if str(name).lower() in str(x).lower() else False)]
+    name_df = st.session_state['df'][st.session_state['df'].name.map(lambda x: True if str(name).lower() in str(x).lower() else False)]
 
     for i,row in name_df.iterrows():
         with st.expander(str(row['name'])):
@@ -41,7 +47,7 @@ with tab1:
     with st.expander('抗体详情'):
         st.dataframe(name_df)
 with tab2:
-    data_new=st.data_editor(antibody_df,num_rows=num_row)
+    data_new=st.data_editor(st.session_state['df'],num_rows=num_row)
     # st.dataframe(data_new.compare(antibody_df))
     st.subheader('修改情况')
     st.info(read_update_log())
@@ -66,7 +72,7 @@ with tab2:
     #             st.error('密码错误～')
      
 with tab3:
-    st.dataframe(antibody_df.describe())
+    st.dataframe(st.session_state['df'].describe())
     for col in antibody_df.columns:
         if col not in ['name','catalog','lot']:
             st.header(col)
